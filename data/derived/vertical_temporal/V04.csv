@@ -1,0 +1,381 @@
+﻿well_id,municipality,hydro_unit,domain,layer_code,layer_name,depth_m,vertical_metadata_n,capture_interval_status
+3500065054,Dourados,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,600.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053084,Miranda,Grupo Cuiaba,Fraturada,V04,Condição hidráulica documentada,30.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027119,Caarapó,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026917,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,34.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027282,Chapadão do Sul,Formação Cachoeirinha,Granular,V04,Condição hidráulica documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045668,Corguinho,Formação Aquidauana,Granular,V04,Condição hidráulica documentada,90.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045682,Iguatemi,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,160.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053090,Maracaju,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,105.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065040,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,96.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065045,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,48.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065046,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,90.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065047,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,100.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065060,Ivinhema,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,100.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065072,Selvíria,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,96.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065009,Aral Moreira,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,130.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500068739,Ribas do Rio Pardo,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,74.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023356,Sete Quedas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023368,Caarapó,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045694,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,116.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023202,Anastácio,Formação Botucatu,Granular,V04,Condição hidráulica documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023355,Sete Quedas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023312,Inocência,Grupo Bauru,Granular,V04,Condição hidráulica documentada,115.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045646,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045662,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,200.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045700,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,78.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065096,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,23.65,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065031,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,65.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065039,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,560.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045691,Sidrolândia,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,120.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053083,Miranda,Grupo Cuiaba,Fraturada,V04,Condição hidráulica documentada,38.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053086,Miranda,Formação Pantanal,Granular,V04,Condição hidráulica documentada,40.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026918,Ivinhema,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,80.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027077,Caarapó,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045670,Batayporã,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045703,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,138.26,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045711,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,162.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065044,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,40.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065070,Rio Verde de Mato Grosso,Formação Ponta Grossa,Granular,V04,Condição hidráulica documentada,150.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065082,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,45.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023242,Figueirão,Formação Botucatu,Granular,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065013,Bataguassu,Depósitos aluvionares,Granular,V04,Condição hidráulica documentada,77.5,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065016,Bataguassu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,100.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065018,Bodoquena,Grupo Cuiaba,Fraturada,V04,Condição hidráulica documentada,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065068,Rio Brilhante,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,266.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500068743,Paranaíba,Grupo Bauru,Granular,V04,Condição hidráulica documentada,60.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500068742,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,76.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023386,Nova Andradina,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045692,Ponta Porã,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023143,Amambai,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,148.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023279,Bataguassu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,94.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023327,Chapadão do Sul,Formação Cachoeirinha,Granular,V04,Condição hidráulica documentada,145.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023357,Sete Quedas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023307,Inocência,Grupo Bauru,Granular,V04,Condição hidráulica documentada,216.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053094,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,215.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023250,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,160.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045663,Ivinhema,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,90.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023138,Amambai,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023358,Iguatemi,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,92.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023150,Amambai,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,140.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023136,Laguna Carapã,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023237,São Gabriel do Oeste,Formação Botucatu,Granular,V04,Condição hidráulica documentada,135.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023244,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,136.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023245,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,110.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023236,São Gabriel do Oeste,Grupo Bauru,Granular,V04,Condição hidráulica documentada,83.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023343,Nioaque,Formação Botucatu,Granular,V04,Condição hidráulica documentada,86.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023379,Glória de Dourados,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,82.2,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045606,Caarapó,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,722.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026837,Aparecida do Taboado,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,52.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500028111,Ribas do Rio Pardo,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,50.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500034022,Figueirão,Formação Botucatu,Granular,V04,Condição hidráulica documentada,60.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023276,Bataguassu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,110.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023285,Santa Rita do Pardo,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,122.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023330,Chapadão do Sul,Formação Cachoeirinha,Granular,V04,Condição hidráulica documentada,130.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023362,Japorã,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,103.5,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023363,Japorã,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,102.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023313,Aparecida do Taboado,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,105.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023316,Aparecida do Taboado,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,300.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023373,Naviraí,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,120.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023391,Terenos,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023248,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,156.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023183,Anaurilândia,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,103.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023298,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,118.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023371,Naviraí,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,102.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023154,Amambai,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,114.5,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023199,Dois Irmãos do Buriti,Formação Botucatu,Granular,V04,Condição hidráulica documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023212,Dois Irmãos do Buriti,Formação Botucatu,Granular,V04,Condição hidráulica documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023223,Corguinho,Formação Botucatu,Granular,V04,Condição hidráulica documentada,85.5,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026836,Ivinhema,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500028109,São Gabriel do Oeste,Formação Botucatu,Granular,V04,Condição hidráulica documentada,66.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500029180,Água Clara,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,58.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023188,Aquidauana,Formação Aquidauana,Granular,V04,Condição hidráulica documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023171,Angélica,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,96.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023225,Corguinho,Formação Botucatu,Granular,V04,Condição hidráulica documentada,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023262,Rio Brilhante,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023268,Rio Brilhante,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023271,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,57.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023331,Chapadão do Sul,Formação Cachoeirinha,Granular,V04,Condição hidráulica documentada,158.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023335,Costa Rica,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,90.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023382,Batayporã,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,112.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023266,Rio Brilhante,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,306.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045697,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,123.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045661,Batayporã,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,120.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027247,Sidrolândia,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,88.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023200,Anastácio,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023201,Dois Irmãos do Buriti,Formação Botucatu,Granular,V04,Condição hidráulica documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023206,Dois Irmãos do Buriti,Formação Botucatu,Granular,V04,Condição hidráulica documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023211,Terenos,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,152.5,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023226,São Gabriel do Oeste,Grupo Bauru,Granular,V04,Condição hidráulica documentada,115.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023273,Bataguassu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,100.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023378,Glória de Dourados,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026838,Camapuã,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023352,Paranhos,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,92.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023167,Antônio João,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,90.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023177,Ivinhema,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,112.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023263,Rio Brilhante,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,182.1,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023265,Rio Brilhante,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,102.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023305,Selvíria,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,96.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023308,Inocência,Grupo Bauru,Granular,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023333,Paraíso das Águas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,165.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023361,Sete Quedas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,155.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023364,Itaquiraí,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,135.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045678,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023286,Brasilândia,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,95.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023360,Iguatemi,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030633,Rio Verde de Mato Grosso,Formação Ponta Grossa,Granular,V04,Condição hidráulica documentada,150.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023203,Dois Irmãos do Buriti,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,90.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023169,Angélica,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,94.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023224,Corguinho,Formação Botucatu,Granular,V04,Condição hidráulica documentada,68.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023254,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023310,Inocência,Grupo Bauru,Granular,V04,Condição hidráulica documentada,145.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023385,Taquarussu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,114.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065091,Bandeirantes,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,85.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065095,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,120.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500028107,Nioaque,Formação Botucatu,Granular,V04,Condição hidráulica documentada,50.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023264,Dourados,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,70.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023267,Rio Brilhante,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,90.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023270,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,100.5,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023278,Bataguassu,Depósitos aluvionares,Granular,V04,Condição hidráulica documentada,94.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023353,Paranhos,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,90.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045665,Costa Rica,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023349,Tacuru,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,103.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045680,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,132.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023208,Dois Irmãos do Buriti,Formação Botucatu,Granular,V04,Condição hidráulica documentada,100.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026924,São Gabriel do Oeste,Grupo Bauru,Granular,V04,Condição hidráulica documentada,78.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023215,Rochedo,Formação Botucatu,Granular,V04,Condição hidráulica documentada,125.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023348,Jardim,Formação Botucatu,Granular,V04,Condição hidráulica documentada,93.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026922,São Gabriel do Oeste,Grupo Bauru,Granular,V04,Condição hidráulica documentada,26.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023281,Bataguassu,Depósitos aluvionares,Granular,V04,Condição hidráulica documentada,86.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023301,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,168.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023367,Caarapó,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026930,Caarapó,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,105.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027013,Caarapó,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,79.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045607,Angélica,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,120.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045683,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,91.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045687,Bataguassu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065049,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,59.5,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065073,Taquarussu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,64.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065076,Taquarussu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,114.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065077,Terenos,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,100.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065083,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,80.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065022,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,124.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065024,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,150.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065028,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,102.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023366,Juti,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,205.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023304,Selvíria,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,160.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023318,Aparecida do Taboado,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,121.5,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023326,Cassilândia,Grupo Bauru,Granular,V04,Condição hidráulica documentada,205.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045660,Miranda,Grupo Cuiaba,Fraturada,V04,Condição hidráulica documentada,40.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023284,Santa Rita do Pardo,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,153.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023295,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,101.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023196,Dois Irmãos do Buriti,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,132.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023319,Aparecida do Taboado,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,120.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045674,Rio Brilhante,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045679,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,195.5,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045684,Miranda,Formação Pantanal,Granular,V04,Condição hidráulica documentada,108.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045688,Terenos,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,110.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045706,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,122.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045712,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,116.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053079,Dourados,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,72.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053089,Caarapó,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,110.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065030,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,33.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065032,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,100.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065061,Ivinhema,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,130.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065065,Novo Horizonte do Sul,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,120.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065069,Rio Brilhante,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,110.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065074,Selvíria,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,30.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065056,Figueirão,Formação Botucatu,Granular,V04,Condição hidráulica documentada,139.4,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500064999,Água Clara,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065000,Água Clara,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,62.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065003,Água Clara,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,57.5,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065015,Bataguassu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,148.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065019,Bonito,Grupo Cuiaba,Cárstica,V04,Condição hidráulica documentada,82.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045698,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,120.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023347,Jardim,Formação Aquidauana,Granular,V04,Condição hidráulica documentada,166.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045702,Ivinhema,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,1100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023149,Amambai,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,114.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045704,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,166.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065035,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,34.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065037,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,26.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065042,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,164.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065052,Deodápolis,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,102.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065079,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,148.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065084,Vicentina,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,102.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065059,Itaporã,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,90.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026839,Coxim,Formação Furnas,Granular,V04,Condição hidráulica documentada,20.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065002,Água Clara,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,168.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065005,Antônio João,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,146.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065010,Aral Moreira,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,213.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065048,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,215.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023290,Brasilândia,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023293,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,92.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023258,Rio Brilhante,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,146.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023303,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,86.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045653,Alcinópolis,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,154.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023247,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023345,Jardim,Formação Aquidauana,Granular,V04,Condição hidráulica documentada,100.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045654,Rio Verde de Mato Grosso,Formação Furnas,Granular,V04,Condição hidráulica documentada,161.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045604,Caarapó,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,78.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045673,Ivinhema,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,60.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045708,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065034,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,30.74,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065041,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,299.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065050,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,66.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065051,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,140.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065080,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065088,Corguinho,Formação Botucatu,Granular,V04,Condição hidráulica documentada,100.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065004,Antônio João,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065008,Aparecida do Taboado,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,53.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065011,Bataguassu,Depósitos aluvionares,Granular,V04,Condição hidráulica documentada,94.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065012,Bataguassu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,155.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065020,Bonito,Grupo Cuiaba,Fraturada,V04,Condição hidráulica documentada,193.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500034020,Inocência,Grupo Bauru,Granular,V04,Condição hidráulica documentada,64.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065033,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,272.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500068740,Ribas do Rio Pardo,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,60.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023189,Aquidauana,Formação Aquidauana,Granular,V04,Condição hidráulica documentada,49.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023383,Taquarussu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,80.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027259,Caarapó,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023243,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,152.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023296,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,140.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023328,Chapadão do Sul,Formação Cachoeirinha,Granular,V04,Condição hidráulica documentada,138.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023359,Iguatemi,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,155.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023253,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,124.8,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023392,Nova Andradina,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023260,Rio Brilhante,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,267.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023380,Jateí,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,120.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026921,São Gabriel do Oeste,Grupo Bauru,Granular,V04,Condição hidráulica documentada,25.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023351,Paranhos,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023369,Caarapó,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,161.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023370,Caarapó,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023388,Paranaíba,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,90.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023168,Angélica,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,112.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023209,Terenos,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,102.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023232,São Gabriel do Oeste,Grupo Bauru,Granular,V04,Condição hidráulica documentada,125.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023323,Paranaíba,Grupo Bauru,Granular,V04,Condição hidráulica documentada,77.2,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023394,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,638.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023354,Sete Quedas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,594.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023341,Costa Rica,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,50.5,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023175,Angélica,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,350.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023207,Anastácio,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023302,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,86.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023376,Novo Horizonte do Sul,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,102.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023174,Angélica,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,97.7,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023251,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,160.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023338,Costa Rica,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,105.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023227,São Gabriel do Oeste,Grupo Bauru,Granular,V04,Condição hidráulica documentada,65.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023141,Amambai,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,105.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023186,Cassilândia,Grupo Bauru,Granular,V04,Condição hidráulica documentada,215.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023216,Jaraguari,Formação Botucatu,Granular,V04,Condição hidráulica documentada,75.5,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023272,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,160.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023337,Costa Rica,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,93.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045605,Caarapó,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,644.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045699,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,55.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065097,Camapuã,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,136.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065090,Antônio João,Formação Botucatu,Granular,V04,Condição hidráulica documentada,120.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500028108,Rochedo,Formação Botucatu,Granular,V04,Condição hidráulica documentada,66.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500029179,Brasilândia,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,58.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023257,Rio Brilhante,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,92.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023280,Bataguassu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,148.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023322,Paranaíba,Grupo Bauru,Granular,V04,Condição hidráulica documentada,180.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023332,Chapadão do Sul,Formação Cachoeirinha,Granular,V04,Condição hidráulica documentada,120.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023340,Costa Rica,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,119.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023153,Amambai,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,121.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023231,São Gabriel do Oeste,Grupo Bauru,Granular,V04,Condição hidráulica documentada,104.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023198,Dois Irmãos do Buriti,Formação Botucatu,Granular,V04,Condição hidráulica documentada,115.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023217,Jaraguari,Formação Botucatu,Granular,V04,Condição hidráulica documentada,109.1,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023229,São Gabriel do Oeste,Grupo Bauru,Granular,V04,Condição hidráulica documentada,100.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500028110,São Gabriel do Oeste,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,58.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023129,Laguna Carapã,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,81.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023259,Rio Brilhante,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,95.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023261,Rio Brilhante,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,54.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023277,Bataguassu,Depósitos aluvionares,Granular,V04,Condição hidráulica documentada,115.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023288,Brasilândia,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,109.15,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023294,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,94.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023374,Novo Horizonte do Sul,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,120.5,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023375,Novo Horizonte do Sul,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,115.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026920,São Gabriel do Oeste,Grupo Bauru,Granular,V04,Condição hidráulica documentada,32.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023274,Bataguassu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,110.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023346,Guia Lopes da Laguna,Formação Botucatu,Granular,V04,Condição hidráulica documentada,100.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045659,Três Lagoas,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,50.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023344,Nioaque,Formação Botucatu,Granular,V04,Condição hidráulica documentada,105.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023139,Amambai,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,160.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023137,Amambai,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023219,Rochedo,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023246,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,184.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023315,Aparecida do Taboado,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023320,Aparecida do Taboado,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,50.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026840,Iguatemi,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,62.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500029178,Santa Rita do Pardo,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,58.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023214,Rochedo,Formação Botucatu,Granular,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023289,Brasilândia,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,121.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023292,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,88.5,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023300,Três Lagoas,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,86.2,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023309,Inocência,Grupo Bauru,Granular,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023329,Chapadão do Sul,Formação Cachoeirinha,Granular,V04,Condição hidráulica documentada,135.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023334,Costa Rica,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,50.7,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023372,Naviraí,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,121.3,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023377,Glória de Dourados,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,72.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023381,Ivinhema,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,128.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023228,São Gabriel do Oeste,Grupo Bauru,Granular,V04,Condição hidráulica documentada,45.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026923,São Gabriel do Oeste,Grupo Bauru,Granular,V04,Condição hidráulica documentada,42.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023269,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023282,Santa Rita do Pardo,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023291,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,82.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023297,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,174.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023339,Costa Rica,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,65.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045658,Bataguassu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,71.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045667,Maracaju,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045690,Maracaju,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,132.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045713,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,149.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065043,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,507.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065029,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,126.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065036,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,162.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065053,Dourados,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,360.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065066,Ponta Porã,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065067,Ponta Porã,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,103.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065075,Taquarussu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,80.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065078,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,85.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065081,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,150.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065085,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,115.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065086,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,195.5,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065058,Figueirão,Formação Botucatu,Granular,V04,Condição hidráulica documentada,200.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065064,Maracaju,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,220.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065025,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,160.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065017,Bodoquena,Grupo Cuiaba,Fraturada,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065026,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,89.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500034023,Nova Andradina,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,61.4,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500068745,Paraíso das Águas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,53.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500068741,Naviraí,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,66.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023182,Anaurilândia,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023321,Paranaíba,Grupo Bauru,Granular,V04,Condição hidráulica documentada,180.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045672,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,80.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023317,Aparecida do Taboado,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,105.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045648,Ivinhema,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,1300.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023166,Antônio João,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,185.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023240,Figueirão,Formação Botucatu,Granular,V04,Condição hidráulica documentada,158.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023387,Nova Andradina,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,152.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023275,Bataguassu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,130.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023384,Taquarussu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,74.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053085,Miranda,Grupo Cuiaba,Fraturada,V04,Condição hidráulica documentada,30.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023287,Brasilândia,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,126.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045603,Itaporã,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,110.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045608,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,130.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045675,Rio Brilhante,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045693,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,132.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045705,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,111.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045707,Três Lagoas,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,146.84,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065038,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,30.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065055,Fátima do Sul,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,115.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065062,Japorã,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,126.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065071,Rio Verde de Mato Grosso,Formação Furnas,Granular,V04,Condição hidráulica documentada,160.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065057,Figueirão,Formação Botucatu,Granular,V04,Condição hidráulica documentada,150.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065089,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,195.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065023,Camapuã,Formação Botucatu,Granular,V04,Condição hidráulica documentada,170.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065001,Água Clara,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,54.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065006,Antônio João,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065014,Bataguassu,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,110.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065021,Caarapó,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,667.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065027,Campo Grande,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,25.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023256,Ribas do Rio Pardo,Formação Serra Geral,Fraturada,V04,Condição hidráulica documentada,136.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023393,Naviraí,Grupo Caiuá,Granular,V04,Condição hidráulica documentada,128.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO

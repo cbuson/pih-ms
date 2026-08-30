@@ -1,0 +1,207 @@
+{
+  "dataset": "Mapa hidrogeológico do estado de Mato Grosso do Sul",
+  "producer": "Serviço Geológico do Brasil SGB",
+  "year": 2024,
+  "scale": "1:1.000.000",
+  "source_crs": "EPSG:4674 SIRGAS 2000",
+  "web_crs": "EPSG:4326",
+  "renderer_field": "CLS_STYLE",
+  "feature_count": 444,
+  "unit_count": 16,
+  "styles": {
+    "(4) Fr": {
+      "type": "color",
+      "color": "#98e655",
+      "qgis_symbol": "9"
+    },
+    "(5) Fr": {
+      "type": "color",
+      "color": "#e0ffab",
+      "qgis_symbol": "13"
+    },
+    "(6) Fr": {
+      "type": "color",
+      "color": "#a87000",
+      "qgis_symbol": "17"
+    },
+    "(4) K": {
+      "type": "pattern",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAABQCAYAAABPlrgBAAAACXBIWXMAABJ0AAASdAHeZh94AAABBUlEQVR4nO3awQnCUBBF0USswF5swhpTh03Yiy3oWrwbgx/y4ZwCZvFgHrOYddu218KH8+V2HTL4eX8ss84+DZk8OaEEoYRV0X77qWhnLM89c61PEEoQSlC0wUUbs61PEEoQSlC0wUUbrE8QShBKULTBRRuzrU8QShBKULThEBftyOLcM9/6BKEEoQRFG1y0Mdv6BKEEoQRFG1y0wfoEoQShBEUbXLQx2/oEoQShBEUbDnHRjpzt6+BPhBKEEhRtcNHGbOsThBKEEhRtcNEG6xOEEoQSFG1w0cZs6xOEEoQSFG04xEXr62ACQglCCYo2uGhjtvUJQglCCYo2uGiD9QlCCUIJbzZmwmmEB9bIAAAAAElFTkSuQmCC",
+      "fallback": "#d9d9d9",
+      "qgis_symbol": "45"
+    },
+    "(3) Gr": {
+      "type": "color",
+      "color": "#add0f7",
+      "qgis_symbol": "77"
+    },
+    "(4) Gr": {
+      "type": "color",
+      "color": "#c3e5f7",
+      "qgis_symbol": "81"
+    },
+    "(5) Gr": {
+      "type": "color",
+      "color": "#e0f4ff",
+      "qgis_symbol": "85"
+    },
+    "(6) Gr": {
+      "type": "color",
+      "color": "#a87000",
+      "qgis_symbol": "89"
+    }
+  },
+  "units": [
+    {
+      "name": "Depósitos aluvionares",
+      "siglas": [
+        "Q2a"
+      ],
+      "styles": [
+        "(4) Gr"
+      ]
+    },
+    {
+      "name": "Embasamento Indiferenciado",
+      "siglas": [
+        "Fr"
+      ],
+      "styles": [
+        "(4) Fr",
+        "(5) Fr",
+        "(6) Fr"
+      ]
+    },
+    {
+      "name": "Formação Aquidauana",
+      "siglas": [
+        "C2P1a"
+      ],
+      "styles": [
+        "(4) Gr",
+        "(5) Gr"
+      ]
+    },
+    {
+      "name": "Formação Botucatu",
+      "siglas": [
+        "J3K1bt"
+      ],
+      "styles": [
+        "(3) Gr",
+        "(4) Gr"
+      ]
+    },
+    {
+      "name": "Formação Cachoeirinha",
+      "siglas": [
+        "ENch"
+      ],
+      "styles": [
+        "(5) Gr"
+      ]
+    },
+    {
+      "name": "Formação Furnas",
+      "siglas": [
+        "D1f"
+      ],
+      "styles": [
+        "(3) Gr"
+      ]
+    },
+    {
+      "name": "Formação Palermo",
+      "siglas": [
+        "P1p"
+      ],
+      "styles": [
+        "(6) Gr"
+      ]
+    },
+    {
+      "name": "Formação Pantanal",
+      "siglas": [
+        "Q1p"
+      ],
+      "styles": [
+        "(5) Gr"
+      ]
+    },
+    {
+      "name": "Formação Ponta Grossa",
+      "siglas": [
+        "Dpg"
+      ],
+      "styles": [
+        "(6) Gr"
+      ]
+    },
+    {
+      "name": "Formação Serra Geral",
+      "siglas": [
+        "K1_beta_sg"
+      ],
+      "styles": [
+        "(4) Fr"
+      ]
+    },
+    {
+      "name": "Formação Xaraiés",
+      "siglas": [
+        "Q2x"
+      ],
+      "styles": [
+        "(4) K"
+      ]
+    },
+    {
+      "name": "Grupo Bauru",
+      "siglas": [
+        "K2b"
+      ],
+      "styles": [
+        "(4) Gr"
+      ]
+    },
+    {
+      "name": "Grupo Caiuá",
+      "siglas": [
+        "K2c"
+      ],
+      "styles": [
+        "(3) Gr",
+        "(4) Gr",
+        "(5) Gr"
+      ]
+    },
+    {
+      "name": "Grupo Corumbá",
+      "siglas": [
+        "NP3co"
+      ],
+      "styles": [
+        "(4) K"
+      ]
+    },
+    {
+      "name": "Grupo Cuiaba",
+      "siglas": [
+        "NPcu"
+      ],
+      "styles": [
+        "(5) Fr"
+      ]
+    },
+    {
+      "name": "Grupo Rio Ivaí",
+      "siglas": [
+        "O3S1rv"
+      ],
+      "styles": [
+        "(6) Gr"
+      ]
+    }
+  ],
+  "note": "Estilos extraídos do projeto QGIS oficial contido no pacote SIG do SGB. RasterFill é preservado como padrão de imagem quando suportado pelo visor."
+}

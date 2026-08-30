@@ -1,0 +1,10 @@
+{
+  "version": "0.7",
+  "generated": "2026-08-29",
+  "well_details_records": 3877,
+  "current_siagas_records": 3877,
+  "historical_sgb2024_records": 2194,
+  "representative_wells": 23,
+  "audit_source": "PIH_MS_SIAGAS_AUDIT_V1",
+  "principle": "Source records remain separate. Historical values do not overwrite current values."
+}

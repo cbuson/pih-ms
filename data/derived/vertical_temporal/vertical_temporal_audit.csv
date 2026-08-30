@@ -1,0 +1,5 @@
+﻿check,result,status,note
+CURRENT_SIAGAS_RIMAS_STATUS,22,VERIFIED_FROM_ORIGINAL_GEOJSON,22 registros possuem status_rimas = Rimas no snapshot atual. O campo rimas_flag_current do wells_master V1 estava incorreto e não foi reutilizado.
+DATED_LEVEL_MEASUREMENTS_SGB2024,20,VERIFIED,data_medic associada a nivel_agua. Uma medição não constitui série temporal.
+EXPLICIT_FILTER_SCREEN_INTERVALS,0,NOT_ACQUIRED,Não foi adquirida tabela relacional de filtros ou telas. Representatividade do intervalo captado permanece UNKNOWN.
+DEMONSTRATED_TIME_SERIES,0,NOT_ACQUIRED,O conjunto atual não contém séries completas da mesma variável por poço. Cadastro RIMAS não foi convertido em série observacional.

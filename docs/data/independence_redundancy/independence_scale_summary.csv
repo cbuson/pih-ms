@@ -1,0 +1,6 @@
+﻿scale_km2,cells_n,occupied_cells_n,empty_cells_n,median_wells_occupied,median_source_overlap_pct_occupied,median_coordinate_compression_pct_occupied,median_review_all_reduction_pct_occupied,median_documentary_domains_occupied,median_zero_domains_pct_occupied,median_fourplus_domains_pct_occupied,median_nn_lt_500m_pct_occupied,cells_with_duplicate_candidates_n,cells_with_exact_colocation_n
+100,3763,774,2989,2.0,57.142857142857146,0.0,0.0,4.0,0.0,66.66666666666667,0.0,27,18
+150,2525,657,1868,2.0,60.0,0.0,0.0,4.0,0.0,66.66666666666667,0.0,25,17
+250,1537,523,1014,3.0,64.28571428571429,0.0,0.0,4.0,0.0,66.66666666666667,0.0,25,18
+500,791,354,437,3.0,63.92255005268704,0.0,0.0,4.0,0.0,65.59139784946237,0.0,25,18
+1000,413,240,173,6.0,60.0,0.0,0.0,4.0,1.5565134099616857,66.66666666666667,33.333333333333336,22,16

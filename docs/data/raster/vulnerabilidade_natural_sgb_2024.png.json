@@ -1,0 +1,20 @@
+{
+  "source": "RASTER/Vulnerabilidade_Natural.tif",
+  "crs": "EPSG:4674",
+  "bounds_wgs84_approx": [
+    -24.069301603666588,
+    -58.16981971799993,
+    -17.165968297946588,
+    -50.91981974699993
+  ],
+  "source_size": [
+    8700,
+    8284
+  ],
+  "web_size": [
+    1800,
+    1713
+  ],
+  "nodata": 0.0,
+  "note": "PNG derivado exclusivamente para visualização web. O GeoTIFF original permanece na fonte SGB 2024 congelada."
+}

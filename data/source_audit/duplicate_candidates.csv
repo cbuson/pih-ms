@@ -1,0 +1,30 @@
+﻿well_id_a,well_id_b,distance_m,rule_score,candidate_level,evidence,action
+3500022510,3500045166,0.111,7,MEDIUM,mesmo aquífero informado | mesmo município | profundidade difere ≤1 m | mesma data de perfuração,REVISÃO MANUAL; não eliminar automaticamente
+3500022553,3500023051,0.0,7,MEDIUM,coordenadas idênticas | mesmo município | profundidade difere ≤1 m,REVISÃO MANUAL; não eliminar automaticamente
+3500022612,3500023006,0.0,7,MEDIUM,coordenadas idênticas | mesmo aquífero informado | mesmo município,REVISÃO MANUAL; não eliminar automaticamente
+3500022722,3500023030,0.0,7,MEDIUM,coordenadas idênticas | mesmo aquífero informado | mesmo município,REVISÃO MANUAL; não eliminar automaticamente
+3500022779,3500022784,0.0,5,MEDIUM,coordenadas idênticas | mesmo município,REVISÃO MANUAL; não eliminar automaticamente
+3500022802,3500027269,0.0,11,HIGH,coordenadas idênticas | mesmo aquífero informado | mesmo município | profundidade difere ≤1 m | mesma data de perfuração,REVISÃO MANUAL; não eliminar automaticamente
+3500022936,3500022938,0.0,9,HIGH,coordenadas idênticas | mesmo aquífero informado | mesmo município | profundidade difere ≤1 m,REVISÃO MANUAL; não eliminar automaticamente
+3500023019,3500073502,22.428,5,MEDIUM,mesmo aquífero informado | mesmo município | profundidade difere ≤1 m,REVISÃO MANUAL; não eliminar automaticamente
+3500023081,3500023083,0.0,7,MEDIUM,coordenadas idênticas | mesmo aquífero informado | mesmo município,REVISÃO MANUAL; não eliminar automaticamente
+3500023108,3500023374,0.0,7,MEDIUM,coordenadas idênticas | mesmo aquífero informado | mesmo município,REVISÃO MANUAL; não eliminar automaticamente
+3500023109,3500023375,0.0,9,HIGH,coordenadas idênticas | mesmo aquífero informado | mesmo município | mesma data de perfuração,REVISÃO MANUAL; não eliminar automaticamente
+3500023171,3500023172,0.0,7,MEDIUM,coordenadas idênticas | mesma localidade | mesmo município,REVISÃO MANUAL; não eliminar automaticamente
+3500023178,3500023179,0.0,7,MEDIUM,coordenadas idênticas | mesma localidade | mesmo município,REVISÃO MANUAL; não eliminar automaticamente
+3500023234,3500023235,0.0,8,HIGH,coordenadas idênticas | mesma localidade | mesmo uso | mesmo município,REVISÃO MANUAL; não eliminar automaticamente
+3500023237,3500023238,0.0,9,HIGH,coordenadas idênticas | mesma localidade | mesmo aquífero informado | mesmo município,REVISÃO MANUAL; não eliminar automaticamente
+3500023266,3500023267,0.0,8,HIGH,coordenadas idênticas | mesma localidade | mesmo uso | mesmo município,REVISÃO MANUAL; não eliminar automaticamente
+3500026976,3500026978,0.0,11,HIGH,coordenadas idênticas | mesmo nome | mesmo aquífero informado | mesmo uso | mesmo município,REVISÃO MANUAL; não eliminar automaticamente
+3500067319,3500067320,0.0,7,MEDIUM,coordenadas idênticas | mesma localidade | mesmo município,REVISÃO MANUAL; não eliminar automaticamente
+3500067321,3500067322,0.0,7,MEDIUM,coordenadas idênticas | mesmo aquífero informado | mesmo município,REVISÃO MANUAL; não eliminar automaticamente
+3500069734,3500072835,0.0,15,HIGH,coordenadas idênticas | mesmo nome | mesmo aquífero informado | mesmo uso | mesmo município | profundidade difere ≤1 m | mesma data de perfuração,REVISÃO MANUAL; não eliminar automaticamente
+3500069885,3500073324,12.011,8,HIGH,mesmo aquífero informado | mesmo uso | mesmo município | profundidade difere ≤1 m | mesma data de perfuração,REVISÃO MANUAL; não eliminar automaticamente
+3500070928,3500072379,0.0,14,HIGH,coordenadas idênticas | mesmo nome | mesmo aquífero informado | mesmo município | profundidade difere ≤1 m | mesma data de perfuração,REVISÃO MANUAL; não eliminar automaticamente
+3500070985,3500072163,2.596,9,HIGH,mesmo nome | mesmo uso | mesmo município | profundidade difere ≤1 m | mesma data de perfuração,REVISÃO MANUAL; não eliminar automaticamente
+3500071460,3500072557,12.351,6,MEDIUM,mesmo aquífero informado | mesmo uso | mesmo município | mesma data de perfuração,REVISÃO MANUAL; não eliminar automaticamente
+3500071633,3500073149,0.0,12,HIGH,coordenadas idênticas | mesmo nome | mesmo município | profundidade difere ≤1 m | mesma data de perfuração,REVISÃO MANUAL; não eliminar automaticamente
+3500071754,3500072404,0.104,6,MEDIUM,mesmo nome | mesmo município | profundidade difere ≤1 m,REVISÃO MANUAL; não eliminar automaticamente
+3500072882,3500073007,3.287,6,MEDIUM,mesma localidade | mesmo uso | mesmo município | profundidade difere ≤1 m,REVISÃO MANUAL; não eliminar automaticamente
+3500073093,3500073723,18.481,6,MEDIUM,mesmo aquífero informado | mesmo uso | mesmo município | mesma data de perfuração,REVISÃO MANUAL; não eliminar automaticamente
+3500073767,3500073768,20.595,7,MEDIUM,mesma localidade | mesmo aquífero informado | mesmo município | profundidade difere ≤1 m,REVISÃO MANUAL; não eliminar automaticamente

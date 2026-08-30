@@ -1,0 +1,11 @@
+﻿code,name,unit_of_analysis,fields,definition,limitation
+IR01,Sobreposição de snapshots,Poço,source_snapshot_overlap,Poço presente simultaneamente no snapshot atual e no SGB 2024.,Mesmo ID em duas bases não é duas observações independentes.
+IR02,Coordenada idêntica,Poço,exact_coordinate_colocation,ID em grupo com coordenadas exatamente repetidas.,Não prova duplicação física.
+IR03,Candidato a duplicação,Poço,duplicate_candidate_level,Par candidato identificado pela auditoria e mantido para revisão.,Nenhum poço é eliminado automaticamente.
+IR04,Proximidade espacial,Poço,nearest_neighbor_m,"Distância ao poço mais próximo e limiares 100 m, 500 m e 1 km.",Proximidade não prova redundância hidráulica.
+IR05,Diversidade documental,Poço,documentary_domains_n,"Número de domínios documentais presentes entre aquífero, vertical, nível, hidráulica e química.",Diversidade não é independência estatística.
+IR06,Eco entre fontes,Poço,specific_capacity_source_echo,Mesmo valor comparável de capacidade específica em snapshots distintos.,Coincidência documental não é réplica hidrogeológica.
+IR07,Compressão por coordenada,Célula,coordinate_compression_pct,Diferença entre IDs e grupos de coordenada idêntica na célula.,"Cenário de sensibilidade, não n corrigido."
+IR08,Compressão por revisão,Célula,review_all_reduction_pct,Redução sob união dos candidatos a duplicação para cenário máximo de revisão.,Não deve ser interpretada como tamanho amostral efetivo.
+IR09,Concentração local,Célula,nn_lt_500m_pct,Percentual de poços com outro poço a menos de 500 m.,"É descritor geométrico, não redundância hidrogeológica."
+IR10,Estrutura de registros,Célula,chem_sample_records_per_well | hydraulic_parameter_records_per_well,Relação entre registros e poços dentro da célula.,Vários analitos ou parâmetros não são réplicas equivalentes.

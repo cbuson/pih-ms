@@ -1,0 +1,20 @@
+{
+  "source": "RASTER/Relevo_sombreado.tif",
+  "crs": "EPSG:4674",
+  "bounds_wgs84_approx": [
+    -24.068749999999998,
+    -58.168749999999996,
+    -17.166249999999994,
+    -50.922083333333326
+  ],
+  "source_size": [
+    8696,
+    8283
+  ],
+  "web_size": [
+    1800,
+    1714
+  ],
+  "nodata": 255.0,
+  "note": "PNG derivado exclusivamente para visualização web. O GeoTIFF original permanece na fonte SGB 2024 congelada."
+}

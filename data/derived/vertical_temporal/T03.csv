@@ -1,0 +1,21 @@
+﻿well_id,municipality,hydro_unit,domain,layer_code,layer_name,latest_evidence_date,latest_evidence_age_years,dated_domains_n,time_series_status
+3500026837,Aparecida do Taboado,Grupo Caiuá,Granular,T03,Medição de nível datada,2023-03-13,3.463452363840462,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500028111,Ribas do Rio Pardo,Grupo Caiuá,Granular,T03,Medição de nível datada,2023-11-30,2.746120728009473,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500034022,Figueirão,Formação Botucatu,Granular,T03,Medição de nível datada,2023-12-01,2.7433828210024847,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500026836,Ivinhema,Grupo Caiuá,Granular,T03,Medição de nível datada,2023-11-27,2.7543344490304387,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500028109,São Gabriel do Oeste,Formação Botucatu,Granular,T03,Medição de nível datada,2023-12-01,2.7433828210024847,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500029180,Água Clara,Grupo Caiuá,Granular,T03,Medição de nível datada,2023-11-30,2.746120728009473,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500026838,Camapuã,Formação Serra Geral,Fraturada,T03,Medição de nível datada,2023-12-01,2.7433828210024847,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500028107,Nioaque,Formação Botucatu,Granular,T03,Medição de nível datada,2023-07-17,3.11847608095991,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500026926,Nova Andradina,Grupo Caiuá,Granular,T03,Medição de nível datada,2008-09-22,17.933290895774725,2,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500026927,Nova Andradina,Grupo Caiuá,Granular,T03,Medição de nível datada,2008-09-22,17.933290895774725,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500026839,Coxim,Formação Furnas,Granular,T03,Medição de nível datada,2020-09-12,5.960423554213981,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500034020,Inocência,Grupo Bauru,Granular,T03,Medição de nível datada,2023-12-04,2.735169099981519,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500028108,Rochedo,Formação Botucatu,Granular,T03,Medição de nível datada,2023-11-29,2.7488586350164614,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500029179,Brasilândia,Grupo Caiuá,Granular,T03,Medição de nível datada,2023-11-28,2.7515965420234503,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500028110,São Gabriel do Oeste,Formação Serra Geral,Fraturada,T03,Medição de nível datada,2023-12-01,2.7433828210024847,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500026840,Iguatemi,Grupo Caiuá,Granular,T03,Medição de nível datada,2022-11-25,3.759146320595221,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500029178,Santa Rita do Pardo,Grupo Caiuá,Granular,T03,Medição de nível datada,2023-11-28,2.7515965420234503,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500034023,Nova Andradina,Grupo Caiuá,Granular,T03,Medição de nível datada,2023-11-27,2.7543344490304387,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500045615,Ribas do Rio Pardo,Grupo Caiuá,Granular,T03,Medição de nível datada,2009-07-30,17.0818018166013,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA
+3500045603,Itaporã,Formação Serra Geral,Fraturada,T03,Medição de nível datada,2012-07-05,14.149503412116607,3,UNKNOWN_SERIE_TEMPORAL_NAO_ADQUIRIDA

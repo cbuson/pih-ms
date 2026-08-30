@@ -1,0 +1,622 @@
+{
+  "version": "1.0",
+  "method_version": "PIH_MS_V2.2_CHE_V1",
+  "no_overall_score": true,
+  "unknown_is_not_zero": true,
+  "default_metric": "n_wells",
+  "metrics": {
+    "n_wells": {
+      "label": "Poços canônicos por célula",
+      "palette": [
+        "#F7FBFF",
+        "#C6DBEF",
+        "#6BAED6",
+        "#2171B5",
+        "#08306B"
+      ]
+    },
+    "spatial_gap_E01_p90_km": {
+      "label": "Lacuna espacial E01 P90, km",
+      "palette": [
+        "#F7FCF5",
+        "#C7E9C0",
+        "#74C476",
+        "#238B45",
+        "#00441B"
+      ]
+    },
+    "spatial_coordinate_review_pct": {
+      "label": "Coordenadas em revisão, %",
+      "palette": [
+        "#FFF7EC",
+        "#FDD49E",
+        "#FC8D59",
+        "#D7301F",
+        "#7F0000"
+      ]
+    },
+    "hydrostrat_review_pct": {
+      "label": "Revisão hidroestratigráfica, %",
+      "palette": [
+        "#FFF7EC",
+        "#FDD49E",
+        "#FC8D59",
+        "#D7301F",
+        "#7F0000"
+      ]
+    },
+    "vertical_depth_positive_pct": {
+      "label": "Profundidade positiva documentada, %",
+      "palette": [
+        "#F7FCFD",
+        "#CCECE6",
+        "#66C2A4",
+        "#238B45",
+        "#00441B"
+      ]
+    },
+    "hydraulic_test_minimum_metadata_pct": {
+      "label": "Ensaio com metadados mínimos, %",
+      "palette": [
+        "#F7FCFD",
+        "#CCECE6",
+        "#66C2A4",
+        "#238B45",
+        "#00441B"
+      ]
+    },
+    "hydrochemical_partial_evidence_pct": {
+      "label": "Evidência hidroquímica parcial, %",
+      "palette": [
+        "#FCFBFD",
+        "#DADAEB",
+        "#9E9AC8",
+        "#6A51A3",
+        "#3F007D"
+      ]
+    },
+    "temporal_any_dated_pct": {
+      "label": "Evidência datada, %",
+      "palette": [
+        "#FCFBFD",
+        "#DADAEB",
+        "#9E9AC8",
+        "#6A51A3",
+        "#3F007D"
+      ]
+    },
+    "independence_duplicate_candidate_pct": {
+      "label": "Candidatos a duplicidade, %",
+      "palette": [
+        "#FFF7EC",
+        "#FDD49E",
+        "#FC8D59",
+        "#D7301F",
+        "#7F0000"
+      ]
+    },
+    "documentary_flagged_wells_pct": {
+      "label": "Poços com alertas documentais, %",
+      "palette": [
+        "#FFF7EC",
+        "#FDD49E",
+        "#FC8D59",
+        "#D7301F",
+        "#7F0000"
+      ]
+    }
+  },
+  "interpretation_note": "As paletas representam magnitude da métrica selecionada. Não representam potencial aquífero, qualidade total ou prioridade.",
+  "scales": {
+    "100": {
+      "n_wells": {
+        "min": 1.0,
+        "max": 147.0,
+        "quantiles": [
+          1.0,
+          1.0,
+          2.0,
+          5.0
+        ]
+      },
+      "spatial_gap_E01_p90_km": {
+        "min": 0.7087903064174149,
+        "max": 10.855773473731132,
+        "quantiles": [
+          4.035456137736811,
+          5.274540227459068,
+          6.269186401348344,
+          7.505911729466758
+        ]
+      },
+      "spatial_coordinate_review_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "hydrostrat_review_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          83.33333333333333
+        ]
+      },
+      "vertical_depth_positive_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          66.66666666666667,
+          100.0,
+          100.0,
+          100.0
+        ]
+      },
+      "hydraulic_test_minimum_metadata_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          50.0
+        ]
+      },
+      "hydrochemical_partial_evidence_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          37.5,
+          70.0,
+          100.0
+        ]
+      },
+      "temporal_any_dated_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          33.333333333333336,
+          76.18823529411769
+        ]
+      },
+      "independence_duplicate_candidate_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "documentary_flagged_wells_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          48.6206896551725,
+          75.60606060606057,
+          100.0
+        ]
+      }
+    },
+    "150": {
+      "n_wells": {
+        "min": 1.0,
+        "max": 181.0,
+        "quantiles": [
+          1.0,
+          2.0,
+          3.0,
+          6.0
+        ]
+      },
+      "spatial_gap_E01_p90_km": {
+        "min": 1.582013407841946,
+        "max": 11.969476480819337,
+        "quantiles": [
+          5.178725354128973,
+          6.431660660428354,
+          7.657072328767803,
+          9.143312389410461
+        ]
+      },
+      "spatial_coordinate_review_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "hydrostrat_review_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          11.400966183574862,
+          85.2380952380954
+        ]
+      },
+      "vertical_depth_positive_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          66.66666666666667,
+          100.0,
+          100.0,
+          100.0
+        ]
+      },
+      "hydraulic_test_minimum_metadata_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          3.333333333333144,
+          50.0
+        ]
+      },
+      "hydrochemical_partial_evidence_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          33.333333333333336,
+          66.66666666666667,
+          100.0
+        ]
+      },
+      "temporal_any_dated_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          40.0,
+          75.0
+        ]
+      },
+      "independence_duplicate_candidate_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "documentary_flagged_wells_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          44.666666666666686,
+          75.0,
+          100.0
+        ]
+      }
+    },
+    "250": {
+      "n_wells": {
+        "min": 1.0,
+        "max": 316.0,
+        "quantiles": [
+          1.0,
+          2.0,
+          4.0,
+          9.0
+        ]
+      },
+      "spatial_gap_E01_p90_km": {
+        "min": 0.3164205832054779,
+        "max": 16.13188119999205,
+        "quantiles": [
+          6.372800597532215,
+          7.959201814344193,
+          9.58317316218405,
+          11.468146714024343
+        ]
+      },
+      "spatial_coordinate_review_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "hydrostrat_review_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          20.860832137733127,
+          77.6470588235295
+        ]
+      },
+      "vertical_depth_positive_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          66.66666666666667,
+          100.0,
+          100.0,
+          100.0
+        ]
+      },
+      "hydraulic_test_minimum_metadata_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          14.851851851851851,
+          50.0
+        ]
+      },
+      "hydrochemical_partial_evidence_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          40.0,
+          62.66666666666666,
+          100.0
+        ]
+      },
+      "temporal_any_dated_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          41.904761904761884,
+          75.0
+        ]
+      },
+      "independence_duplicate_candidate_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "documentary_flagged_wells_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          50.0,
+          75.0,
+          100.0
+        ]
+      }
+    },
+    "500": {
+      "n_wells": {
+        "min": 1.0,
+        "max": 391.0,
+        "quantiles": [
+          1.0,
+          3.0,
+          5.0,
+          13.0
+        ]
+      },
+      "spatial_gap_E01_p90_km": {
+        "min": 2.666409285400152,
+        "max": 22.367541281310075,
+        "quantiles": [
+          7.932255137709073,
+          10.238272818170156,
+          12.110234395562763,
+          15.25066420394739
+        ]
+      },
+      "spatial_coordinate_review_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "hydrostrat_review_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          25.0,
+          71.42857142857143
+        ]
+      },
+      "vertical_depth_positive_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          71.42857142857143,
+          96.68207498715975,
+          100.0,
+          100.0
+        ]
+      },
+      "hydraulic_test_minimum_metadata_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          25.0,
+          50.0
+        ]
+      },
+      "hydrochemical_partial_evidence_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          46.66666666666666,
+          59.437340153452666,
+          100.0
+        ]
+      },
+      "temporal_any_dated_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          15.550935550935565,
+          50.0,
+          69.68660968660973
+        ]
+      },
+      "independence_duplicate_candidate_pct": {
+        "min": 0.0,
+        "max": 36.36363636363637,
+        "quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "documentary_flagged_wells_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          12.571428571428608,
+          50.0,
+          70.0,
+          100.0
+        ]
+      }
+    },
+    "1000": {
+      "n_wells": {
+        "min": 1.0,
+        "max": 474.0,
+        "quantiles": [
+          2.0,
+          3.0,
+          10.0,
+          23.0
+        ]
+      },
+      "spatial_gap_E01_p90_km": {
+        "min": 3.821948141140812,
+        "max": 31.179642004996523,
+        "quantiles": [
+          9.773887961190221,
+          12.618865168053256,
+          15.562558226058806,
+          19.3451299078413
+        ]
+      },
+      "spatial_coordinate_review_pct": {
+        "min": 0.0,
+        "max": 90.0,
+        "quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "hydrostrat_review_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          6.8438818565400865,
+          33.333333333333336,
+          70.64935064935067
+        ]
+      },
+      "vertical_depth_positive_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          72.72727272727273,
+          94.31372549019608,
+          100.0,
+          100.0
+        ]
+      },
+      "hydraulic_test_minimum_metadata_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          7.171717171717177,
+          27.398119122257057,
+          50.0
+        ]
+      },
+      "hydrochemical_partial_evidence_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          25.0,
+          46.15384615384615,
+          61.11111111111112,
+          88.46153846153854
+        ]
+      },
+      "temporal_any_dated_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          27.272727272727277,
+          48.51948051948052,
+          67.01754385964915
+        ]
+      },
+      "independence_duplicate_candidate_pct": {
+        "min": 0.0,
+        "max": 33.333333333333336,
+        "quantiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "documentary_flagged_wells_pct": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          22.53561253561255,
+          50.0,
+          66.66666666666667,
+          85.71428571428571
+        ]
+      }
+    }
+  }
+}

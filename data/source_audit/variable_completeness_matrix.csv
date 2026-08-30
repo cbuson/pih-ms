@@ -1,0 +1,15 @@
+﻿code,variable,source_dataset,source_field,records_total,records_populated,completeness_pct,zero_count,invalid_objective_count,hydrogeological_use,PIH_status
+A01,Profundidade,SIAGAS_MS_20260814,num_profundidade,3877,3414,88.06,0,0,cobertura vertical básica,AUDIT_ONLY_NO_SCORE
+A02,Aquífero informado,SIAGAS_MS_20260814,str_aquifero,3877,3097,79.88,0,0,atribuição hidrogeológica declarada,AUDIT_ONLY_NO_SCORE
+A03,Nível estático,SIAGAS_MS_20260814,ne,3877,3213,82.87,33,0,evidência de nível,AUDIT_ONLY_NO_SCORE
+A04,Nível dinâmico,SIAGAS_MS_20260814,nd,3877,3180,82.02,1,0,evidência sob bombeamento,AUDIT_ONLY_NO_SCORE
+A05,Vazão específica,SIAGAS_MS_20260814,num_vazao_especifica,3877,3054,78.77,1,3,resposta hidráulica,AUDIT_ONLY_NO_SCORE
+A06,pH,SIAGAS_MS_20260814,num_ph,3877,2017,52.02,0,0,hidroquímica,AUDIT_ONLY_NO_SCORE
+A07,Condutividade elétrica,SIAGAS_MS_20260814,num_condutividade_eletrica,3877,1329,34.28,0,0,hidroquímica,AUDIT_ONLY_NO_SCORE
+A08,Parâmetro químico,SIAGAS_MS_20260814,str_parametro_amostra_quimica,3877,1496,38.59,0,0,hidroquímica parcial,AUDIT_ONLY_NO_SCORE
+A09,Data de perfuração,SIAGAS_MS_20260814,data_perfuracao,3877,3381,87.21,0,0,temporalidade do cadastro,AUDIT_ONLY_NO_SCORE
+H01,Tipo de ensaio,SGB_HIDRO_MS_2024_POCOS,tipo_teste,2194,1106,50.41,0,0,metadado de ensaio hidráulico,AUDIT_ONLY_NO_SCORE
+H02,Data do ensaio,SGB_HIDRO_MS_2024_POCOS,data_teste,2194,1581,72.06,0,0,temporalidade do ensaio,AUDIT_ONLY_NO_SCORE
+H03,Método interpretativo,SGB_HIDRO_MS_2024_POCOS,metodo_int,2194,2,0.09,0,0,qualidade interpretativa,AUDIT_ONLY_NO_SCORE
+H04,Transmissividade,SGB_HIDRO_MS_2024_POCOS,transmissi,2194,51,2.32,1,0,parâmetro hidráulico,AUDIT_ONLY_NO_SCORE
+H05,Profundidade enriquecida,SGB_HIDRO_MS_2024_POCOS,profundi_1,2194,2194,100.0,465,0,cobertura vertical histórica,AUDIT_ONLY_NO_SCORE

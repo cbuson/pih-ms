@@ -1,0 +1,800 @@
+{
+  "metrics": {
+    "V02_formation_pct_of_wells": {
+      "label": "Formação documentada entre os poços",
+      "unit": "%",
+      "family": "vertical"
+    },
+    "V03_penetration_pct_of_wells": {
+      "label": "Tipo de penetração documentado",
+      "unit": "%",
+      "family": "vertical"
+    },
+    "V04_hydraulic_condition_pct_of_wells": {
+      "label": "Condição hidráulica documentada",
+      "unit": "%",
+      "family": "vertical"
+    },
+    "V05_capture_type_pct_of_wells": {
+      "label": "Tipo de captação documentado",
+      "unit": "%",
+      "family": "vertical"
+    },
+    "V06_top_base_raw_pct_of_wells": {
+      "label": "Topo e base brutos coerentes",
+      "unit": "%",
+      "family": "vertical"
+    },
+    "V07_diameter_pct_of_wells": {
+      "label": "Diâmetro documentado",
+      "unit": "%",
+      "family": "vertical"
+    },
+    "T01_test_dated_pct_of_wells": {
+      "label": "Ensaio de bombeamento datado",
+      "unit": "%",
+      "family": "temporal"
+    },
+    "T02_chemistry_dated_pct_of_wells": {
+      "label": "Evidência química datada",
+      "unit": "%",
+      "family": "temporal"
+    },
+    "T03_level_dated_pct_of_wells": {
+      "label": "Medição de nível datada",
+      "unit": "%",
+      "family": "temporal"
+    },
+    "T04_any_dated_pct_of_wells": {
+      "label": "Evidência hidrogeológica datada",
+      "unit": "%",
+      "family": "temporal"
+    },
+    "T05_multi_domain_dated_pct_of_wells": {
+      "label": "Múltiplos domínios datados",
+      "unit": "%",
+      "family": "temporal"
+    },
+    "T06_rimas_registered_n": {
+      "label": "Registros identificados como RIMAS",
+      "unit": "n",
+      "family": "temporal"
+    },
+    "latest_evidence_age_median_years": {
+      "label": "Idade mediana da última evidência datada",
+      "unit": "anos",
+      "family": "age"
+    },
+    "dated_distinct_years_n": {
+      "label": "Anos distintos com evidência datada",
+      "unit": "n",
+      "family": "temporal"
+    },
+    "dated_dataset_span_years": {
+      "label": "Amplitude das datas no conjunto da célula",
+      "unit": "anos",
+      "family": "temporal"
+    }
+  },
+  "scales": {
+    "100": {
+      "V02_formation_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          25.0,
+          68.94230769230774
+        ],
+        "n": 774
+      },
+      "V03_penetration_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          10.760233918128707
+        ],
+        "n": 774
+      },
+      "V04_hydraulic_condition_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          7.6923076923076925
+        ],
+        "n": 774
+      },
+      "V05_capture_type_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          6.25
+        ],
+        "n": 774
+      },
+      "V06_top_base_raw_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0
+        ],
+        "n": 774
+      },
+      "V07_diameter_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          6.959706959706987
+        ],
+        "n": 774
+      },
+      "T01_test_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          33.33333333333333,
+          75.0
+        ],
+        "n": 774
+      },
+      "T02_chemistry_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          18.869047619047645
+        ],
+        "n": 774
+      },
+      "T03_level_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0
+        ],
+        "n": 774
+      },
+      "T04_any_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          33.33333333333333,
+          76.18823529411769
+        ],
+        "n": 774
+      },
+      "T05_multi_domain_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          14.884135472370808
+        ],
+        "n": 774
+      },
+      "T06_rimas_registered_n": {
+        "min": 0.0,
+        "max": 1.0,
+        "quantiles": [
+          0.0
+        ],
+        "n": 3763
+      },
+      "latest_evidence_age_median_years": {
+        "min": 2.7433828210024847,
+        "max": 48.42262332559874,
+        "quantiles": [
+          16.388016181030412,
+          17.725757544644996,
+          24.274831105361507,
+          32.33632449673848
+        ],
+        "n": 377
+      },
+      "dated_distinct_years_n": {
+        "min": 0.0,
+        "max": 34.0,
+        "quantiles": [
+          0.0
+        ],
+        "n": 3763
+      },
+      "dated_dataset_span_years": {
+        "min": 0.0,
+        "max": 56.17911387639719,
+        "quantiles": [
+          0.7096654962114213,
+          12.628869860435191,
+          25.244597767236836,
+          35.40442308876979
+        ],
+        "n": 262
+      }
+    },
+    "150": {
+      "V02_formation_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          33.33333333333333,
+          75.0
+        ],
+        "n": 657
+      },
+      "V03_penetration_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          14.285714285714285
+        ],
+        "n": 657
+      },
+      "V04_hydraulic_condition_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          12.5
+        ],
+        "n": 657
+      },
+      "V05_capture_type_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          9.904761904761937
+        ],
+        "n": 657
+      },
+      "V06_top_base_raw_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0
+        ],
+        "n": 657
+      },
+      "V07_diameter_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          10.115942028985518
+        ],
+        "n": 657
+      },
+      "T01_test_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          37.5,
+          75.0
+        ],
+        "n": 657
+      },
+      "T02_chemistry_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          20.0
+        ],
+        "n": 657
+      },
+      "T03_level_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 33.33333333333333,
+        "quantiles": [
+          0.0
+        ],
+        "n": 657
+      },
+      "T04_any_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          40.0,
+          75.0
+        ],
+        "n": 657
+      },
+      "T05_multi_domain_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          17.873015873015934
+        ],
+        "n": 657
+      },
+      "T06_rimas_registered_n": {
+        "min": 0.0,
+        "max": 1.0,
+        "quantiles": [
+          0.0
+        ],
+        "n": 2525
+      },
+      "latest_evidence_age_median_years": {
+        "min": 2.7488586350164614,
+        "max": 55.89163364066339,
+        "quantiles": [
+          16.427442041931045,
+          17.698926055976507,
+          24.279211756572685,
+          33.273783855931335
+        ],
+        "n": 340
+      },
+      "dated_distinct_years_n": {
+        "min": 0.0,
+        "max": 30.0,
+        "quantiles": [
+          0.0
+        ],
+        "n": 2525
+      },
+      "dated_dataset_span_years": {
+        "min": 0.0,
+        "max": 56.168162248369235,
+        "quantiles": [
+          0.8898197772712656,
+          14.715154999760435,
+          25.730850051677994,
+          35.874795512570415
+        ],
+        "n": 243
+      }
+    },
+    "250": {
+      "V02_formation_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          33.33333333333333,
+          66.66666666666666
+        ],
+        "n": 523
+      },
+      "V03_penetration_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          14.285714285714285
+        ],
+        "n": 523
+      },
+      "V04_hydraulic_condition_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          14.02597402597404
+        ],
+        "n": 523
+      },
+      "V05_capture_type_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          12.741935483870977
+        ],
+        "n": 523
+      },
+      "V06_top_base_raw_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          3.111954459203042
+        ],
+        "n": 523
+      },
+      "V07_diameter_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          14.285714285714285
+        ],
+        "n": 523
+      },
+      "T01_test_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          40.0,
+          75.0
+        ],
+        "n": 523
+      },
+      "T02_chemistry_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          20.303442028985508
+        ],
+        "n": 523
+      },
+      "T03_level_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0
+        ],
+        "n": 523
+      },
+      "T04_any_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          41.90476190476189,
+          75.0
+        ],
+        "n": 523
+      },
+      "T05_multi_domain_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          20.0
+        ],
+        "n": 523
+      },
+      "T06_rimas_registered_n": {
+        "min": 0.0,
+        "max": 1.0,
+        "quantiles": [
+          0.0
+        ],
+        "n": 1537
+      },
+      "latest_evidence_age_median_years": {
+        "min": 2.7433828210024847,
+        "max": 49.230305892660354,
+        "quantiles": [
+          16.591716462350355,
+          18.020903919998357,
+          24.263331895932154,
+          31.558485116053035
+        ],
+        "n": 291
+      },
+      "dated_distinct_years_n": {
+        "min": 0.0,
+        "max": 36.0,
+        "quantiles": [
+          0.0
+        ],
+        "n": 1537
+      },
+      "dated_dataset_span_years": {
+        "min": 0.0,
+        "max": 56.17911387639719,
+        "quantiles": [
+          1.182228245617638,
+          14.917212536876187,
+          27.378522488483682,
+          36.370904262236735
+        ],
+        "n": 220
+      }
+    },
+    "500": {
+      "V02_formation_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          36.36363636363637,
+          66.66666666666666
+        ],
+        "n": 354
+      },
+      "V03_penetration_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          20.0
+        ],
+        "n": 354
+      },
+      "V04_hydraulic_condition_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          17.813267813267835
+        ],
+        "n": 354
+      },
+      "V05_capture_type_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          17.86096256684494
+        ],
+        "n": 354
+      },
+      "V06_top_base_raw_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          7.064760302775455
+        ],
+        "n": 354
+      },
+      "V07_diameter_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          16.666666666666664
+        ],
+        "n": 354
+      },
+      "T01_test_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          12.857142857142888,
+          49.33333333333328,
+          67.86096256684493
+        ],
+        "n": 354
+      },
+      "T02_chemistry_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          6.108374384236445,
+          25.0
+        ],
+        "n": 354
+      },
+      "T03_level_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0
+        ],
+        "n": 354
+      },
+      "T04_any_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          15.550935550935566,
+          50.0,
+          69.68660968660973
+        ],
+        "n": 354
+      },
+      "T05_multi_domain_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          2.84074605451936,
+          21.668625146886022
+        ],
+        "n": 354
+      },
+      "T06_rimas_registered_n": {
+        "min": 0.0,
+        "max": 1.0,
+        "quantiles": [
+          0.0
+        ],
+        "n": 791
+      },
+      "latest_evidence_age_median_years": {
+        "min": 2.7433828210024847,
+        "max": 48.42262332559874,
+        "quantiles": [
+          16.439488832761796,
+          17.649643729850716,
+          23.454006584666352,
+          31.25156574056963
+        ],
+        "n": 223
+      },
+      "dated_distinct_years_n": {
+        "min": 0.0,
+        "max": 37.0,
+        "quantiles": [
+          0.0,
+          1.0
+        ],
+        "n": 791
+      },
+      "dated_dataset_span_years": {
+        "min": 0.0,
+        "max": 56.17911387639719,
+        "quantiles": [
+          1.0327385230360653,
+          18.27990992285947,
+          29.499305256096974,
+          38.47690233201231
+        ],
+        "n": 180
+      }
+    },
+    "1000": {
+      "V02_formation_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          20.0,
+          42.857142857142854,
+          60.22222222222224
+        ],
+        "n": 240
+      },
+      "V03_penetration_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          6.7586206896551735,
+          21.5873015873016
+        ],
+        "n": 240
+      },
+      "V04_hydraulic_condition_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          4.894042383046782,
+          16.86274509803923
+        ],
+        "n": 240
+      },
+      "V05_capture_type_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          3.9076923076923085,
+          17.754010695187176
+        ],
+        "n": 240
+      },
+      "V06_top_base_raw_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          11.11111111111111
+        ],
+        "n": 240
+      },
+      "V07_diameter_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          3.7460317460317465,
+          20.762250453720515
+        ],
+        "n": 240
+      },
+      "T01_test_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          25.0,
+          47.96536796536797,
+          66.66666666666666
+        ],
+        "n": 240
+      },
+      "T02_chemistry_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          8.333333333333332,
+          25.0
+        ],
+        "n": 240
+      },
+      "T03_level_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 12.5,
+        "quantiles": [
+          0.0
+        ],
+        "n": 240
+      },
+      "T04_any_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          27.27272727272727,
+          48.51948051948052,
+          67.01754385964915
+        ],
+        "n": 240
+      },
+      "T05_multi_domain_dated_pct_of_wells": {
+        "min": 0.0,
+        "max": 100.0,
+        "quantiles": [
+          0.0,
+          7.212543554006969,
+          21.94444444444445
+        ],
+        "n": 240
+      },
+      "T06_rimas_registered_n": {
+        "min": 0.0,
+        "max": 1.0,
+        "quantiles": [
+          0.0
+        ],
+        "n": 413
+      },
+      "latest_evidence_age_median_years": {
+        "min": 3.252633524302347,
+        "max": 48.42262332559874,
+        "quantiles": [
+          16.70588718454178,
+          18.19886787545261,
+          23.53942928328439,
+          31.50454834801536
+        ],
+        "n": 172
+      },
+      "dated_distinct_years_n": {
+        "min": 0.0,
+        "max": 41.0,
+        "quantiles": [
+          0.0,
+          1.0,
+          4.0
+        ],
+        "n": 413
+      },
+      "dated_dataset_span_years": {
+        "min": 0.0,
+        "max": 56.17911387639719,
+        "quantiles": [
+          9.199367543481385,
+          25.31468818661574,
+          34.11158340006982,
+          42.37458674716113
+        ],
+        "n": 141
+      }
+    }
+  }
+}

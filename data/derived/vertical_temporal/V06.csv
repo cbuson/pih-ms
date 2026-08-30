@@ -1,0 +1,317 @@
+﻿well_id,municipality,hydro_unit,domain,layer_code,layer_name,depth_m,vertical_metadata_n,capture_interval_status
+3500065054,Dourados,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,600.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053084,Miranda,Grupo Cuiaba,Fraturada,V06,Topo e base brutos coerentes,30.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027119,Caarapó,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026917,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,34.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027282,Chapadão do Sul,Formação Cachoeirinha,Granular,V06,Topo e base brutos coerentes,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045668,Corguinho,Formação Aquidauana,Granular,V06,Topo e base brutos coerentes,90.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045682,Iguatemi,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,160.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053090,Maracaju,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,105.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065040,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,96.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065045,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,48.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065046,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,90.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065047,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,100.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065060,Ivinhema,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,100.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065072,Selvíria,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,96.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065009,Aral Moreira,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,130.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023356,Sete Quedas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023368,Caarapó,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045694,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,116.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022928,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,606.22,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045646,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022824,Terenos,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,181.5,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022816,Sidrolândia,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,440.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022567,Costa Rica,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,93.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022930,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,501.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045662,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,200.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045700,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,78.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065031,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,65.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065039,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,560.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045691,Sidrolândia,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,120.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053083,Miranda,Grupo Cuiaba,Fraturada,V06,Topo e base brutos coerentes,38.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053086,Miranda,Formação Pantanal,Granular,V06,Topo e base brutos coerentes,40.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026918,Ivinhema,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,80.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027077,Caarapó,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045670,Batayporã,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045703,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,138.26,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045711,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,162.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065044,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,40.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065070,Rio Verde de Mato Grosso,Formação Ponta Grossa,Granular,V06,Topo e base brutos coerentes,150.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065082,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,45.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065018,Bodoquena,Grupo Cuiaba,Fraturada,V06,Topo e base brutos coerentes,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065068,Rio Brilhante,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,266.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045692,Ponta Porã,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023143,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,148.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023357,Sete Quedas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023307,Inocência,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,216.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027240,Angélica,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,350.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045154,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,50.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053094,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,215.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022863,Maracaju,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,230.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022883,Maracaju,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,198.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023148,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,3371.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065119,Dourados,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,600.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045663,Ivinhema,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,90.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023138,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026925,Três Lagoas,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,80.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026970,São Gabriel do Oeste,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,80.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023150,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,140.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023136,Laguna Carapã,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023245,Camapuã,Formação Botucatu,Granular,V06,Topo e base brutos coerentes,110.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023236,São Gabriel do Oeste,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,83.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045606,Caarapó,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,722.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023316,Aparecida do Taboado,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,300.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023373,Naviraí,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,120.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022843,Dourados,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,793.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022484,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,138.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022508,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,100.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022538,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,100.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022568,Costa Rica,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,105.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022912,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,135.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065101,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,412.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065117,Dourados,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,2226.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022925,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,480.19,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022683,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,148.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022686,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023391,Terenos,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023335,Costa Rica,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,90.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023266,Rio Brilhante,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,306.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045697,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,123.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022534,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022682,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,105.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022886,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,158.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022942,Campo Grande,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,178.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027143,Dourados,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,4161.5,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065121,Douradina,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,155.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022473,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,166.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022535,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,162.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065140,Ribas do Rio Pardo,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,215.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027247,Sidrolândia,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,88.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023378,Glória de Dourados,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023167,Antônio João,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,90.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045678,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027217,Deodápolis,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,140.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022910,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023144,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,97.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065134,Rio Brilhante,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,260.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022812,Sidrolândia,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022913,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,241.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022814,Sidrolândia,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,160.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022809,Sidrolândia,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022870,Itaporã,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,185.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022892,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,170.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023146,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,140.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023203,Dois Irmãos do Buriti,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,90.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023385,Taquarussu,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,114.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500028107,Nioaque,Formação Botucatu,Granular,V06,Topo e base brutos coerentes,50.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045665,Costa Rica,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027116,Caarapó,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022681,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023299,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,4582.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045680,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,132.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023208,Dois Irmãos do Buriti,Formação Botucatu,Granular,V06,Topo e base brutos coerentes,100.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022856,Dourados,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,291.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022852,Itaporã,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,105.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022500,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,123.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022694,Caarapó,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,125.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022810,Sidrolândia,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,95.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022893,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022929,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,526.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065099,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,110.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065106,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,600.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065131,Itaporã,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026924,São Gabriel do Oeste,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,78.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026922,São Gabriel do Oeste,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,26.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023367,Caarapó,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026930,Caarapó,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,105.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027053,Água Clara,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,54.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045607,Angélica,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,120.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045683,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,91.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045687,Bataguassu,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065049,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,59.5,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065077,Terenos,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,100.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065083,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,80.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065007,Antônio João,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,204.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065028,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,102.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023304,Selvíria,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,160.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023318,Aparecida do Taboado,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,121.5,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022743,Ponta Porã,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,615.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023326,Cassilândia,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,205.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065105,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,460.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045619,Rio Brilhante,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,146.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045674,Rio Brilhante,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045679,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,195.5,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045684,Miranda,Formação Pantanal,Granular,V06,Topo e base brutos coerentes,108.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045688,Terenos,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,110.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045706,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,122.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045712,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,116.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053079,Dourados,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,72.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053089,Caarapó,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,110.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065030,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,33.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065032,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,100.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065069,Rio Brilhante,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,110.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500064999,Água Clara,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065019,Bonito,Grupo Cuiaba,Cárstica,V06,Topo e base brutos coerentes,82.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065103,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,630.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045698,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,120.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023347,Jardim,Formação Aquidauana,Granular,V06,Topo e base brutos coerentes,166.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045702,Ivinhema,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,1100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023149,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,114.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022587,Inocência,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,660.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022918,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,305.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022684,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,160.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022712,Laguna Carapã,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,99.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065104,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065128,Dourados,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,80.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045704,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,166.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065035,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,34.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065042,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,164.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065052,Deodápolis,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,102.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065084,Vicentina,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,102.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065059,Itaporã,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,90.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065002,Água Clara,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,168.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065005,Antônio João,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,146.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065010,Aral Moreira,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,213.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065048,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,215.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027080,Douradina,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045653,Alcinópolis,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,154.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023345,Jardim,Formação Aquidauana,Granular,V06,Topo e base brutos coerentes,100.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045654,Rio Verde de Mato Grosso,Formação Furnas,Granular,V06,Topo e base brutos coerentes,161.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065116,Dourados,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,2537.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065107,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,2266.8,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065109,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,597.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027163,Rio Brilhante,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,266.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045604,Caarapó,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,78.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022813,Sidrolândia,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,180.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022566,Costa Rica,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,83.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022875,Rio Brilhante,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,266.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065110,Terenos,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,90.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027144,Dourados,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,600.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045673,Ivinhema,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,60.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045708,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065034,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,30.74,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065041,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,299.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065050,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,66.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065051,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,140.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065080,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,150.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065125,São Gabriel do Oeste,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,65.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065004,Antônio João,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065008,Aparecida do Taboado,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,53.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065012,Bataguassu,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,155.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065020,Bonito,Grupo Cuiaba,Fraturada,V06,Topo e base brutos coerentes,193.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065033,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,272.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027259,Caarapó,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030624,São Gabriel do Oeste,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,80.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023260,Rio Brilhante,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,267.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023380,Jateí,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,120.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022823,Terenos,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,148.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022851,Itaporã,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,60.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022805,Sidrolândia,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,124.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065165,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,500.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065094,Bela Vista,Formação Aquidauana,Granular,V06,Topo e base brutos coerentes,146.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023204,Dois Irmãos do Buriti,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,130.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027124,Ribas do Rio Pardo,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,120.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022561,Cassilândia,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,215.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022927,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,630.27,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065108,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,624.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026921,São Gabriel do Oeste,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,25.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023369,Caarapó,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,161.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023370,Caarapó,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023388,Paranaíba,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,90.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023232,São Gabriel do Oeste,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,125.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023394,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,638.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023354,Sete Quedas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,594.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023175,Angélica,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,350.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030628,São Gabriel do Oeste,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,60.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023338,Costa Rica,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,105.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022821,Terenos,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,115.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022815,Sidrolândia,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022844,Dourados,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,728.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022537,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,102.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022807,Sidrolândia,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065123,Douradina,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,100.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065139,Ribas do Rio Pardo,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022919,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,206.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065111,Paraíso das Águas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,134.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023227,São Gabriel do Oeste,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,65.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045118,São Gabriel do Oeste,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,112.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023141,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,105.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023186,Cassilândia,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,215.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023216,Jaraguari,Formação Botucatu,Granular,V06,Topo e base brutos coerentes,75.5,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023272,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,160.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023337,Costa Rica,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,93.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045605,Caarapó,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,644.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045699,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,55.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023322,Paranaíba,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,180.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027223,Ribas do Rio Pardo,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,100.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023153,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,121.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022916,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,240.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022858,Maracaju,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,165.8,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022864,Maracaju,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,226.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022941,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,100.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065100,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,220.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065115,Dourados,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,908.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065120,Dourados,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,601.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065122,Douradina,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,190.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023217,Jaraguari,Formação Botucatu,Granular,V06,Topo e base brutos coerentes,109.1,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023229,São Gabriel do Oeste,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,100.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026920,São Gabriel do Oeste,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,32.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045659,Três Lagoas,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,50.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022602,Camapuã,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,100.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022692,Caarapó,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,161.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022811,Sidrolândia,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022940,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,145.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023139,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,160.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023137,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023246,Camapuã,Formação Botucatu,Granular,V06,Topo e base brutos coerentes,184.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023315,Aparecida do Taboado,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023334,Costa Rica,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,50.7,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023228,São Gabriel do Oeste,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,45.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026923,São Gabriel do Oeste,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,42.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027070,Maracaju,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022860,Maracaju,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022868,Caarapó,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,260.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065102,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,654.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023339,Costa Rica,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,65.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045658,Bataguassu,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,71.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045667,Maracaju,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045690,Maracaju,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,132.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045713,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,149.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065043,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,507.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065029,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,126.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065036,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,162.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065053,Dourados,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,360.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065066,Ponta Porã,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,150.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065067,Ponta Porã,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,103.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065078,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,85.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065081,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,150.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065085,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,115.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065086,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,195.5,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065058,Figueirão,Formação Botucatu,Granular,V06,Topo e base brutos coerentes,200.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065064,Maracaju,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,220.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065017,Bodoquena,Grupo Cuiaba,Fraturada,V06,Topo e base brutos coerentes,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065026,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,89.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023321,Paranaíba,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,180.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045672,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,80.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023317,Aparecida do Taboado,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,105.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045621,Ribas do Rio Pardo,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023142,Amambai,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065135,Rio Brilhante,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,3003.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045648,Ivinhema,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,1300.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065118,Dourados,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,1992.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053085,Miranda,Grupo Cuiaba,Fraturada,V06,Topo e base brutos coerentes,30.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026928,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,80.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045603,Itaporã,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,110.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045608,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,130.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045675,Rio Brilhante,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045693,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,132.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045705,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,111.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045707,Três Lagoas,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,146.84,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065038,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,30.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065055,Fátima do Sul,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,115.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065071,Rio Verde de Mato Grosso,Formação Furnas,Granular,V06,Topo e base brutos coerentes,160.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065057,Figueirão,Formação Botucatu,Granular,V06,Topo e base brutos coerentes,150.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065124,São Gabriel do Oeste,Grupo Bauru,Granular,V06,Topo e base brutos coerentes,42.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065006,Antônio João,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065021,Caarapó,Grupo Caiuá,Granular,V06,Topo e base brutos coerentes,667.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500065027,Campo Grande,Formação Serra Geral,Fraturada,V06,Topo e base brutos coerentes,25.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO

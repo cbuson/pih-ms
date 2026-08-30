@@ -1,0 +1,27 @@
+{
+  "version": "0.6",
+  "producer": "Serviço Geológico do Brasil - SGB",
+  "package": "mh_ms_arcgis_e_qgis.zip",
+  "vector_layers": {
+    "pocos_sgb_2024.geojson": "POCOS/Pocos_SIAGAS_RIMAS.shp",
+    "pocos_representativos_sgb_2024.geojson": "POCOS/Pocos_Representativos.shp",
+    "furos_anp.geojson": "POCOS/Furo_ANP.shp",
+    "potenciometria_sgb_2024.geojson": "POTENCIOMETRIA/Potenciometria.shp",
+    "densidade_pocos_sgb_2024.geojson": "DENSIDADE_DE_POCOS/Densidade_de_Pocos_Cadastrados.shp",
+    "volumes_anuais_explotados_sgb_2024.geojson": "VOLUMES_ANUAIS_EXPLOTADOS/Estimativa_Volumes_Anuais_Explotados.shp",
+    "capacidade_infiltracao_sgb_2024.geojson": "CAPACIDADE_DE_INFILTRACAO/Capacidade_de_Infiltracao_dos_Solos.shp",
+    "bacias_hidrograficas_sgb_2024.geojson": "BACIAS_HIDROGRAFICAS/Bacias_Hidrograficas.shp",
+    "geomorfologia_sgb_2024.geojson": "RELEVO/Geomorfologia.shp",
+    "isoietas_sgb_2024.geojson": "PLUVIOMETRIA/Isoietas_PMA_1977_2006.shp",
+    "estacoes_ana_sgb_2024.geojson": "PLUVIOMETRIA/Inventário_Estações_ANA_Flu_e_Plu_NE.shp",
+    "cursos_agua_sgb_2024.geojson": "HIDROGRAFIA/Curso_de_agua.shp",
+    "massas_agua_sgb_2024.geojson": "HIDROGRAFIA/Massa_de_agua.shp"
+  },
+  "rasters": [
+    "MDT",
+    "Relevo_sombreado",
+    "Pluviometria",
+    "Vulnerabilidade_Natural"
+  ],
+  "note": "Todas as novas camadas SGB 2024 são provenientes do pacote oficial fornecido pelo usuário. GeoJSON e PNG são derivados web; fontes originais não foram alteradas."
+}

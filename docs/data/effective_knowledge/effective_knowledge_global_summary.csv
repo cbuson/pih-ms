@@ -1,0 +1,17 @@
+﻿metric,value,unit,interpretation
+canonical_wells_n,3877,poços,IDs canônicos preservados sem deduplicação
+spatial_coordinate_review_n,111,poços,Coordenada marcada para revisão
+hydrostrat_unknown_n,842,poços,Estado hidroestratigráfico não demonstrado
+hydrostrat_review_n,981,poços,"Comparação que requer revisão, sem afirmar contradição"
+vertical_depth_positive_n,3414,poços,Profundidade total positiva disponível
+vertical_capture_interval_demonstrated_n,0,poços,Nenhum intervalo captado foi demonstrado no conjunto adquirido
+hydraulic_test_minimum_metadata_n,1096,poços,"Ensaio com metadados documentais mínimos, sem validar parâmetro"
+hydraulic_transmissivity_reported_n,51,poços,"Transmissividade informada, não validada"
+hydrochemical_partial_evidence_n,2053,poços,"Evidência hidroquímica parcial, sem QA analítico completo"
+temporal_any_dated_n,1637,poços,Ao menos um evento hidrogeológico datado
+temporal_time_series_demonstrated_n,0,poços,Nenhuma série temporal completa foi adquirida
+independence_demonstrated_n,0,poços,Independência hidrogeológica não foi demonstrada
+documentary_flagged_wells_n,2191,poços,Ao menos um alerta de qualidade preservado
+documentary_invalid_wells_n,3,poços,Ao menos um valor objetivamente inválido preservado
+pih_score_status,NAO_CALCULADO,estado,A V2.2 não agrega dimensões
+research_priority_status,NAO_CLASSIFICADA,estado,Prioridade não é inferida nesta fase

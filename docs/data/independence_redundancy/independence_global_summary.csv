@@ -1,0 +1,40 @@
+﻿metric,value,unit,interpretation
+canonical_well_ids_n,3877.0,count,IDs canônicos provisórios
+source_current_rows_n,3877.0,count,Registros do snapshot atual
+source_historical_rows_n,2194.0,count,Registros presentes no snapshot SGB 2024
+naive_stacked_source_rows_n,6071.0,count,"Soma ingênua dos dois snapshots, sem deduplicar por ID"
+source_snapshot_overlap_wells_n,2194.0,count,Poços presentes nos dois snapshots
+source_stacking_inflation_vs_unique_pct,56.590147020892445,percent,Inflação se os snapshots fossem empilhados como observações independentes
+exact_coordinate_groups_n,20.0,count,Grupos com coordenadas exatamente repetidas
+exact_coordinate_colocation_wells_n,40.0,count,Poços em grupos de coordenada idêntica
+coordinate_site_sensitivity_n,3857.0,count,Cenário de compressão por coordenada idêntica. Não é deduplicação
+coordinate_site_sensitivity_reduction_pct,0.5158627805003869,percent,Redução máxima no cenário de compressão por coordenada
+duplicate_candidate_pairs_n,29.0,count,Pares candidatos a duplicação sob revisão
+duplicate_candidate_wells_n,58.0,count,Poços pertencentes a qualquer par candidato
+high_duplicate_candidate_pairs_n,12.0,count,Pares HIGH
+high_duplicate_candidate_wells_n,24.0,count,Poços em pares HIGH
+review_high_sensitivity_clusters_n,3855.0,count,Cenário coordenadas idênticas + candidatos HIGH
+review_high_sensitivity_reduction_pct,0.5674490585504256,percent,Redução no cenário HIGH. Não é contagem corrigida
+review_all_sensitivity_clusters_n,3848.0,count,Cenário coordenadas idênticas + todos os candidatos
+review_all_sensitivity_reduction_pct,0.748001031725561,percent,Redução no cenário de revisão máxima. Não é contagem corrigida
+specific_capacity_both_sources_wells_n,1509.0,count,Poços com capacidade específica nos dois snapshots
+specific_capacity_source_echo_wells_n,1498.0,count,Valores de capacidade específica numericamente coincidentes nos dois snapshots
+specific_capacity_source_echo_rate_pct,99.27104042412194,percent,Coincidência entre registros comparáveis de capacidade específica
+chemistry_multisource_wells_n,203.0,count,Poços com amostras químicas representadas nos dois datasets
+chem_samples_n,1970.0,count,Registros de amostra química
+chem_sample_wells_n,1767.0,count,Poços com ao menos um registro de amostra química
+chem_sample_records_per_well_with_chem,1.1148839841539333,ratio,Registros de amostra por poço com química. Não equivale a replicação temporal independente
+chem_results_n,2557.0,count,Resultados analíticos parciais
+chem_results_per_chem_well,1.44708545557442,ratio,Resultados por poço com química. Analitos diferentes não são replicações
+hydraulic_parameter_records_n,7493.0,count,Registros de parâmetros hidráulicos
+hydraulic_parameter_wells_n,3739.0,count,Poços com ao menos um parâmetro hidráulico
+source_core_comparable_pairs_n,6417.0,count,Pares campo-poço comparáveis entre snapshots
+source_core_matching_pairs_n,6338.0,count,Pares campo-poço coincidentes dentro das tolerâncias documentadas
+source_core_match_rate_pct,98.7688951223313,percent,"Coincidência documental de profundidade, NE, ND e capacidade específica"
+wells_zero_documentary_domains_n,518.0,count,Poços sem nenhum dos cinco domínios documentais avaliados além do cadastro
+wells_zero_documentary_domains_pct,13.360846014960021,percent,Proporção sem domínio documental adicional
+wells_fourplus_documentary_domains_n,2531.0,count,Poços com quatro ou cinco domínios documentais
+wells_fourplus_documentary_domains_pct,65.28243487232396,percent,Diversidade documental alta. Não significa independência
+wells_nn_lt_100m_n,1128.0,count,Poços com outro poço a menos de 100 m
+wells_nn_lt_500m_n,2388.0,count,Poços com outro poço a menos de 500 m
+wells_nn_lt_1000m_n,2844.0,count,Poços com outro poço a menos de 1 km

@@ -1,0 +1,6 @@
+﻿scale_km2,grid_cells_n,cells_with_wells_n,cells_without_wells_n,cells_with_wells_pct,canonical_wells_assigned_n,cells_with_coordinate_review_n,cells_with_hydrostrat_review_or_unknown_n,cells_with_hydraulic_minimum_test_metadata_n,cells_with_transmissivity_reported_n,cells_with_partial_hydrochemistry_n,cells_with_dated_evidence_n,cells_with_duplicate_review_n,cells_with_documentary_flags_n,scale_selection_status
+100,3763,774,2989,20.568695190007972,3877,53,593,292,37,532,377,27,544,NAO_SELECIONADA
+150,2525,657,1868,26.019801980198018,3877,46,509,263,34,460,340,25,476,NAO_SELECIONADA
+250,1537,523,1014,34.02732595966168,3877,47,433,238,31,374,291,25,398,NAO_SELECIONADA
+500,791,354,437,44.75347661188369,3877,42,308,186,30,277,223,25,285,NAO_SELECIONADA
+1000,413,240,173,58.11138014527845,3877,37,221,147,28,205,172,22,199,NAO_SELECIONADA

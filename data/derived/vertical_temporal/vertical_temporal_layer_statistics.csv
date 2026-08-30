@@ -1,0 +1,14 @@
+﻿code,name,feature_count,pct_of_3877,color
+V02,Formação do poço documentada,1425,36.7552,#00897B
+V03,Tipo de penetração documentado,416,10.7299,#00A6A6
+V04,Condição hidráulica documentada,380,9.8014,#00796B
+V05,Tipo de captação documentado,333,8.5891,#26A69A
+V06,Topo e base brutos coerentes,316,8.1506,#00695C
+V07,Diâmetro documentado,412,10.6268,#4DB6AC
+T01,Ensaio de bombeamento datado,1581,40.779,#6A51A3
+T02,Evidência química datada,530,13.6704,#8C6BB1
+T03,Medição de nível datada,20,0.5159,#4A1486
+T04,Evidência hidrogeológica datada,1637,42.2234,#7B1FA2
+T05,Múltiplos domínios de evidência datada,475,12.2517,#9C27B0
+T06,Cadastro identificado como RIMAS,22,0.5674,#5E35B1
+T07,Série temporal demonstrada no conjunto adquirido,0,0,#5B5B88

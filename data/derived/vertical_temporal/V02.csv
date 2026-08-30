@@ -1,0 +1,1426 @@
+﻿well_id,municipality,hydro_unit,domain,layer_code,layer_name,depth_m,vertical_metadata_n,capture_interval_status
+3500053084,Miranda,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,30.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027119,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026917,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,34.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027282,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045668,Corguinho,Formação Aquidauana,Granular,V02,Formação do poço documentada,90.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045682,Iguatemi,Grupo Caiuá,Granular,V02,Formação do poço documentada,160.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053090,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,105.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023027,Coxim,Formação Palermo,Granular,V02,Formação do poço documentada,78.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500068739,Ribas do Rio Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,74.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026934,Glória de Dourados,Grupo Caiuá,Granular,V02,Formação do poço documentada,60.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026935,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,75.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026939,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026957,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026979,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,50.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026997,Paranaíba,Grupo Bauru,Granular,V02,Formação do poço documentada,58.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027019,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027044,Três Lagoas,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,32.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027149,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,85.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027154,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,160.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027162,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,95.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027173,Três Lagoas,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,91.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027176,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,180.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027212,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,213.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027286,Aparecida do Taboado,Grupo Caiuá,Granular,V02,Formação do poço documentada,82.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027294,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045287,Três Lagoas,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,50.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045398,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045626,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023356,Sete Quedas,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023368,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045694,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,116.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023202,Anastácio,Formação Botucatu,Granular,V02,Formação do poço documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023355,Sete Quedas,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026962,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,50.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027045,Aparecida do Taboado,Grupo Bauru,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027050,Água Clara,Grupo Caiuá,Granular,V02,Formação do poço documentada,57.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023312,Inocência,Grupo Bauru,Granular,V02,Formação do poço documentada,115.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022928,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,606.22,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045646,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022824,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,181.5,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022816,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,440.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022567,Costa Rica,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,93.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022930,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,501.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045612,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045709,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,139.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027253,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,160.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045662,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,200.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030618,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,35.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027250,Dois Irmãos do Buriti,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,126.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027261,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,125.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027264,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,131.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027270,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053083,Miranda,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,38.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053086,Miranda,Formação Pantanal,Granular,V02,Formação do poço documentada,40.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026918,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,80.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027077,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045703,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,138.26,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045711,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,162.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023242,Figueirão,Formação Botucatu,Granular,V02,Formação do poço documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500068743,Paranaíba,Grupo Bauru,Granular,V02,Formação do poço documentada,60.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500068742,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,76.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022591,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,156.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026944,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,80.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026950,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,70.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026951,Glória de Dourados,Grupo Caiuá,Granular,V02,Formação do poço documentada,58.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027020,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,116.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027043,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,40.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027145,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,106.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027199,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,126.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027213,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,174.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027214,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,83.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027215,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,94.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045422,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053093,Pedro Gomes,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023386,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045692,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023143,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,148.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026991,Laguna Carapã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023279,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,94.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023327,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,145.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023357,Sete Quedas,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023307,Inocência,Grupo Bauru,Granular,V02,Formação do poço documentada,216.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027240,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,350.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045154,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,50.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053094,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,215.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022863,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,230.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022883,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,198.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027069,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,230.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067709,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,181.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023250,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,160.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045663,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,90.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023053,Ponta Porã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,5.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027258,Caracol,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,83.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023138,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027167,Anaurilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,118.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023358,Iguatemi,Grupo Caiuá,Granular,V02,Formação do poço documentada,92.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026925,Três Lagoas,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,80.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026970,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,80.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026938,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026972,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027094,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,60.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027313,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023150,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,140.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023136,Laguna Carapã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023237,São Gabriel do Oeste,Formação Botucatu,Granular,V02,Formação do poço documentada,135.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023244,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,136.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023245,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,110.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023236,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,83.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023343,Nioaque,Formação Botucatu,Granular,V02,Formação do poço documentada,86.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023379,Glória de Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,82.2,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045606,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,722.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022488,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,168.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022506,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,106.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022996,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026837,Aparecida do Taboado,Grupo Caiuá,Granular,V02,Formação do poço documentada,52.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500028111,Ribas do Rio Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,50.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500034022,Figueirão,Formação Botucatu,Granular,V02,Formação do poço documentada,60.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022485,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022497,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022502,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,117.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022513,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,180.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022529,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,122.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022547,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022549,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,131.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022552,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,122.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022559,Taquarussu,Grupo Caiuá,Granular,V02,Formação do poço documentada,71.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022583,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,86.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022608,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,135.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022620,Ponta Porã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,112.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022634,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,125.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022671,Anaurilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,118.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022713,Laguna Carapã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,158.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022718,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,97.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022724,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,128.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022744,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022745,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022746,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022757,Anastácio,Formação Aquidauana,Granular,V02,Formação do poço documentada,220.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022763,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022769,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,112.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022777,Caracol,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,101.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022785,Dois Irmãos do Buriti,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,126.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022790,Jardim,Formação Aquidauana,Granular,V02,Formação do poço documentada,450.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022839,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,80.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022841,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,113.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022845,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022847,Fátima do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,26.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022848,Fátima do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,92.3,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022866,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022869,Fátima do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,115.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022881,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,94.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022888,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,133.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022896,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,145.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022898,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,135.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022899,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022915,Campo Grande,Grupo Caiuá,Granular,V02,Formação do poço documentada,180.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022924,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,84.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022958,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022972,Bataguassu,Depósitos aluvionares,Granular,V02,Formação do poço documentada,94.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023021,Eldorado,Grupo Caiuá,Granular,V02,Formação do poço documentada,157.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023038,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023084,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,20.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023116,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023117,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,135.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023118,Nioaque,Formação Botucatu,Granular,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023121,Corumbá,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,90.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026986,Brasilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027012,Ladário,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,60.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027035,Iguatemi,Grupo Caiuá,Granular,V02,Formação do poço documentada,155.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027063,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,149.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027067,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027081,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,105.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027096,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027153,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,160.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027158,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027182,Laguna Carapã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,81.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027184,Mundo Novo,Grupo Caiuá,Granular,V02,Formação do poço documentada,128.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027188,Nioaque,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,97.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027192,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,102.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027195,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027200,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,160.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027208,Inocência,Grupo Bauru,Granular,V02,Formação do poço documentada,656.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027211,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027219,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027221,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027235,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,153.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027246,Caracol,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,101.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027297,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,109.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027303,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027305,Jardim,Formação Botucatu,Granular,V02,Formação do poço documentada,93.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027312,Corumbá,Formação Pantanal,Granular,V02,Formação do poço documentada,60.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027314,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,108.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023276,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,110.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023285,Santa Rita do Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,122.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023362,Japorã,Grupo Caiuá,Granular,V02,Formação do poço documentada,103.5,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023363,Japorã,Grupo Caiuá,Granular,V02,Formação do poço documentada,102.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023313,Aparecida do Taboado,Grupo Caiuá,Granular,V02,Formação do poço documentada,105.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023373,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022843,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,793.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022484,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,138.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022508,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022538,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022568,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,105.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022912,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,135.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022530,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,42.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022540,Glória de Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022582,Três Lagoas,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,91.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022654,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022674,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,70.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022859,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,215.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022984,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023029,Pedro Gomes,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,280.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027083,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,70.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027300,Rio Negro,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,170.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022925,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,480.19,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022683,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,148.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022686,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022755,Anastácio,Formação Aquidauana,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022926,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,330.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022943,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,200.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023391,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022685,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,108.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022987,Selvíria,Grupo Caiuá,Granular,V02,Formação do poço documentada,145.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067710,Corguinho,Formação Aquidauana,Granular,V02,Formação do poço documentada,138.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067712,Corguinho,Formação Aquidauana,Granular,V02,Formação do poço documentada,156.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023041,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023248,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,156.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022699,Eldorado,Grupo Caiuá,Granular,V02,Formação do poço documentada,152.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022738,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022740,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023002,Rio Verde de Mato Grosso,Formação Furnas,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023004,Sonora,Formação Furnas,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023042,Corumbá,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,56.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023065,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023074,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,27.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023078,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,27.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067713,Corguinho,Formação Botucatu,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027027,Anaurilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,97.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022715,Mundo Novo,Grupo Caiuá,Granular,V02,Formação do poço documentada,138.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026916,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,92.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026919,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026974,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026977,Bandeirantes,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023183,Anaurilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,103.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023298,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,118.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023154,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,114.5,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023199,Dois Irmãos do Buriti,Formação Botucatu,Granular,V02,Formação do poço documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023212,Dois Irmãos do Buriti,Formação Botucatu,Granular,V02,Formação do poço documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023223,Corguinho,Formação Botucatu,Granular,V02,Formação do poço documentada,85.5,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022669,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.3,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022806,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022874,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,95.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023016,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,160.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026836,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500028109,São Gabriel do Oeste,Formação Botucatu,Granular,V02,Formação do poço documentada,66.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500029180,Água Clara,Grupo Caiuá,Granular,V02,Formação do poço documentada,58.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022478,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022504,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022516,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,96.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022528,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,86.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022543,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,146.22,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022556,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,148.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022579,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022584,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,183.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022621,Tacuru,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022622,Ponta Porã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022638,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022643,Ponta Porã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,22.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022646,Ponta Porã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,102.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022659,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,68.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022661,Nioaque,Formação Botucatu,Granular,V02,Formação do poço documentada,38.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022662,Nioaque,Formação Botucatu,Granular,V02,Formação do poço documentada,36.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022672,Batayporã,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022706,Iguatemi,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022780,Caracol,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022833,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022846,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022849,Fátima do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,97.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022880,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022904,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,115.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022953,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,122.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022973,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,94.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022993,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,152.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023023,Japorã,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023024,Japorã,Grupo Caiuá,Granular,V02,Formação do poço documentada,160.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023089,Bonito,Grupo Cuiaba,Cárstica,V02,Formação do poço documentada,53.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023091,Bonito,Grupo Cuiaba,Cárstica,V02,Formação do poço documentada,87.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023096,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,70.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023107,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,55.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023123,Miranda,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,88.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023130,Laguna Carapã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,99.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023161,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,80.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026990,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,98.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027015,Miranda,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027016,Miranda,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,90.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027046,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,125.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027049,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,109.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027061,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,156.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027075,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,60.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027078,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,83.9,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027122,Brasilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,108.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027127,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027177,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,127.4,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027183,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,41.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027191,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027201,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,61.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027205,Aquidauana,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,102.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027224,Dois Irmãos do Buriti,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027236,Itaquiraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,123.1,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027244,Bodoquena,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027248,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,131.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027272,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,124.1,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027274,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027284,Iguatemi,Grupo Caiuá,Granular,V02,Formação do poço documentada,145.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027308,Dois Irmãos do Buriti,Formação Aquidauana,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023188,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023171,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,96.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023225,Corguinho,Formação Botucatu,Granular,V02,Formação do poço documentada,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023262,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023268,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023271,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,57.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023331,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,158.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023335,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,90.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023382,Batayporã,Grupo Caiuá,Granular,V02,Formação do poço documentada,112.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023266,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,306.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045697,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,123.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022534,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022886,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,158.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022942,Campo Grande,Grupo Caiuá,Granular,V02,Formação do poço documentada,178.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027143,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,4161.5,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022467,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,127.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022468,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.3,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022471,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,151.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022493,Campo Grande,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022499,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,151.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022518,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,151.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022563,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,55.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022575,Três Lagoas,Grupo Bauru,Granular,V02,Formação do poço documentada,82.3,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022576,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,81.66,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022624,Ladário,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,60.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022764,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,46.09,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023019,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,85.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023101,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,83.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023104,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,80.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022473,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,166.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022535,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,162.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045661,Batayporã,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022696,Caarapó,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067664,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,98.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067322,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,134.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026946,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,63.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030630,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,35.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030632,Rio Verde de Mato Grosso,Formação Furnas,Granular,V02,Formação do poço documentada,62.2,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030639,Bandeirantes,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067384,Terenos,Formação Botucatu,Granular,V02,Formação do poço documentada,112.7,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022687,Antônio João,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,146.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022700,Eldorado,Grupo Caiuá,Granular,V02,Formação do poço documentada,142.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022704,Eldorado,Grupo Caiuá,Granular,V02,Formação do poço documentada,142.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022741,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,126.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023012,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,84.2,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023015,Ponta Porã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,81.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023081,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,56.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023082,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,55.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067699,Laguna Carapã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,75.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027247,Sidrolândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,88.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023200,Anastácio,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023201,Dois Irmãos do Buriti,Formação Botucatu,Granular,V02,Formação do poço documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023206,Dois Irmãos do Buriti,Formação Botucatu,Granular,V02,Formação do poço documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023211,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,152.5,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023226,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,115.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023273,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027072,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.75,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023378,Glória de Dourados,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022589,Alcinópolis,Grupo Caiuá,Granular,V02,Formação do poço documentada,115.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022653,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022885,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,147.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022890,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,162.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022901,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022989,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,80.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023017,Ribas do Rio Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026838,Camapuã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023011,Coxim,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,154.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022507,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,123.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022544,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022548,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,132.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022550,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,136.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022581,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,168.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022585,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,128.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022599,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022641,Corumbá,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,152.69,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022655,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022723,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,132.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022747,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,206.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022750,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022758,Anastácio,Formação Aquidauana,Granular,V02,Formação do poço documentada,180.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022775,Bonito,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,120.7,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022779,Caracol,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,81.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022792,Jardim,Formação Aquidauana,Granular,V02,Formação do poço documentada,301.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022799,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022826,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,59.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022827,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022828,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,70.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022831,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022840,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022842,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,135.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022850,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,112.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022879,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,74.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022889,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,111.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022897,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,149.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022909,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,231.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022922,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,108.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022934,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,70.3,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022945,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,70.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022974,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,148.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022975,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,135.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022977,Santa Rita do Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022992,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023001,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,145.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023009,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,84.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023032,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023034,Corumbá,Formação Xaraiés,Cárstica,V02,Formação do poço documentada,94.7,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023049,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,110.8,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023087,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,17.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023095,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,20.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023097,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,104.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023112,Corumbá,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,77.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023113,Corumbá,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,176.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023119,Corumbá,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,58.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023152,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,80.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026960,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026983,Sonora,Formação Furnas,Granular,V02,Formação do poço documentada,102.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027028,Anaurilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027033,Rio Verde de Mato Grosso,Formação Furnas,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027037,Rio Verde de Mato Grosso,Formação Furnas,Granular,V02,Formação do poço documentada,119.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027057,Sonora,Formação Furnas,Granular,V02,Formação do poço documentada,137.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027059,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,156.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027084,Eldorado,Grupo Caiuá,Granular,V02,Formação do poço documentada,152.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027089,Fátima do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,180.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027168,Taquarussu,Grupo Caiuá,Granular,V02,Formação do poço documentada,64.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027227,Fátima do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,92.3,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027232,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,248.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027301,Selvíria,Grupo Caiuá,Granular,V02,Formação do poço documentada,96.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027304,Bataguassu,Depósitos aluvionares,Granular,V02,Formação do poço documentada,77.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027311,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,275.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023352,Paranhos,Grupo Caiuá,Granular,V02,Formação do poço documentada,92.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023167,Antônio João,Grupo Caiuá,Granular,V02,Formação do poço documentada,90.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023177,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,112.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023263,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,182.1,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023265,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,102.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023305,Selvíria,Grupo Caiuá,Granular,V02,Formação do poço documentada,96.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023308,Inocência,Grupo Bauru,Granular,V02,Formação do poço documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023333,Paraíso das Águas,Grupo Caiuá,Granular,V02,Formação do poço documentada,165.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023361,Sete Quedas,Grupo Caiuá,Granular,V02,Formação do poço documentada,155.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023364,Itaquiraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,135.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027129,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,90.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045678,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026912,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,80.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026915,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,45.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026931,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,90.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027001,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,60.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027073,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,170.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027137,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023286,Brasilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,95.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023360,Iguatemi,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027217,Deodápolis,Grupo Caiuá,Granular,V02,Formação do poço documentada,140.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022910,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022469,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,167.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022812,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022913,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,241.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022814,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,160.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022809,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022870,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,185.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022892,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,170.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022501,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,92.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022569,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,50.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022606,Sonora,Formação Furnas,Granular,V02,Formação do poço documentada,137.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022615,Nioaque,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,146.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022644,Corumbá,Formação Pantanal,Granular,V02,Formação do poço documentada,73.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022651,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,84.7,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022967,Água Clara,Grupo Caiuá,Granular,V02,Formação do poço documentada,61.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022983,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,126.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023100,Jaraguari,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,146.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067705,Chapadão do Sul,Grupo Caiuá,Granular,V02,Formação do poço documentada,170.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067716,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,178.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022697,Caarapó,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022997,Rio Negro,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,170.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045647,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030623,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,88.2,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030638,Corguinho,Formação Botucatu,Granular,V02,Formação do poço documentada,112.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022668,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,61.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022707,Iguatemi,Grupo Caiuá,Granular,V02,Formação do poço documentada,155.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022726,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,210.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022728,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,248.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022735,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,142.7,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022736,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023014,Japorã,Grupo Caiuá,Granular,V02,Formação do poço documentada,118.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023054,Bonito,Grupo Cuiaba,Cárstica,V02,Formação do poço documentada,45.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023070,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,27.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023075,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,46.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067700,Laguna Carapã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,124.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030633,Rio Verde de Mato Grosso,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,150.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045263,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045649,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,60.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023203,Dois Irmãos do Buriti,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,90.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023169,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,94.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023224,Corguinho,Formação Botucatu,Granular,V02,Formação do poço documentada,68.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023254,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023310,Inocência,Grupo Bauru,Granular,V02,Formação do poço documentada,145.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023385,Taquarussu,Grupo Caiuá,Granular,V02,Formação do poço documentada,114.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022588,Alcinópolis,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022593,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,105.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022595,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,156.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022633,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023043,Camapuã,Grupo Caiuá,Granular,V02,Formação do poço documentada,136.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023158,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500028107,Nioaque,Formação Botucatu,Granular,V02,Formação do poço documentada,50.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022477,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022512,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,170.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022520,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022524,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022557,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,152.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022610,Rio Verde de Mato Grosso,Formação Furnas,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022619,Ponta Porã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,104.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022627,Corumbá,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,152.69,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022631,Bela Vista,Formação Aquidauana,Granular,V02,Formação do poço documentada,136.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022650,Nioaque,Formação Botucatu,Granular,V02,Formação do poço documentada,38.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022665,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,210.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022675,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,128.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022678,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,131.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022719,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,132.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022722,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,129.8,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022759,Anastácio,Formação Aquidauana,Granular,V02,Formação do poço documentada,214.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022768,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,156.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022770,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,154.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022774,Bonito,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022781,Caracol,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,90.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022800,Nioaque,Formação Botucatu,Granular,V02,Formação do poço documentada,73.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022817,Aquidauana,Formação Pantanal,Granular,V02,Formação do poço documentada,50.8,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022820,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022825,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,105.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022829,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,93.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022900,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022903,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,141.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022906,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,116.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022931,Anaurilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022955,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,109.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022957,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022959,Brasilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,95.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022961,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022963,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,112.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023037,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,142.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023071,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,109.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023108,Novo Horizonte do Sul,Grupo Caiuá,Granular,V02,Formação do poço documentada,102.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023110,Figueirão,Formação Botucatu,Granular,V02,Formação do poço documentada,126.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026926,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,88.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026982,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,129.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027008,Miranda,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027017,Miranda,Formação Pantanal,Granular,V02,Formação do poço documentada,114.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027031,Japorã,Grupo Caiuá,Granular,V02,Formação do poço documentada,153.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027032,Eldorado,Grupo Caiuá,Granular,V02,Formação do poço documentada,152.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027054,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027108,Rio Verde de Mato Grosso,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027126,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,112.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027139,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027152,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,170.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027156,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,195.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027179,Deodápolis,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,103.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027190,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027202,Santa Rita do Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,142.8,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027229,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,147.7,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027277,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,148.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027295,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,142.7,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027302,Corumbá,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027306,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027307,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023264,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,70.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023267,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,90.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023278,Bataguassu,Depósitos aluvionares,Granular,V02,Formação do poço documentada,94.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023353,Paranhos,Grupo Caiuá,Granular,V02,Formação do poço documentada,90.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045665,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027051,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,185.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027116,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022476,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,148.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022752,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,108.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026945,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,30.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026973,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,137.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023349,Tacuru,Grupo Caiuá,Granular,V02,Formação do poço documentada,103.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022681,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045680,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,132.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023208,Dois Irmãos do Buriti,Formação Botucatu,Granular,V02,Formação do poço documentada,100.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022856,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,291.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022852,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,105.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022500,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,123.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022694,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,125.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022810,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,95.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022893,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022929,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,526.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022503,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022519,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022531,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022571,Inocência,Grupo Bauru,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022572,Inocência,Grupo Bauru,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022765,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,218.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022954,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,97.4,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023000,Pedro Gomes,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,323.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023010,Coxim,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,275.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023111,Rio Negro,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,248.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027074,Jateí,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027091,Deodápolis,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027134,Pedro Gomes,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,252.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045253,Nova Alvorada do Sul,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067386,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067388,Bandeirantes,Grupo Caiuá,Granular,V02,Formação do poço documentada,95.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067494,Bandeirantes,Grupo Caiuá,Granular,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030621,Jardim,Formação Botucatu,Granular,V02,Formação do poço documentada,71.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030636,Rio Verde de Mato Grosso,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,102.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022679,Corumbá,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022710,Japorã,Grupo Caiuá,Granular,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022711,Japorã,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022729,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022733,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,127.4,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022737,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023003,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,138.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023013,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023051,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023120,Corumbá,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,180.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067703,Tacuru,Grupo Caiuá,Granular,V02,Formação do poço documentada,87.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067706,Chapadão do Sul,Grupo Caiuá,Granular,V02,Formação do poço documentada,119.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023215,Rochedo,Formação Botucatu,Granular,V02,Formação do poço documentada,125.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023348,Jardim,Formação Botucatu,Granular,V02,Formação do poço documentada,93.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022784,Caracol,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,95.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023033,Ponta Porã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,26.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027086,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023281,Bataguassu,Depósitos aluvionares,Granular,V02,Formação do poço documentada,86.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023301,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,168.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023367,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026930,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,105.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027013,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,79.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027053,Água Clara,Grupo Caiuá,Granular,V02,Formação do poço documentada,54.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045607,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045683,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,91.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045687,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022594,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,124.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026932,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,70.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026949,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,90.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026958,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026963,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026964,Deodápolis,Grupo Caiuá,Granular,V02,Formação do poço documentada,44.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026994,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027003,Ponta Porã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,64.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027004,Inocência,Grupo Bauru,Granular,V02,Formação do poço documentada,76.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027005,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,64.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027041,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027048,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027102,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,115.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027104,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027105,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027257,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,112.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045610,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045633,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,124.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023366,Juti,Grupo Caiuá,Granular,V02,Formação do poço documentada,205.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023304,Selvíria,Grupo Caiuá,Granular,V02,Formação do poço documentada,160.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023318,Aparecida do Taboado,Grupo Caiuá,Granular,V02,Formação do poço documentada,121.5,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022743,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,615.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026933,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,204.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027071,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,291.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023326,Cassilândia,Grupo Bauru,Granular,V02,Formação do poço documentada,205.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045686,Brasilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,102.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027256,Antônio João,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,146.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027265,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,144.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045655,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,160.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045660,Miranda,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,40.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023088,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,96.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027252,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,105.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023284,Santa Rita do Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,153.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023295,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,101.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023196,Dois Irmãos do Buriti,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,132.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027110,Dois Irmãos do Buriti,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,90.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027233,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,115.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045619,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,146.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045674,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045679,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,195.5,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045684,Miranda,Formação Pantanal,Granular,V02,Formação do poço documentada,108.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045688,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,110.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045706,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,122.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045712,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,116.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053079,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,72.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053089,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,110.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022773,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,193.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026927,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026942,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026955,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,68.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026961,Deodápolis,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026969,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,80.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026978,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,108.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026995,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,180.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026996,Ladário,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,61.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027021,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,8.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027029,Três Lagoas,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,42.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027062,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,93.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027090,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027146,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,80.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027170,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,206.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027287,São Gabriel do Oeste,Formação Botucatu,Granular,V02,Formação do poço documentada,132.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045235,Laguna Carapã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,148.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053096,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045614,Selvíria,Grupo Caiuá,Granular,V02,Formação do poço documentada,145.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045698,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023062,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,750.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045627,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,560.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067279,Coxim,Formação Aquidauana,Granular,V02,Formação do poço documentada,325.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023347,Jardim,Formação Aquidauana,Granular,V02,Formação do poço documentada,166.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067280,Coxim,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,254.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067281,Jaraguari,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,300.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067288,Paraíso das Águas,Grupo Caiuá,Granular,V02,Formação do poço documentada,64.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045702,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,1100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027103,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027251,Fátima do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,26.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023047,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,64.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027263,Nioaque,Formação Botucatu,Granular,V02,Formação do poço documentada,36.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027271,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,210.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045340,Campo Grande,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067385,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,115.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067707,Miranda,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067282,Jaraguari,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,222.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027254,Anastácio,Formação Aquidauana,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067321,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,180.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023149,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,114.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022587,Inocência,Grupo Bauru,Granular,V02,Formação do poço documentada,660.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026993,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,550.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022918,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,305.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022684,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,160.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022712,Laguna Carapã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,99.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045613,Três Lagoas,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,101.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045704,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,166.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026839,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,20.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026965,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,80.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027006,Ladário,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,61.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027011,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,40.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027023,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,45.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027042,Ladário,Formação Pantanal,Granular,V02,Formação do poço documentada,61.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027088,Ladário,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,90.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027093,Nioaque,Formação Aquidauana,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027148,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027175,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,111.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027239,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027269,Dois Irmãos do Buriti,Formação Aquidauana,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027290,Glória de Dourados,Grupo Caiuá,Granular,V02,Formação do poço documentada,54.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045155,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,99.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045609,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045611,Vicentina,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,72.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053095,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023290,Brasilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023293,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,92.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027080,Douradina,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023258,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,146.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023303,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,86.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030619,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,28.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045653,Alcinópolis,Grupo Caiuá,Granular,V02,Formação do poço documentada,154.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045650,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,60.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023247,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023345,Jardim,Formação Aquidauana,Granular,V02,Formação do poço documentada,100.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045654,Rio Verde de Mato Grosso,Formação Furnas,Granular,V02,Formação do poço documentada,161.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023067,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,8.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027262,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,102.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067708,Miranda,Formação Aquidauana,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053078,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,720.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027163,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,266.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045604,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,78.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022813,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,180.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022566,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,83.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022875,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,266.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023020,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,111.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027144,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,600.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045673,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,60.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045708,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500034020,Inocência,Grupo Bauru,Granular,V02,Formação do poço documentada,64.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500068740,Ribas do Rio Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,60.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022652,Bodoquena,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026941,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,104.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026947,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,60.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026966,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,60.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026998,Ladário,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,61.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027018,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027024,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,49.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027095,Fátima do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,115.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027106,Caarapó,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,73.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027209,Antônio João,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027292,Glória de Dourados,Grupo Caiuá,Granular,V02,Formação do poço documentada,60.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027299,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027315,Novo Horizonte do Sul,Grupo Caiuá,Granular,V02,Formação do poço documentada,131.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045166,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,154.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045218,Ladário,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,50.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053088,Miranda,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,40.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023189,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,49.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023383,Taquarussu,Grupo Caiuá,Granular,V02,Formação do poço documentada,80.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027259,Caarapó,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023243,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,152.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023296,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,140.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023328,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,138.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023359,Iguatemi,Grupo Caiuá,Granular,V02,Formação do poço documentada,155.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030624,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,80.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030625,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,40.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030627,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,71.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030631,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,40.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023253,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,124.8,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022739,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023035,Juti,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023052,Bonito,Grupo Cuiaba,Cárstica,V02,Formação do poço documentada,22.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023076,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,75.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023077,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,53.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067714,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023392,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022982,Paranaíba,Grupo Bauru,Granular,V02,Formação do poço documentada,180.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067717,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,178.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023260,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,267.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023380,Jateí,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022823,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,148.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022851,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,60.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022805,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,124.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023204,Dois Irmãos do Buriti,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,130.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022570,Inocência,Grupo Bauru,Granular,V02,Formação do poço documentada,216.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022574,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,87.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022618,Dourados,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022636,Aparecida do Taboado,Grupo Caiuá,Granular,V02,Formação do poço documentada,57.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022657,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022666,Guia Lopes da Laguna,Formação Aquidauana,Granular,V02,Formação do poço documentada,146.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022857,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022887,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,115.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022920,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022937,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,350.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022952,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,153.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022960,Água Clara,Grupo Caiuá,Granular,V02,Formação do poço documentada,55.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022969,Água Clara,Grupo Caiuá,Granular,V02,Formação do poço documentada,62.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023007,Rio Verde de Mato Grosso,Formação Furnas,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023099,Ribas do Rio Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,3366.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023102,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,80.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027135,Pedro Gomes,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,280.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027124,Ribas do Rio Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022561,Cassilândia,Grupo Bauru,Granular,V02,Formação do poço documentada,215.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022927,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,630.27,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027166,Coxim,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,275.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045329,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,135.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023159,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026943,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026975,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027002,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,87.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027280,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,158.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023351,Paranhos,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023369,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,161.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023370,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023388,Paranaíba,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,90.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023168,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,112.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023209,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,102.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023232,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,125.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023323,Paranaíba,Grupo Bauru,Granular,V02,Formação do poço documentada,77.2,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023394,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,638.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023354,Sete Quedas,Grupo Caiuá,Granular,V02,Formação do poço documentada,594.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027267,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,152.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022822,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,146.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022472,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022596,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,170.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022801,Nioaque,Formação Botucatu,Granular,V02,Formação do poço documentada,64.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022873,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,92.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022882,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,242.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022980,Ribas do Rio Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045623,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,200.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022487,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,106.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022495,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022523,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,144.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022532,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,112.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022536,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022545,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022562,Cassilândia,Grupo Bauru,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022623,Ponta Porã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,31.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022625,Corumbá,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,87.48,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022639,Rio Negro,Formação Furnas,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022645,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022648,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022670,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,50.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022676,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.25,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022721,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,112.8,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022761,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,200.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022771,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022772,Bodoquena,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,125.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022793,Miranda,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022795,Bodoquena,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022836,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,148.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022853,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,62.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022861,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,123.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022862,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022876,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,103.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022917,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022921,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,42.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022923,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,78.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022951,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,72.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022966,Água Clara,Grupo Caiuá,Granular,V02,Formação do poço documentada,58.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023025,Japorã,Grupo Caiuá,Granular,V02,Formação do poço documentada,155.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023109,Novo Horizonte do Sul,Grupo Caiuá,Granular,V02,Formação do poço documentada,111.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023115,Corumbá,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027026,Batayporã,Grupo Caiuá,Granular,V02,Formação do poço documentada,103.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027058,Sonora,Formação Furnas,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027082,Deodápolis,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027085,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,94.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027115,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027117,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,105.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027120,Eldorado,Grupo Caiuá,Granular,V02,Formação do poço documentada,142.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027130,Água Clara,Grupo Caiuá,Granular,V02,Formação do poço documentada,60.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027133,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027136,Batayporã,Grupo Caiuá,Granular,V02,Formação do poço documentada,111.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027142,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027180,Paranhos,Grupo Caiuá,Granular,V02,Formação do poço documentada,82.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027181,Juti,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027194,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,95.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027204,Tacuru,Grupo Caiuá,Granular,V02,Formação do poço documentada,103.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027206,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,85.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027207,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,92.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027218,Paranhos,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027222,Rio Negro,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,90.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027230,Paranaíba,Grupo Bauru,Granular,V02,Formação do poço documentada,77.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027237,Itaquiraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,117.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027243,Bataguassu,Depósitos aluvionares,Granular,V02,Formação do poço documentada,94.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027275,Caracol,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,102.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027276,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027281,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027288,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,42.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027298,Bodoquena,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045252,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,90.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045272,Camapuã,Grupo Caiuá,Granular,V02,Formação do poço documentada,139.4,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045383,Água Clara,Grupo Caiuá,Granular,V02,Formação do poço documentada,62.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045602,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,142.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023341,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,50.5,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023207,Anastácio,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023302,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,86.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023376,Novo Horizonte do Sul,Grupo Caiuá,Granular,V02,Formação do poço documentada,102.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023174,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,97.7,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026959,Batayporã,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030628,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,60.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023251,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,160.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027249,Caarapó,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,145.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022703,Eldorado,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022705,Iguatemi,Grupo Caiuá,Granular,V02,Formação do poço documentada,125.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022716,Ponta Porã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022732,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022734,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,124.1,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022742,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,144.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023050,Bonito,Grupo Cuiaba,Cárstica,V02,Formação do poço documentada,75.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023057,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,55.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023061,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,89.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023073,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,17.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023079,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,55.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045465,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023036,Glória de Dourados,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067702,Ribas do Rio Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,108.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023046,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,740.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045651,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023338,Costa Rica,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,105.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022821,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,115.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022815,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022844,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,728.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022537,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,102.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022807,Sidrolândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022481,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,90.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022482,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,80.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022517,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022560,Paranaíba,Grupo Bauru,Granular,V02,Formação do poço documentada,77.2,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022565,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,83.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022637,Pedro Gomes,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,212.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022714,Laguna Carapã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,81.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022748,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,348.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022760,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,303.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022766,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,46.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022789,Guia Lopes da Laguna,Formação Aquidauana,Granular,V02,Formação do poço documentada,186.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022884,Fátima do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,102.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022947,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022950,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022956,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,66.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022970,Brasilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022981,Paranaíba,Grupo Bauru,Granular,V02,Formação do poço documentada,180.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022986,Selvíria,Grupo Caiuá,Granular,V02,Formação do poço documentada,160.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023028,Pedro Gomes,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,252.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023039,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,144.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023058,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,600.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023105,Sonora,Formação Furnas,Granular,V02,Formação do poço documentada,73.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023336,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,83.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027165,Sonora,Formação Furnas,Granular,V02,Formação do poço documentada,142.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022919,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,206.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022490,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023227,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,65.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027241,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,97.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045118,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,112.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022607,Chapadão do Sul,Formação Cachoeirinha,Granular,V02,Formação do poço documentada,158.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022908,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023141,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,105.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023186,Cassilândia,Grupo Bauru,Granular,V02,Formação do poço documentada,215.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023216,Jaraguari,Formação Botucatu,Granular,V02,Formação do poço documentada,75.5,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023272,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,160.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026981,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,129.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027066,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,62.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045605,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,644.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045699,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,55.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022510,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,154.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022597,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,160.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022600,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,124.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022730,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022891,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,132.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023044,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,143.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500028108,Rochedo,Formação Botucatu,Granular,V02,Formação do poço documentada,66.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500029179,Brasilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,58.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022483,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,105.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022498,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022515,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022521,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,110.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022526,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,136.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022546,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022551,Novo Horizonte do Sul,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022554,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022609,Rio Verde de Mato Grosso,Formação Furnas,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022614,Corumbá,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,68.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022640,Batayporã,Grupo Caiuá,Granular,V02,Formação do poço documentada,96.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022642,Corumbá,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,39.8,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022725,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022749,Eldorado,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022798,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,108.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022803,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022832,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022855,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,112.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022877,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022894,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,172.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022895,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022936,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,97.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022949,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,145.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022962,Aparecida do Taboado,Grupo Bauru,Granular,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022991,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,151.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022994,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022995,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,152.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023005,Rio Verde de Mato Grosso,Formação Furnas,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023030,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,103.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023031,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,99.7,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023064,Bela Vista,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,21.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023083,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,33.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023086,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,126.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023094,Bonito,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,85.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023155,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,297.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023162,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,108.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026989,Batayporã,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027025,Rio Verde de Mato Grosso,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,99.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027039,Rio Negro,Formação Furnas,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027079,Alcinópolis,Grupo Caiuá,Granular,V02,Formação do poço documentada,115.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027087,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,98.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027101,Iguatemi,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027113,Novo Horizonte do Sul,Grupo Caiuá,Granular,V02,Formação do poço documentada,111.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027121,Sonora,Formação Furnas,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027132,Japorã,Grupo Caiuá,Granular,V02,Formação do poço documentada,145.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027155,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027161,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,92.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027172,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,81.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027178,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027187,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,135.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027193,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027203,Santa Rita do Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027238,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027273,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027279,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027283,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027285,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,88.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027293,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,85.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027296,Laguna Carapã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,99.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045451,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045452,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023257,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,92.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023280,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,148.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023322,Paranaíba,Grupo Bauru,Granular,V02,Formação do poço documentada,180.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023340,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,119.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030622,Bonito,Depósitos aluvionares,Granular,V02,Formação do poço documentada,260.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030626,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,65.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030629,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,100.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022691,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,213.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022698,Caarapó,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,145.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022708,Iguatemi,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023069,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,160.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023072,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,16.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023080,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,28.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067668,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,190.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022754,Anastácio,Formação Aquidauana,Granular,V02,Formação do poço documentada,168.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022998,Rio Negro,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023045,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,160.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067323,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,103.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067387,Rochedo,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,64.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067704,Paraíso das Águas,Grupo Caiuá,Granular,V02,Formação do poço documentada,87.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027223,Ribas do Rio Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022663,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,740.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022786,Dois Irmãos do Buriti,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023153,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,121.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022916,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,240.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022858,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,165.8,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022864,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,226.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022941,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022480,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022496,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,112.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022541,Jateí,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022564,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,76.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022578,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,82.3,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022586,Cassilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,68.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022604,Sonora,Formação Furnas,Granular,V02,Formação do poço documentada,142.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022611,Rio Verde de Mato Grosso,Formação Furnas,Granular,V02,Formação do poço documentada,160.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022649,Sidrolândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022808,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022819,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,215.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022865,Nova Alvorada do Sul,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022867,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022946,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,72.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022976,Selvíria,Grupo Caiuá,Granular,V02,Formação do poço documentada,96.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023056,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,601.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023103,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,151.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023106,Sonora,Formação Furnas,Granular,V02,Formação do poço documentada,67.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026984,Rio Verde de Mato Grosso,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027131,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,601.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023231,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,104.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023198,Dois Irmãos do Buriti,Formação Botucatu,Granular,V02,Formação do poço documentada,115.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023217,Jaraguari,Formação Botucatu,Granular,V02,Formação do poço documentada,109.1,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023229,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,100.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027125,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,98.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022854,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,98.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022598,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,160.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022689,Antônio João,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500028110,São Gabriel do Oeste,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,58.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022470,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022491,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022492,Campo Grande,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022514,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022533,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,121.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022542,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,168.46,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022555,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,144.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022580,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,160.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022617,Japorã,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022626,Corumbá,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,81.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022629,Itaquiraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,117.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022635,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022656,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022658,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,114.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022664,Caracol,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,89.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022673,Batayporã,Grupo Caiuá,Granular,V02,Formação do poço documentada,103.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022720,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,119.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022751,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022762,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,162.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022767,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,200.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022776,Bonito,Grupo Cuiaba,Cárstica,V02,Formação do poço documentada,82.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022783,Caracol,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,89.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022787,Dois Irmãos do Buriti,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022804,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022830,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022834,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022837,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022871,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022905,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,200.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022938,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,97.7,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022971,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,115.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022978,Santa Rita do Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,153.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022990,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,111.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023022,Eldorado,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023040,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023085,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,17.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023090,Bonito,Grupo Cuiaba,Cárstica,V02,Formação do poço documentada,53.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023092,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,18.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023093,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,85.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023098,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,110.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026985,Douradina,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,155.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027052,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,146.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027060,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,70.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027064,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,144.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027099,Eldorado,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027100,Eldorado,Grupo Caiuá,Granular,V02,Formação do poço documentada,152.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027118,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027123,Brasilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027141,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027147,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027164,Rio Verde de Mato Grosso,Formação Furnas,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027171,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,79.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027185,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,132.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027186,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,128.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027189,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,1926.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027210,Antônio João,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027226,Fátima do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,97.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027234,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,148.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027242,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,115.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027310,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045301,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,148.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045385,Campo Grande,Grupo Caiuá,Granular,V02,Formação do poço documentada,126.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053092,Campo Grande,Grupo Caiuá,Granular,V02,Formação do poço documentada,144.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023129,Laguna Carapã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,81.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023259,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,95.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023261,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,54.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023277,Bataguassu,Depósitos aluvionares,Granular,V02,Formação do poço documentada,115.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023288,Brasilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,109.15,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023294,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,94.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023374,Novo Horizonte do Sul,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.5,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023375,Novo Horizonte do Sul,Grupo Caiuá,Granular,V02,Formação do poço documentada,115.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022474,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027198,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,79.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023274,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,110.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030634,Rio Verde de Mato Grosso,Formação Furnas,Granular,V02,Formação do poço documentada,150.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030635,Rio Verde de Mato Grosso,Formação Furnas,Granular,V02,Formação do poço documentada,150.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030637,Corguinho,Formação Botucatu,Granular,V02,Formação do poço documentada,150.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022688,Antônio João,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022690,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022701,Eldorado,Grupo Caiuá,Granular,V02,Formação do poço documentada,152.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022702,Eldorado,Grupo Caiuá,Granular,V02,Formação do poço documentada,152.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022727,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,248.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022731,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022753,Anastácio,Formação Aquidauana,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022979,Santa Rita do Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,126.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023063,Bonito,Grupo Cuiaba,Cárstica,V02,Formação do poço documentada,85.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023066,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,292.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067285,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,48.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045659,Três Lagoas,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,50.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026954,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,80.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022695,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022985,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,85.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022999,Rio Negro,Formação Furnas,Granular,V02,Formação do poço documentada,90.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023252,Camapuã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,110.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067497,Jaraguari,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,94.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067701,Ribas do Rio Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,122.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022602,Camapuã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022692,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,161.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022811,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022940,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,145.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022475,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,177.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022479,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,135.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022489,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,163.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022505,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,151.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022509,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,95.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022527,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,134.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022558,Taquarussu,Grupo Caiuá,Granular,V02,Formação do poço documentada,80.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022573,Inocência,Grupo Bauru,Granular,V02,Formação do poço documentada,145.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022577,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,92.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022603,Sonora,Formação Furnas,Granular,V02,Formação do poço documentada,102.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022605,Sonora,Formação Furnas,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022628,Juti,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022630,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022632,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022948,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,70.3,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022964,Brasilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,126.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023018,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,166.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027040,Pedro Gomes,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,212.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027092,Jateí,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023344,Nioaque,Formação Botucatu,Granular,V02,Formação do poço documentada,105.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023139,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,160.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023137,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023219,Rochedo,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023246,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,184.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023315,Aparecida do Taboado,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022486,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,82.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022522,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022693,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022872,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,146.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026840,Iguatemi,Grupo Caiuá,Granular,V02,Formação do poço documentada,62.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500029178,Santa Rita do Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,58.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022494,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022511,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022539,Batayporã,Grupo Caiuá,Granular,V02,Formação do poço documentada,111.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022553,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022592,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022601,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022612,Rio Verde de Mato Grosso,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,99.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022616,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,122.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022647,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,97.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022660,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,71.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022667,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022677,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,152.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022717,Mundo Novo,Grupo Caiuá,Granular,V02,Formação do poço documentada,155.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022756,Anastácio,Formação Aquidauana,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022778,Caracol,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,105.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022782,Caracol,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,75.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022788,Dois Irmãos do Buriti,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022791,Jardim,Formação Aquidauana,Granular,V02,Formação do poço documentada,180.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022794,Bodoquena,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,90.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022796,Bodoquena,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,96.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022797,Aquidauana,Formação Aquidauana,Granular,V02,Formação do poço documentada,80.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022802,Dois Irmãos do Buriti,Formação Aquidauana,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022818,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022835,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022838,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022878,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022902,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022907,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,80.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022911,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,42.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022914,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,44.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022932,Anaurilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,103.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022933,Anaurilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,84.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022935,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,98.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022939,Angélica,Grupo Caiuá,Granular,V02,Formação do poço documentada,97.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022944,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,84.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022965,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,92.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022988,Brasilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,95.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023006,Rio Verde de Mato Grosso,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023055,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,157.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023114,Corumbá,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,183.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023122,Corumbá,Grupo Corumbá,Cárstica,V02,Formação do poço documentada,54.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023160,Aral Moreira,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,213.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026988,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027009,Miranda,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027014,Amambai,Grupo Caiuá,Granular,V02,Formação do poço documentada,94.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027034,Novo Horizonte do Sul,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027036,Iguatemi,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027055,Camapuã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027056,Camapuã,Formação Botucatu,Granular,V02,Formação do poço documentada,124.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027065,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,146.8,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027097,Aparecida do Taboado,Grupo Bauru,Granular,V02,Formação do poço documentada,90.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027112,Jateí,Grupo Caiuá,Granular,V02,Formação do poço documentada,95.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027150,Alcinópolis,Grupo Caiuá,Granular,V02,Formação do poço documentada,115.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027151,Coxim,Formação Furnas,Granular,V02,Formação do poço documentada,94.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027160,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,292.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027169,Taquarussu,Grupo Caiuá,Granular,V02,Formação do poço documentada,80.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027197,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,74.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027216,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027220,Amambai,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,123.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027228,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,132.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027231,Eldorado,Grupo Caiuá,Granular,V02,Formação do poço documentada,157.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027245,Bodoquena,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,108.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027309,Ponta Porã,Grupo Caiuá,Granular,V02,Formação do poço documentada,126.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045386,Taquarussu,Grupo Caiuá,Granular,V02,Formação do poço documentada,104.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053081,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023214,Rochedo,Formação Botucatu,Granular,V02,Formação do poço documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023292,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,88.5,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023300,Três Lagoas,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,86.2,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023309,Inocência,Grupo Bauru,Granular,V02,Formação do poço documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023334,Costa Rica,Grupo Caiuá,Granular,V02,Formação do poço documentada,50.7,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023372,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,121.3,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023377,Glória de Dourados,Grupo Caiuá,Granular,V02,Formação do poço documentada,72.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023381,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,128.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023228,São Gabriel do Oeste,Grupo Bauru,Granular,V02,Formação do poço documentada,45.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022525,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,163.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026952,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,75.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027174,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,86.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023269,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023282,Santa Rita do Pardo,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023291,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,82.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023060,Ponta Porã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,6.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027266,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,134.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027268,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027319,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030620,Bonito,Embasamento Indiferenciado,Fraturada,V02,Formação do poço documentada,17.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027070,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045657,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,160.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067711,Corguinho,Formação Aquidauana,Granular,V02,Formação do poço documentada,180.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022860,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022868,Caarapó,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,260.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023048,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,562.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027098,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023297,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,174.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027030,Douradina,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045658,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,71.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045667,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045690,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,132.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045713,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,149.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500034023,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,61.4,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500068745,Paraíso das Águas,Grupo Caiuá,Granular,V02,Formação do poço documentada,53.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500068741,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,66.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023164,Antônio João,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026948,Nova Alvorada do Sul,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,200.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026976,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,98.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026992,Laguna Carapã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,25.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027000,Aparecida do Taboado,Grupo Caiuá,Granular,V02,Formação do poço documentada,60.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027047,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,112.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027109,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,130.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027111,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027128,Terenos,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027138,Deodápolis,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027196,Vicentina,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027278,Coxim,Formação Ponta Grossa,Granular,V02,Formação do poço documentada,140.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027289,Glória de Dourados,Grupo Caiuá,Granular,V02,Formação do poço documentada,48.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027291,Glória de Dourados,Grupo Caiuá,Granular,V02,Formação do poço documentada,60.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027317,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,149.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053097,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,160.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023182,Anaurilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023321,Paranaíba,Grupo Bauru,Granular,V02,Formação do poço documentada,180.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045672,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,80.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023059,Bonito,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,17.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027255,Anastácio,Formação Aquidauana,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027260,Dois Irmãos do Buriti,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500067496,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,91.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500030640,Bandeirantes,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,96.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027318,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,92.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045652,Rio Brilhante,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,60.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045677,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,80.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027068,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,215.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027076,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,165.8,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027225,Sidrolândia,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045157,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,195.5,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045618,Chapadão do Sul,Grupo Caiuá,Granular,V02,Formação do poço documentada,90.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045648,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,1300.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045681,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,150.3,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023166,Antônio João,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,185.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023240,Figueirão,Formação Botucatu,Granular,V02,Formação do poço documentada,158.0,4,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027316,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023387,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,152.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023275,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,130.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023384,Taquarussu,Grupo Caiuá,Granular,V02,Formação do poço documentada,74.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053085,Miranda,Grupo Cuiaba,Fraturada,V02,Formação do poço documentada,30.0,6,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027157,Ivinhema,Grupo Caiuá,Granular,V02,Formação do poço documentada,135.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023287,Brasilândia,Grupo Caiuá,Granular,V02,Formação do poço documentada,126.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026928,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,80.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045608,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,130.0,3,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045675,Rio Brilhante,Grupo Caiuá,Granular,V02,Formação do poço documentada,60.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045693,Campo Grande,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,132.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045705,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,111.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045707,Três Lagoas,Grupo Caiuá,Granular,V02,Formação do poço documentada,146.84,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500022590,Alcinópolis,Grupo Caiuá,Granular,V02,Formação do poço documentada,117.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023068,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,113.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023124,Jardim,Grupo Cuiaba,Cárstica,V02,Formação do poço documentada,93.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026956,Caarapó,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500026987,Nova Andradina,Grupo Caiuá,Granular,V02,Formação do poço documentada,150.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027010,Ponta Porã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,103.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027022,Itaporã,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,123.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027038,Selvíria,Grupo Caiuá,Granular,V02,Formação do poço documentada,35.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027107,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027114,Bataguassu,Grupo Caiuá,Granular,V02,Formação do poço documentada,100.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027140,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,120.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500027159,Maracaju,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,123.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045119,Dourados,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,64.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500045616,Água Clara,Grupo Caiuá,Granular,V02,Formação do poço documentada,58.0,1,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500053082,Porto Murtinho,Formação Pantanal,Granular,V02,Formação do poço documentada,60.0,2,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023256,Ribas do Rio Pardo,Formação Serra Geral,Fraturada,V02,Formação do poço documentada,136.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO
+3500023393,Naviraí,Grupo Caiuá,Granular,V02,Formação do poço documentada,128.0,5,UNKNOWN_SEM_INTERVALO_DE_FILTRO_DEMONSTRADO

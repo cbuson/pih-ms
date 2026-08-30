@@ -1,0 +1,20 @@
+{
+  "source": "RASTER/Pluviometria.tif",
+  "crs": "EPSG:4674",
+  "bounds_wgs84_approx": [
+    -24.068583626999953,
+    -58.16872026599998,
+    -17.16658362699995,
+    -50.92272026599998
+  ],
+  "source_size": [
+    3623,
+    3451
+  ],
+  "web_size": [
+    1800,
+    1714
+  ],
+  "nodata": -3.4028230607370965e+38,
+  "note": "PNG derivado exclusivamente para visualização web. O GeoTIFF original permanece na fonte SGB 2024 congelada."
+}

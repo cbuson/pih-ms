@@ -1,0 +1,9 @@
+﻿dataset,features,crs,geometry_types,fields
+Hidrogeologia,444,EPSG:4674,MultiPolygon | Polygon,SGL_UE_AFL | SGL_UE_SUB | NOM_UE_AFL | NOM_UE_SUB | L_UE_AFL | L_UE_SUB | U_HE_AFL | U_HE_SUB | ESTRAT | REPR_MAP | ROTULO | CLS_STYLE | Shape_Leng | Shape_Area
+Dominio_Hidrolitologico,483,EPSG:4674,MultiPolygon | Polygon,Shape_Leng | Shape_Area | U_HL_AFL
+Pocos_SIAGAS_RIMAS,2194,EPSG:4674,Point,ponto | localizaca | data_insta | cota_terre | latitude | longitude | latitude_d | longitude_ | utme | utmn | bacia | municipio | natureza | nome | subbacia | situacao | uf | uso_agua | data_perfu | metodo_per | perfurador | diametro_b | topo | base | tipo_penet | condicao | tipo_capta | data_medic | nivel_agua | vazao | nivel_bomb | profundida | profundi_1 | tipo_forma | data_teste | tipo_teste | metodo_int | surgencia | unidade_de | nivel_dina | nivel_esta | vazao_espe | coeficient | vazao_livr | permeabili | transmissi | vazao_esta | tipo_bomba | data_anali | data_colet | cor | odor | sabor | temperatur | turbidez | solidos_se | solidos_su | aspecto_na | Uso_Simp | Cond_Eletr
+Pocos_Representativos,24,EPSG:4674,Point,OBJECTID | SIAGAS | UF | MUNICIPIO | LAT | LOG | AQUIF_CAP | SIGLA | Q_m3_h | q_m3_h_m | NE_m | ND_m | PROF_m | T_m2_s | K_m_s | CE_µS_cm | Rotulo | HE_REPR
+Potenciometria,85,EPSG:4674,LineString | MultiLineString,LOCAL | VAL_POTENC | TIPO | SERIE_H | ZLEVEL | SHAPE_Leng
+Densidade_de_Pocos_Cadastrados,1490,EPSG:4674,Polygon,No_de_Poco | Shape_Leng | Shape_Area
+Estimativa_Volumes_Anuais_Explotados,1490,EPSG:4674,Polygon,Intervalo_ | Shape_Leng | Shape_Area
+Capacidade_de_Infiltracao_dos_Solos,625,EPSG:4674,MultiPolygon | Polygon,legenda | infiltraca | Shape_Leng | Shape_Area

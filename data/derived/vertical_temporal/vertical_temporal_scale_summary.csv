@@ -1,0 +1,6 @@
+﻿scale_km2,n_cells,cells_with_wells,cells_without_wells,median_formation_pct_occupied,median_penetration_pct_occupied,median_top_base_raw_pct_occupied,median_any_dated_pct_occupied,median_latest_age_years_occupied,cells_with_dated_level_measurement,cells_with_rimas_registration,cells_with_demonstrated_time_series
+100,3763,774,2989,0.0,0.0,0.0,0.0,20.140043943407463,18,22,0
+150,2525,657,1868,0.0,0.0,0.0,16.666666666666664,20.771131508518312,18,22,0
+250,1537,523,1014,14.285714285714285,0.0,0.0,24.0,21.222886164671415,18,22,0
+500,791,354,437,25.0,0.0,0.0,33.33333333333333,20.78618999705675,18,22,0
+1000,413,240,173,30.0187617260788,0.0,0.0,37.32142857142857,20.82246726489935,18,22,0

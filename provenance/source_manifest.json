@@ -1,0 +1,87 @@
+{
+  "project": "PIH MS",
+  "version": "0.5.0",
+  "principle": "Only PIH-relevant layers are included. No PIH score, weighting, interpolation or priority is present.",
+  "sources": [
+    {
+      "file": "limite_ms_ibge_2025.geojson",
+      "producer": "IBGE",
+      "role": "territorial boundary",
+      "status": "source snapshot carried into PIH for audit"
+    },
+    {
+      "file": "municipios_ms.geojson",
+      "producer": "IBGE",
+      "role": "administrative reference",
+      "status": "source snapshot carried into PIH for audit"
+    },
+    {
+      "file": "hidrogeologia_sgb_2024.geojson",
+      "producer": "Serviço Geológico do Brasil SGB",
+      "role": "official state hydrogeological reference",
+      "status": "derived web copy from official SGB 2024 shapefile",
+      "source_crs": "EPSG:4674",
+      "web_crs": "EPSG:4326",
+      "features": 444,
+      "units": 16,
+      "official_url": "https://rigeo.sgb.gov.br/items/72faa1af-56fa-45cd-92d9-d53f2db27ee7"
+    },
+    {
+      "file": "dominio_hidrolitologico_sgb_2024.geojson",
+      "producer": "Serviço Geológico do Brasil SGB",
+      "role": "hydrolithological context",
+      "status": "derived web copy from official SGB 2024 package",
+      "source_crs": "EPSG:4674",
+      "web_crs": "EPSG:4326",
+      "features": 483
+    },
+    {
+      "file": "sistema_aquifero_guarani_ana.geojson",
+      "producer": "ANA and CPRM",
+      "role": "aquifer reference",
+      "status": "reference layer"
+    },
+    {
+      "file": "geologia_ms.geojson",
+      "producer": "SGB",
+      "role": "geological context",
+      "status": "source snapshot"
+    },
+    {
+      "file": "siagas_pocos_ms.geojson",
+      "producer": "SGB SIAGAS",
+      "role": "well evidence",
+      "records": 3877,
+      "status": "working snapshot under field-level audit"
+    },
+    {
+      "file": "malha_250km2_candidata.geojson",
+      "producer": "PIH MS derived from IBGE boundary and existing audited grid geometry",
+      "role": "experimental scale",
+      "cells": 1554,
+      "status": "candidate not adopted"
+    },
+    {
+      "file": "malha_500km2_candidata.geojson",
+      "producer": "PIH MS derived from IBGE boundary and existing audited grid geometry",
+      "role": "experimental scale",
+      "cells": 793,
+      "status": "candidate not adopted"
+    },
+    {
+      "file": "malha_1000km2_candidata.geojson",
+      "producer": "PIH MS derived from IBGE boundary and existing audited grid geometry",
+      "role": "experimental scale",
+      "cells": 412,
+      "status": "candidate not adopted"
+    }
+  ],
+  "geologia_sgb_renderer_2006": {
+    "producer": "Serviço Geológico do Brasil - SGB",
+    "source_url": "https://geoportal.sgb.gov.br/server/rest/services/geologia/litoestratigrafia_estados/MapServer/7",
+    "scale": "1:1.000.000",
+    "field": "ID_UNIDADE_ESTRATIGRAFICA",
+    "unit_count": 67,
+    "role": "Simbologia oficial do mapa geológico usada pelo PIH MS"
+  }
+}

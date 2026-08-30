@@ -1,0 +1,10 @@
+﻿dimension,state_field,what_it_describes,what_it_does_not_mean,method_version,cutoff_date
+ESPACIAL,spatial_state,Validade e alertas objetivos da localização,Não mede representatividade hidrogeológica e não interpreta proximidade como qualidade,PIH_MS_V2.2_CHE_V1,2026-08-29
+HIDROESTRATIGRAFICA,hydrostrat_state,Estado da comparação entre cadastro e referência cartográfica,Divergência cartográfica não conclusiva não é contradição demonstrada,PIH_MS_V2.2_CHE_V1,2026-08-29
+VERTICAL,vertical_state,Profundidade total e metadados verticais disponíveis,Topo e base brutos não são tratados como intervalo captado,PIH_MS_V2.2_CHE_V1,2026-08-29
+HIDRAULICA,hydraulic_state,Componentes hidráulicos documentados em níveis graduais de completude,Transmissividade informada não é parâmetro validado,PIH_MS_V2.2_CHE_V1,2026-08-29
+HIDROQUIMICA,hydrochemical_state,Presença de evidência hidroquímica parcial e data,"Não demonstra painel completo, unidade validada ou comparabilidade analítica",PIH_MS_V2.2_CHE_V1,2026-08-29
+TEMPORAL,temporal_state,Presença e diversidade de evidência datada,Uma ou mais datas isoladas não formam série temporal,PIH_MS_V2.2_CHE_V1,2026-08-29
+INDEPENDENCIA,independence_state,Estado da independência hidrogeológica,Redundância espacial ou documental não demonstra independência hidrogeológica,PIH_MS_V2.2_CHE_V1,2026-08-29
+QUALIDADE_DOCUMENTAL,documentary_state,Alertas objetivos preservados sem correção silenciosa,Ausência de alerta nas regras atuais não certifica qualidade total,PIH_MS_V2.2_CHE_V1,2026-08-29
+INCERTEZA,uncertainty_state,Códigos explícitos de desconhecimento e limitação,Os códigos não são somados e não produzem escore,PIH_MS_V2.2_CHE_V1,2026-08-29

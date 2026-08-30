@@ -1,0 +1,13 @@
+﻿code,name,feature_count,pct_of_3877,source_dataset,grid_readiness,median_age_years,min_age_years,max_age_years
+E01,Poços canônicos provisórios,3877,100.0,SIAGAS_MS_20260814 + AUDITORIA_V1,READY_FOR_GRID_COUNTS,,,
+E02,Profundidade positiva informada,3414,88.06,SIAGAS_MS_20260814,READY_FOR_GRID_COUNTS,,,
+E03,Aquífero informado no cadastro,3097,79.88,SIAGAS_MS_20260814,READY_FOR_GRID_COUNTS,,,
+E04,Nível estático disponível,3213,82.87,SIAGAS_MS_20260814,READY_FOR_GRID_COUNTS,,,
+E05,Nível dinâmico disponível,3180,82.02,SIAGAS_MS_20260814,READY_FOR_GRID_COUNTS,,,
+E06,Vazão específica não negativa,3051,78.69,SIAGAS_MS_20260814 + AUDITORIA_V1,READY_FOR_GRID_COUNTS,,,
+E07,Ensaio de bombeamento cadastrado,1106,28.53,SGB_HIDRO_MS_2024_POCOS,READY_FOR_GRID_COUNTS,,,
+E08,Ensaio com metadados mínimos de cadastro,1096,28.27,SGB_HIDRO_MS_2024_POCOS,READY_FOR_GRID_COUNTS,,,
+E09,Transmissividade informada,51,1.32,SGB_HIDRO_MS_2024_POCOS,READY_FOR_GRID_COUNTS,,,
+E10,Evidência hidroquímica e físico-química parcial,2053,52.95,SIAGAS_MS_20260814,READY_FOR_GRID_COUNTS,,,
+E11,Última evidência hidrogeológica datada,1637,42.22,SGB_HIDRO_MS_2024_POCOS,READY_FOR_GRID_COUNTS,23.46,3.25,68.23
+E12,Revisão hidroestratigráfica necessária,1823,47.02,SIAGAS_MS_20260814 + SGB_HIDRO_MS_2024 + AUDITORIA_V1,READY_FOR_GRID_COUNTS,,,

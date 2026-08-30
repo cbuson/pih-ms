@@ -1,0 +1,20 @@
+{
+  "styles": {
+    "Granular (Gr)": {
+      "type": "color",
+      "color": "#82adcf"
+    },
+    "Fraturada (Fr)": {
+      "type": "color",
+      "color": "#98e655"
+    },
+    "Cárstica (K)": {
+      "type": "pattern",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAABQCAYAAABPlrgBAAAACXBIWXMAABJ0AAASdAHeZh94AAABCklEQVR4nO3awQnCUBBF0cTGbEAswwbsxjJ+B1ama/FuDH5I4JwCZvFgHrOYdYzxWviwLvfLlFDG+bZcn48Zo6fPPk2ZfHBCCUIJq6L99lPRHrE8t8y1PkEoQShB0QYXbcy2PkEoQShB0QYXbbA+QShBKEHRBhdtzLY+QShBKEHRhl1ctDOLc8t86xOEEoQSFG1w0cZs6xOEEoQSFG1w0QbrE4QShBIUbXDRxmzrE4QShBIUbdjFRTtztq+DPxFKEEpQtMFFG7OtTxBKEEpQtMFFG6xPEEoQSlC0wUUbs61PEEoQSlC0YRcXra+DAxBKEEpQtMFFG7OtTxBKEEpQtMFFG6xPEEoQSngDLlTQaSOUze0AAAAASUVORK5CYII=",
+      "fallback": "#d9d9d9"
+    }
+  },
+  "field": "U_HL_AFL",
+  "producer": "SGB",
+  "year": 2024
+}

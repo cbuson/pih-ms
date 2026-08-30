@@ -1,0 +1,27 @@
+{
+  "version": "V1.8",
+  "date_cutoff": "2026-08-29",
+  "crs_metric": "EPSG:5880",
+  "scales_km2": [
+    100,
+    150,
+    250,
+    500,
+    1000
+  ],
+  "evidence_codes": [
+    "E01",
+    "E07",
+    "E09",
+    "E10"
+  ],
+  "official_hydro_units_n": 16,
+  "official_domains_n": 3,
+  "support_points_n": 14284,
+  "method_notes": [
+    "Composição das células calculada por interseção vetorial exata em EPSG:5880.",
+    "Cobertura e mascaramento avaliados em 14.284 pontos fixos de suporte de 5 km.",
+    "Evidência em outra unidade não é tratada como evidência do estrato local.",
+    "Nenhuma escala foi selecionada e nenhum score PIH foi calculado."
+  ]
+}

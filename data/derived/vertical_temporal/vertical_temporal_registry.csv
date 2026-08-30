@@ -1,0 +1,16 @@
+﻿code,name,source,question,rule,status
+V01,Profundidade positiva,E02,Existe profundidade total positiva no cadastro auditado,Reutiliza E02. Não demonstra intervalo captado,IMPLEMENTADA_POR_E02
+V02,Formação do poço documentada,SGB 2024 poços,Existe formação geológica registrada para o poço,Campo tipo_forma ou formation_sgb2024 não vazio,IMPLEMENTADA
+V03,Tipo de penetração documentado,SGB 2024 poços,Existe indicação parcial ou total de penetração,Campo tipo_penet não vazio,IMPLEMENTADA
+V04,Condição hidráulica documentada,SGB 2024 poços,"Existe condição livre, confinada ou intermediária registrada",Campo condicao não vazio,IMPLEMENTADA
+V05,Tipo de captação documentado,SGB 2024 poços,Existe indicação de captação única ou simultânea,Campo tipo_capta não vazio,IMPLEMENTADA
+V06,Topo e base brutos coerentes,SGB 2024 poços,Existem valores positivos de topo e base com base maior que topo,topo > 0 e base > topo. Sem inferir que sejam filtros,IMPLEMENTADA
+V07,Diâmetro documentado,SGB 2024 poços,Existe diâmetro bruto informado,Campo diametro_b não vazio,IMPLEMENTADA
+V08,Intervalo de filtro ou tela demonstrado,SIAGAS e SGB adquiridos,É possível demonstrar o intervalo efetivamente filtrado ou aberto,Nenhuma tabela de filtros ou telas foi adquirida nesta fase,UNKNOWN_NAO_DEMONSTRADO
+T01,Ensaio de bombeamento datado,SGB 2024 poços,Existe data do ensaio hidráulico,data_teste interpretável,IMPLEMENTADA
+T02,Evidência química datada,SGB 2024 poços,Existe data de coleta ou análise química,Prioriza data_colet e usa data_anali quando coleta não está disponível,IMPLEMENTADA
+T03,Medição de nível datada,SGB 2024 poços,Existe data_medic associada a nivel_agua,data_medic interpretável. Uma medição não forma série,IMPLEMENTADA
+T04,Evidência hidrogeológica datada,T01 T02 T03,Existe ao menos um evento hidrogeológico datado,"União de teste, química e medição de nível datados",IMPLEMENTADA
+T05,Múltiplos domínios datados,T01 T02 T03,O poço possui evidência datada em pelo menos dois domínios distintos,"Dois ou mais entre teste, química e nível",IMPLEMENTADA
+T06,Cadastro identificado como RIMAS,SIAGAS 2026 snapshot,O campo status_rimas identifica o registro como Rimas,status_rimas = Rimas. Não prova disponibilidade local da série,IMPLEMENTADA
+T07,Série temporal demonstrada,Dados adquiridos até o corte,Existe sequência temporal da mesma variável suficiente para caracterizar uma série,Nenhuma série completa foi adquirida nesta fase,UNKNOWN_NAO_DEMONSTRADO

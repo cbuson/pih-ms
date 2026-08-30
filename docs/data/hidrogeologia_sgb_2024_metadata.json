@@ -1,0 +1,43 @@
+{
+  "title": "Mapa hidrogeológico do estado de Mato Grosso do Sul",
+  "producer": "Serviço Geológico do Brasil SGB",
+  "authors": [
+    "Marcelo Campos Abreu",
+    "Thiago Luis Fernandes de Paula",
+    "Katia Rempel",
+    "Elias Manoel Senhorinho"
+  ],
+  "year": 2024,
+  "scale": "1:1.000.000",
+  "source_crs": "SIRGAS 2000 EPSG 4674",
+  "web_copy_crs": "EPSG 4326",
+  "polygons": 444,
+  "units": [
+    "Depósitos aluvionares",
+    "Embasamento Indiferenciado",
+    "Formação Aquidauana",
+    "Formação Botucatu",
+    "Formação Cachoeirinha",
+    "Formação Furnas",
+    "Formação Palermo",
+    "Formação Pantanal",
+    "Formação Ponta Grossa",
+    "Formação Serra Geral",
+    "Formação Xaraiés",
+    "Grupo Bauru",
+    "Grupo Caiuá",
+    "Grupo Corumbá",
+    "Grupo Cuiaba",
+    "Grupo Rio Ivaí"
+  ],
+  "unit_count": 16,
+  "domain_polygons": 483,
+  "domain_classes": [
+    "Cárstica (K)",
+    "Fraturada (Fr)",
+    "Granular (Gr)"
+  ],
+  "contact_features": 1123,
+  "official_url": "https://rigeo.sgb.gov.br/items/72faa1af-56fa-45cd-92d9-d53f2db27ee7",
+  "principle": "A cartografia oficial é referência hidroestratigráfica regional. Não transforma ausência de observação em evidência hidrogeológica local."
+}

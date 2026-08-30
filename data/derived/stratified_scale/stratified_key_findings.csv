@@ -1,0 +1,13 @@
+﻿finding,value,interpretation
+Concentração cadastral,76.48%,"Serra Geral e Caiuá concentram a maior parte dos poços E01. Isto é distribuição do cadastro, não importância hidrogeológica."
+Unidade sem E01,Grupo Rio Ivaí,"Nenhum poço E01 foi atribuído à unidade aflorante no conjunto auditado. Estado de observação UNKNOWN, não ausência de água."
+Unidades sem E09,9,Nove das 16 unidades não possuem transmissividade informada no conjunto auditado.
+Mascaramento E01 por unidade · 100 km²,2.64%,"Pontos de suporte em células com E01, mas sem E01 atribuído à mesma unidade hidroestratigráfica."
+Área estadual em células com mistura de unidades · 100 km²,48.27%,Interseção vetorial exata. Mistura espacial não equivale a erro do mapa.
+Mascaramento E01 por unidade · 250 km²,5.00%,"Pontos de suporte em células com E01, mas sem E01 atribuído à mesma unidade hidroestratigráfica."
+Área estadual em células com mistura de unidades · 250 km²,60.36%,Interseção vetorial exata. Mistura espacial não equivale a erro do mapa.
+Mascaramento E01 por unidade · 1000 km²,8.74%,"Pontos de suporte em células com E01, mas sem E01 atribuído à mesma unidade hidroestratigráfica."
+Área estadual em células com mistura de unidades · 1000 km²,78.14%,Interseção vetorial exata. Mistura espacial não equivale a erro do mapa.
+Mascaramento E01 no domínio Granular (Gr) · 250 km²,1.74%,Mostra que o efeito da agregação não é igual nos três domínios.
+Mascaramento E01 no domínio Fraturada (Fr) · 250 km²,7.14%,Mostra que o efeito da agregação não é igual nos três domínios.
+Mascaramento E01 no domínio Cárstica (K) · 250 km²,14.34%,Mostra que o efeito da agregação não é igual nos três domínios.
