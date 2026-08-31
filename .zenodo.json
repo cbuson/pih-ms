@@ -1,0 +1,39 @@
+{
+  "creators": [
+    {
+      "name": "Busón Buesa, Carlos",
+      "orcid": "0000-0002-1446-2252",
+      "affiliation": "Universidade Federal de Mato Grosso do Sul"
+    },
+    {
+      "name": "Garcia Gabas, Sandra",
+      "orcid": "0000-0002-1027-0288",
+      "affiliation": "Universidade Federal de Mato Grosso do Sul"
+    }
+  ],
+  "title": "PIH MS · Prioridade de Investigação Hidrogeológica de Mato Grosso do Sul",
+  "version": "2.2.1",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "AGPL-3.0-or-later",
+  "language": "por",
+  "description": "PIH MS é um projeto científico e uma aplicação web voltados à organização, documentação e análise reprodutível de evidências sobre o conhecimento hidrogeológico de Mato Grosso do Sul. A versão 2.2.1 preserva o conteúdo científico da versão 2.2 e incorpora melhorias de navegação, ajuda, estatísticas, localização, fichas, acessibilidade, autoria e licenciamento. Nesta versão não foi calculado índice PIH, peso, AHP, interpolação, predição ou prioridade final de investigação.",
+  "keywords": [
+    "hidrogeologia",
+    "águas subterrâneas",
+    "Mato Grosso do Sul",
+    "prioridade de investigação",
+    "incerteza",
+    "análise espacial",
+    "reprodutibilidade",
+    "WebGIS",
+    "ciência aberta"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/cbuson/pih-ms",
+      "relation": "isAlternateIdentifier"
+    }
+  ],
+  "notes": "Licenciamento misto do repositório. O código próprio do aplicativo é distribuído sob GNU AGPL versão 3 ou posterior. Os conteúdos científicos e documentais originais são distribuídos sob CC BY-NC-SA 4.0, salvo indicação diferente. Materiais de terceiros mantêm suas próprias condições de uso. Consulte LICENSE, LICENSE-CONTENT.md, NOTICE e THIRD_PARTY_NOTICES.md no repositório."
+}

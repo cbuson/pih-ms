@@ -9,6 +9,28 @@
 
 # CHANGELOG
 
+## V2.4 · 2026-08-31
+
+- cinco perguntas hidrogeológicas avaliadas separadamente
+- requisitos críticos documentados por pergunta e sem compensação entre dimensões
+- 19.385 pares poço-pergunta e 45.145 pares célula-pergunta
+- cinco escalas calculadas diretamente na família principal O00
+- evidência direta, mínimo documental local e representatividade territorial mantidos como resultados distintos
+- dependências entre indicadores publicadas sem interpretação causal
+- fichas de poço e de célula ampliadas com estados e requisitos bloqueantes
+- 13 resumos estatísticos atuais disponíveis no visor
+- nenhuma quantidade universal de poços, peso, score, interpolação ou prioridade calculada
+
+## V2.3 · 2026-08-30
+
+- malhas de evidência E01 a E12 completadas em 100, 150, 250, 500 e 1000 km²
+- estrutura espacial completada nas mesmas cinco escalas
+- família principal O00 usada de forma uniforme nos módulos correntes
+- família candidata anterior preservada como produto histórico
+- fichas de célula habilitadas nas cinco escalas
+- estatísticas atualizadas para cinco escalas nos dois módulos
+- nenhum score PIH, peso, interpolação, potencial ou prioridade calculado
+
 ## V1.1
 
 - adicionadas doze camadas independentes da Matriz de Evidência Hidrogeológica V1

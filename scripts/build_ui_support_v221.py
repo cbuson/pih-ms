@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Gera recursos leves e reproduzíveis da interface PIH MS V2.2.1."""
+"""Gera recursos leves e reproduzíveis da interface PIH MS V2.3."""
 from __future__ import annotations
 
 import csv
@@ -14,15 +14,17 @@ DOCS = ROOT / "docs"
 STATISTICS = (
     ("effective_global", "Conhecimento efetivo · síntese global", "Conhecimento efetivo", "data/derived/effective_knowledge/effective_knowledge_global_summary.csv"),
     ("effective_scale", "Conhecimento efetivo · cinco escalas", "Conhecimento efetivo", "data/derived/effective_knowledge/effective_knowledge_scale_summary.csv"),
-    ("grid_evidence", "Malhas de evidência · três escalas", "Malhas de evidência", "data/derived/grid_evidence/grid_scale_summary.csv"),
+    ("grid_evidence", "Malhas de evidência · cinco escalas", "Malhas de evidência", "data/derived/grid_evidence/grid_scale_summary.csv"),
     ("independence_global", "Independência · síntese global", "Independência", "data/derived/independence_redundancy/independence_global_summary.csv"),
     ("independence_scale", "Independência · cinco escalas", "Independência", "data/derived/independence_redundancy/independence_scale_summary.csv"),
     ("scale_candidate", "Comparação das cinco escalas", "Escalas", "data/derived/scale_study/scale_candidate_summary.csv"),
     ("maup_origin", "Sensibilidade à origem da malha", "Estrutura espacial", "data/derived/spatial_structure/maup_origin_sensitivity_summary.csv"),
     ("maup_variant", "Variantes de origem da malha", "Estrutura espacial", "data/derived/spatial_structure/maup_variant_summary.csv"),
-    ("spatial_structure", "Estrutura espacial · três escalas", "Estrutura espacial", "data/derived/spatial_structure/spatial_structure_scale_summary.csv"),
+    ("spatial_structure", "Estrutura espacial · cinco escalas", "Estrutura espacial", "data/derived/spatial_structure/spatial_structure_scale_summary.csv"),
     ("stratified", "Estratificação hidrogeológica · cinco escalas", "Estratos", "data/derived/stratified_scale/stratified_scale_summary.csv"),
     ("vertical_temporal", "Documentação vertical e temporal · cinco escalas", "Vertical e temporal", "data/derived/vertical_temporal/vertical_temporal_scale_summary.csv"),
+    ("question_global", "Suficiência por pergunta · síntese global", "Suficiência por pergunta", "data/derived/question_sufficiency/question_global_summary.csv"),
+    ("question_scale", "Suficiência por pergunta · cinco escalas", "Suficiência por pergunta", "data/derived/question_sufficiency/question_scale_summary.csv"),
 )
 
 
@@ -50,7 +52,7 @@ def build_statistics() -> None:
         )
     payload = {
         "project": "PIH MS",
-        "version": "2.2.1",
+        "version": "2.4",
         "dataset_count": len(datasets),
         "historical_summaries_excluded": [
             "data/derived/independence_redundancy/independence_scale_summary_previous.csv"
@@ -81,7 +83,7 @@ def build_well_shards() -> None:
         )
         counts[name] = len(shard)
     manifest = {
-        "version": "2.2.1",
+        "version": "2.4",
         "source": "docs/data/well_details.json",
         "rule": "integer well_id modulo 64",
         "shard_count": shard_count,

@@ -1,23 +1,39 @@
-# PIH MS V2.2.1 · Navegação e usabilidade
+# PIH MS V2.4 · Suficiência por pergunta
 
 Prioridade de Investigação Hidrogeológica de Mato Grosso do Sul.
 
-A V2.2.1 preserva integralmente o conteúdo científico da V2.2 e melhora navegação, ajuda, estatísticas, localização, fichas, acessibilidade, autoria e licenças.
+A V2.4 preserva os produtos anteriores e acrescenta uma matriz não compensatória de suficiência documental para cinco perguntas hidrogeológicas. Nenhuma prioridade é calculada.
 
-## Interface V2.2.1
+## Matriz V2.4
+
+- Q01 · nível e profundidade da água
+- Q02 · propriedades hidráulicas
+- Q03 · hidroquímica
+- Q04 · geometria e estratigrafia do aquífero
+- Q05 · monitoramento temporal
+- 19.385 pares poço-pergunta
+- 45.145 pares célula-pergunta
+- cinco escalas calculadas diretamente
+- nenhuma quantidade mínima universal de poços
+- nenhuma célula declarada representativa
+- nenhum peso, score ou prioridade
+
+Nenhum poço atende ao mínimo documental completo sob as regras conservadoras atuais. A evidência parcial permanece publicada e os bloqueios são identificados individualmente.
+
+## Interface V2.4
 
 - sete acessos principais no menu superior
 - módulos científicos reunidos em `Explorar`
 - guia, dicionário, bibliografia, metodologia e direitos reunidos em `Documentação`
 - ajuda ampliada com 18 temas e busca interna
-- 11 resumos estatísticos atuais disponíveis em tabelas completas
+- 13 resumos estatísticos atuais disponíveis em tabelas completas
 - busca e contagem de camadas no painel lateral
 - ícone de localização baseado no contorno de Mato Grosso do Sul
 - marcador de posição, círculo de precisão e estados visuais de localização
 - fichas de poço carregadas em 64 fragmentos de aproximadamente 640 KB em média
 - autores, instituições, funções, ORCID, DOI e justificativa de licença na informação do aplicativo
 
-As lacunas de escalas 100 e 150 km² e a validação integral das fichas estão registradas em `BACKLOG_CIENTIFICO_POS_V221.md`.
+As lacunas de escalas 100 e 150 km² registradas na V2.2.1 foram resolvidas na V2.3. A V2.4 mantém as cinco escalas nos módulos de evidências, estrutura espacial e suficiência por pergunta. As fichas dos 3.877 poços foram regeneradas e verificadas.
 
 ## Regras centrais
 
@@ -59,6 +75,10 @@ A malha antiga de 250 km² com 1.554 células pertence ao produto anterior de ev
 
 ## Documentação
 
+- `ESTUDO_SUFICIENCIA_POR_PERGUNTA_V1.md`
+- `methodology/SUFICIENCIA_POR_PERGUNTA_V1.md`
+- `data/derived/question_sufficiency/`
+- `PIH_MS_SUFICIENCIA_POR_PERGUNTA_V1.xlsx`
 - `ESTUDO_CONHECIMENTO_HIDROGEOLOGICO_EFETIVO_V1.md`
 - `methodology/CONHECIMENTO_HIDROGEOLOGICO_EFETIVO_V1.md`
 - `methodology/CONHECIMENTO_HIDROGEOLOGICO_EFETIVO_CAMPOS_V1.csv`
@@ -67,7 +87,7 @@ A malha antiga de 250 km² com 1.554 células pertence ao produto anterior de ev
 - `data/derived/effective_knowledge/`
 - `PIH_MS_CONHECIMENTO_HIDROGEOLOGICO_EFETIVO_V1.xlsx`
 
-O dicionário V2.2 documenta 680 campos. A bibliografia master mantém 54 referências classificadas por função e estado de uso.
+O dicionário acumulado V2.4 documenta 788 campos. A bibliografia master mantém 55 referências classificadas por função e estado de uso.
 
 ## Execução local
 
@@ -80,10 +100,10 @@ py -m http.server 8555 --directory docs
 Abra
 
 ```text
-http://localhost:8555/index.html?v=221
+http://localhost:8555/index.html?v=24
 ```
 
-No topo deve aparecer V2.2.1 e o menu `Explorar`.
+No topo deve aparecer V2.4 e o menu `Explorar`.
 
 ## Licenças
 

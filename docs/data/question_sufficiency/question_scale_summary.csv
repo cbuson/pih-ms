@@ -1,0 +1,26 @@
+﻿scale_km2,question_code,question_name,cells_n,cells_without_wells_n,cells_with_local_minimum_n,cells_partial_only_n,cells_without_direct_evidence_n,cells_representative_n,sum_wells,sum_direct_evidence,sum_minimum_documentary,method_version
+100,Q01,Nível e profundidade da água,3763,2989,0,654,120,0,3877,3213,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+100,Q02,Propriedades hidráulicas,3763,2989,0,641,133,0,3877,3081,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+100,Q03,Hidroquímica,3763,2989,0,532,242,0,3877,2053,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+100,Q04,Geometria e estratigrafia do aquífero,3763,2989,0,676,98,0,3877,3415,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+100,Q05,Monitoramento temporal,3763,2989,0,377,397,0,3877,1637,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+150,Q01,Nível e profundidade da água,2525,1868,0,566,91,0,3877,3213,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+150,Q02,Propriedades hidráulicas,2525,1868,0,553,104,0,3877,3081,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+150,Q03,Hidroquímica,2525,1868,0,460,197,0,3877,2053,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+150,Q04,Geometria e estratigrafia do aquífero,2525,1868,0,588,69,0,3877,3415,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+150,Q05,Monitoramento temporal,2525,1868,0,340,317,0,3877,1637,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+250,Q01,Nível e profundidade da água,1537,1014,0,454,69,0,3877,3213,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+250,Q02,Propriedades hidráulicas,1537,1014,0,445,78,0,3877,3081,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+250,Q03,Hidroquímica,1537,1014,0,374,149,0,3877,2053,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+250,Q04,Geometria e estratigrafia do aquífero,1537,1014,0,470,53,0,3877,3415,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+250,Q05,Monitoramento temporal,1537,1014,0,291,232,0,3877,1637,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+500,Q01,Nível e profundidade da água,791,437,0,318,36,0,3877,3213,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+500,Q02,Propriedades hidráulicas,791,437,0,311,43,0,3877,3081,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+500,Q03,Hidroquímica,791,437,0,277,77,0,3877,2053,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+500,Q04,Geometria e estratigrafia do aquífero,791,437,0,326,28,0,3877,3415,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+500,Q05,Monitoramento temporal,791,437,0,223,131,0,3877,1637,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+1000,Q01,Nível e profundidade da água,413,173,0,229,11,0,3877,3213,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+1000,Q02,Propriedades hidráulicas,413,173,0,225,15,0,3877,3081,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+1000,Q03,Hidroquímica,413,173,0,205,35,0,3877,2053,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+1000,Q04,Geometria e estratigrafia do aquífero,413,173,0,232,8,0,3877,3415,0,PIH_MS_V2.4_SUF_PERGUNTA_V1
+1000,Q05,Monitoramento temporal,413,173,0,172,68,0,3877,1637,0,PIH_MS_V2.4_SUF_PERGUNTA_V1

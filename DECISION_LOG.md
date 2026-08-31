@@ -102,3 +102,43 @@ Textos científicos, documentação e figuras originais usam CC BY-NC-SA 4.0, sa
 ### D-V221-04 · escalas incompletas permanecem explícitas
 
 Malhas de evidência e estrutura espacial ainda não possuem 100 e 150 km². A ausência não é preenchida por herança entre escalas e permanece registrada no backlog posterior à V2.2.1.
+
+## V2.3 · completude multiescalar
+
+### D-V23-01 · família principal uniforme
+
+As malhas correntes de evidência e estrutura espacial usam `SCALE_PRIMARY_O00_V1` em 100, 150, 250, 500 e 1000 km². Cada escala é calculada diretamente desde as evidências originais.
+
+### D-V23-02 · família anterior histórica
+
+A família candidata anterior de 250, 500 e 1000 km² é preservada para rastreabilidade. Ela não é misturada com a família principal nas comparações atuais.
+
+### D-V23-03 · nenhuma prioridade calculada
+
+A completude das escalas não autoriza escolher uma escala definitiva nem calcular peso, score PIH, potencial ou prioridade.
+
+## V2.4 · suficiência condicionada por pergunta
+
+### D-V24-01 · cinco perguntas separadas
+
+Nível de água, propriedades hidráulicas, hidroquímica, geometria aquífera e monitoramento temporal possuem requisitos próprios. Uma pergunta não recebe evidência emprestada de outra.
+
+### D-V24-02 · mínimo documental não compensatório
+
+O mínimo de um poço exige a demonstração simultânea de todos os requisitos críticos da pergunta. Quantidade de requisitos demonstrados não é score e nenhum requisito compensa outro que permaneça UNKNOWN.
+
+### D-V24-03 · presença local não é representatividade
+
+A presença de um ou mais registros em uma célula não demonstra representatividade territorial. Independência hidrogeológica e desenho amostral continuam não demonstrados.
+
+### D-V24-04 · nenhum limiar universal de poços
+
+A V2.4 não define quantidade mínima universal de poços por célula. A suficiência depende da pergunta, do estrato, da variável, da escala e do desenho da investigação.
+
+### D-V24-05 · ausência documental permanece condicionada ao conjunto
+
+Célula sem poço ou sem evidência direta permanece UNKNOWN no conjunto adquirido. Nenhuma ausência é convertida em ausência física de água, aquífero ou propriedade.
+
+### D-V24-06 · resultado antes da prioridade
+
+Nenhum poço atende ao mínimo documental completo das cinco perguntas sob as regras conservadoras da V2.4. A próxima etapa deve avaliar estabilidade e sensibilidade dos bloqueios antes de qualquer lógica de prioridade.

@@ -1,5 +1,5 @@
 {
-  "version": "2.2.1",
+  "version": "2.4",
   "source": "docs/data/well_details.json",
   "rule": "integer well_id modulo 64",
   "shard_count": 64,

@@ -1,14 +1,24 @@
 {
   "project": "PIH MS",
-  "version": "2.2.1",
-  "scientific_content_version": "2.2",
-  "release_scope": "Navegação, usabilidade, acesso, autoria e licenças",
-  "manifest_scope": "Todos os arquivos, exceto este manifesto e SHA256SUMS_V221.txt",
+  "version": "2.4",
+  "scientific_content_version": "2.4",
+  "release_scope": "Suficiencia documental nao compensatoria por pergunta hidrogeologica",
+  "manifest_scope": "Todos os arquivos publicaveis, exceto este manifesto e SHA256SUMS_V24.txt",
   "files": [
+    {
+      "file": "AUDITORIA_COMPLETUDE_MULTIESCALAR_V23.md",
+      "sha256": "c617f0fa7a9db97e8c4494060b02a6093af2f52b2f5a3a7899110b7be5779ee5",
+      "bytes": 1827
+    },
     {
       "file": "AUDITORIA_NAVEGACAO_USABILIDADE_V221.md",
       "sha256": "0b6c8741461ca7c872f4c30b7072edc03d69ef92ad459860c3e74643fb3d98fb",
       "bytes": 2965
+    },
+    {
+      "file": "AUDITORIA_SUFICIENCIA_POR_PERGUNTA_V24.md",
+      "sha256": "5ee55609f826ec83945a758941f241f2e4e7ffccb8ec4a05ce84a4a6c00e6abd",
+      "bytes": 5357
     },
     {
       "file": "BACKLOG_CIENTIFICO_POS_V221.md",
@@ -22,13 +32,13 @@
     },
     {
       "file": "CHANGELOG.md",
-      "sha256": "ea41f20d704f76158cc5e14f37468c48ba0e74f9173ad34e3ba2f7a780c2fc4f",
-      "bytes": 5526
+      "sha256": "1b05f8c7782ca646adf9e699968a8c0de7e9cf5991f84c566ddee79dceafbfce",
+      "bytes": 6724
     },
     {
       "file": "DECISION_LOG.md",
-      "sha256": "0212e85a6034003c78db8d9d314b13d8a63591926ef4b7c8deffb3becdb41f37",
-      "bytes": 6752
+      "sha256": "494ca21e5597a36ff9a297821a4773c19d013248d6fc9c39525f2960e02b4e05",
+      "bytes": 8941
     },
     {
       "file": "ESTUDO_CAMADAS_EVIDENCIA_V1.md",
@@ -64,6 +74,11 @@
       "file": "ESTUDO_MALHAS_EVIDENCIA_V1.md",
       "sha256": "82ca867cb5b27caf2e211cdc412481d7218623ee3e69938278703eb3c3a57e18",
       "bytes": 2651
+    },
+    {
+      "file": "ESTUDO_SUFICIENCIA_POR_PERGUNTA_V1.md",
+      "sha256": "5f1a3359ac259365da59f78d41c0c41731a9448ac1ccd593b5770b3cf5c5823b",
+      "bytes": 4482
     },
     {
       "file": "ESTUDO_VERTICAL_TEMPORAL_V1.md",
@@ -141,6 +156,11 @@
       "bytes": 20348
     },
     {
+      "file": "PIH_MS_ESTRUTURA_ESPACIAL_V2.xlsx",
+      "sha256": "433fd5c6233f5d4f3d2c6e8166bd64048fa53d8cf3f1f33500334d35cbcc2f8f",
+      "bytes": 4829030
+    },
+    {
       "file": "PIH_MS_ESTUDO_ESCALAS_V1.xlsx",
       "sha256": "060fa19dc8ba1e5acc9dd6664ebd53d13e0a8795b091d3db873a2fe2b5aab23b",
       "bytes": 25186
@@ -166,6 +186,16 @@
       "bytes": 612653
     },
     {
+      "file": "PIH_MS_MALHAS_EVIDENCIA_V2.xlsx",
+      "sha256": "3960fe693b8cee0f5a23af6e906051f81c3d0b5e3a6f340a01b63cb52f3e3e11",
+      "bytes": 1966584
+    },
+    {
+      "file": "PIH_MS_SUFICIENCIA_POR_PERGUNTA_V1.xlsx",
+      "sha256": "bf2b11b2dbf5e2b73821eb6ad54eac37494f5e53e19271b0d0be2247bd2b8037",
+      "bytes": 2147793
+    },
+    {
       "file": "PIH_MS_VERTICAL_TEMPORAL_V1.xlsx",
       "sha256": "124480213920012b148628d49818f815cf3269ddf0f9aa10f62229fe871e8a6e",
       "bytes": 18295
@@ -182,8 +212,8 @@
     },
     {
       "file": "README.md",
-      "sha256": "7d90a3de3f3eaf3dde70ef70ad234a975acd8e62641cb3008945c71f75c7059a",
-      "bytes": 4056
+      "sha256": "f306a9d6c3d3b9235c26d7a134c326cbc6998ee75c74053bbf4bfa9a9039b598",
+      "bytes": 4972
     },
     {
       "file": "SHA256SUMS_V18.txt",
@@ -211,14 +241,19 @@
       "bytes": 40507
     },
     {
+      "file": "SHA256SUMS_V221.txt",
+      "sha256": "e697dcdc3c0d8fd2bdec9cea103d89e22e86beebf415bbf9abaf74512911f332",
+      "bytes": 48953
+    },
+    {
       "file": "THIRD_PARTY_NOTICES.md",
       "sha256": "09981dbe94d7507f623de71208f19b6dcf880defd2f84a327eca256e3eb73570",
       "bytes": 936
     },
     {
       "file": "VERSION",
-      "sha256": "fe650098093fad42070e8a2cacfb216a6c416af57bd26dd6ff479fef69f8bc71",
-      "bytes": 6
+      "sha256": "25905ca7fb1df06eed3712da6495f854ea1f8fbbc3b101a37fbe6822ee802297",
+      "bytes": 4
     },
     {
       "file": "data/derived/effective_knowledge/effective_knowledge_1000km2.csv",
@@ -442,46 +477,126 @@
     },
     {
       "file": "data/derived/grid_evidence/grid_assignment_audit.csv",
+      "sha256": "f188f2c89e8e18cfac11888d67df3621c9b0fa7b43b42436913e0568a6c6e4c1",
+      "bytes": 7747
+    },
+    {
+      "file": "data/derived/grid_evidence/grid_evidence_long.csv",
+      "sha256": "bb1a083d16ede19d1cefa28d207332ea50d9400b663cb1a68db4fe4e24cf268e",
+      "bytes": 18382993
+    },
+    {
+      "file": "data/derived/grid_evidence/grid_evidence_style_metadata.json",
+      "sha256": "5659498948cbd023d7a4fad6a369ad34620ae9edc74c6016a1caeb45c4387f30",
+      "bytes": 9138
+    },
+    {
+      "file": "data/derived/grid_evidence/grid_scale_summary.csv",
+      "sha256": "ca4e2882a2016bdb831d53cc58f7456cf49fab3111ecbb9d9446e096a2890b10",
+      "bytes": 1443
+    },
+    {
+      "file": "data/derived/grid_evidence/malha_evidencia_1000km2.csv",
+      "sha256": "55d1f941cf778af35882d94d995919d2fefa87d1fc36dbb8701757c7e28c8326",
+      "bytes": 236474
+    },
+    {
+      "file": "data/derived/grid_evidence/malha_evidencia_1000km2.geojson",
+      "sha256": "2828f097d920a03809ed4d20e274ef13932b182b75cff22cfabdfa28f829c78a",
+      "bytes": 1647252
+    },
+    {
+      "file": "data/derived/grid_evidence/malha_evidencia_100km2.csv",
+      "sha256": "029d2eab9bfaa71f9af9968fa8f25a0b87df5ae8595c5560d79d07c92ba19890",
+      "bytes": 2065459
+    },
+    {
+      "file": "data/derived/grid_evidence/malha_evidencia_100km2.geojson",
+      "sha256": "85f72b695191ef788481b6cf389429dc6c580c0f729db029e20e041c9cede23e",
+      "bytes": 6963200
+    },
+    {
+      "file": "data/derived/grid_evidence/malha_evidencia_150km2.csv",
+      "sha256": "3a2d625f21ff5ed1c8297db281f99101153537a61ff81bd5dcd40f4885d2d30a",
+      "bytes": 1386314
+    },
+    {
+      "file": "data/derived/grid_evidence/malha_evidencia_150km2.geojson",
+      "sha256": "812fffb649e3fc2f12a75a30ba60427414a15a19f2e16b4e525a90d5c84f0745",
+      "bytes": 6070196
+    },
+    {
+      "file": "data/derived/grid_evidence/malha_evidencia_250km2.csv",
+      "sha256": "c6b4d064bfbe543eea13dfc1c9e2ef86a2e03ed2734831c2b8be7a6c3438fc9f",
+      "bytes": 850466
+    },
+    {
+      "file": "data/derived/grid_evidence/malha_evidencia_250km2.geojson",
+      "sha256": "cf6d88ad0a8f373d67979abe20664a80733e83c487f601069f5c127d583ee629",
+      "bytes": 3998613
+    },
+    {
+      "file": "data/derived/grid_evidence/malha_evidencia_500km2.csv",
+      "sha256": "94db1b8b2fd66942fe5207980fd0545bf11898fbb884d3c1bc5823f7054de1a2",
+      "bytes": 441668
+    },
+    {
+      "file": "data/derived/grid_evidence/malha_evidencia_500km2.geojson",
+      "sha256": "684bf6ed701792bf9f6591eaced5870d1ced041343730df2ed6df4141fff0b19",
+      "bytes": 2435813
+    },
+    {
+      "file": "data/derived/grid_evidence_historical_candidate_v13/README.md",
+      "sha256": "17cda1e211e81adc99f624f79ff28e9ebef062550a06ab45413d32e1a0ac7a38",
+      "bytes": 267
+    },
+    {
+      "file": "data/derived/grid_evidence_historical_candidate_v13/grid_assignment_audit.csv",
       "sha256": "62a1653f3039a4f882aa6747c9a13d8a3e6ed88c7f507f3c626a53f92b4a8ce7",
       "bytes": 5051
     },
     {
-      "file": "data/derived/grid_evidence/grid_evidence_long.csv",
+      "file": "data/derived/grid_evidence_historical_candidate_v13/grid_evidence_long.csv",
       "sha256": "bc246f5af92416372a992bf38da106c99acca2125560c918cb0435ec399d5b18",
       "bytes": 4637214
     },
     {
-      "file": "data/derived/grid_evidence/grid_scale_summary.csv",
+      "file": "data/derived/grid_evidence_historical_candidate_v13/grid_evidence_style_metadata.json",
+      "sha256": "64499b0c92d2a2b62edaf04515471fba399ccf384a13a597f4987cb0e01c36da",
+      "bytes": 5374
+    },
+    {
+      "file": "data/derived/grid_evidence_historical_candidate_v13/grid_scale_summary.csv",
       "sha256": "7e180b651bd364f6ee12ee55c0031d523c3e2f2792c5e7f6245949ce4dc5eac2",
       "bytes": 1064
     },
     {
-      "file": "data/derived/grid_evidence/malha_evidencia_1000km2.csv",
+      "file": "data/derived/grid_evidence_historical_candidate_v13/malha_evidencia_1000km2.csv",
       "sha256": "1cdeab64bd33d9ffdaae969d91f92a0c7bd1a5c291c230061fe48c15ac883a1f",
       "bytes": 262182
     },
     {
-      "file": "data/derived/grid_evidence/malha_evidencia_1000km2.geojson",
+      "file": "data/derived/grid_evidence_historical_candidate_v13/malha_evidencia_1000km2.geojson",
       "sha256": "9ad0aab38d67e6b4f1ed3f2755abcb5e5a3d1f117a806c4f1c11546c1330b5e6",
       "bytes": 1839228
     },
     {
-      "file": "data/derived/grid_evidence/malha_evidencia_250km2.csv",
+      "file": "data/derived/grid_evidence_historical_candidate_v13/malha_evidencia_250km2.csv",
       "sha256": "f6549249b7b32055cf70449ca2da87cfbe9965cd2db98f69294acbc73340f8f0",
       "bytes": 950927
     },
     {
-      "file": "data/derived/grid_evidence/malha_evidencia_250km2.geojson",
+      "file": "data/derived/grid_evidence_historical_candidate_v13/malha_evidencia_250km2.geojson",
       "sha256": "960aae1884b49e9250e7ed49238ea7c289029f8a58c6e7fa3d6d49d0f69f3139",
       "bytes": 4076434
     },
     {
-      "file": "data/derived/grid_evidence/malha_evidencia_500km2.csv",
+      "file": "data/derived/grid_evidence_historical_candidate_v13/malha_evidencia_500km2.csv",
       "sha256": "76ac9a6f90052d3cbb4a4544b3289454dc28a0ad144b25c3e40d9267237cfe04",
       "bytes": 492340
     },
     {
-      "file": "data/derived/grid_evidence/malha_evidencia_500km2.geojson",
+      "file": "data/derived/grid_evidence_historical_candidate_v13/malha_evidencia_500km2.geojson",
       "sha256": "d2af7106c735bae2415000ff791e3a26e0b7c31bf09bb96132ce97f0e1827937",
       "bytes": 2812562
     },
@@ -544,6 +659,111 @@
       "file": "data/derived/independence_redundancy/well_independence_redundancy.csv",
       "sha256": "e0e5a8944744e71085804f93a4b6a92d91e3a6f097ef8eb9029db1acc8f28a45",
       "bytes": 910605
+    },
+    {
+      "file": "data/derived/question_sufficiency/cell_question_sufficiency_long.csv",
+      "sha256": "2dfb35c0be8b1cda459e63dba6bd875a4f21bdb627eee5dbc873b54ecbed1336",
+      "bytes": 11628226
+    },
+    {
+      "file": "data/derived/question_sufficiency/dimension_dependency_matrix.csv",
+      "sha256": "150a14a18faa2464eee45e052c0cc1f1576c51c840d83f3c240cc52aec6af163",
+      "bytes": 7013
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_dependency_pairwise.csv",
+      "sha256": "8f9b739683f534ebab2b63700955356704419fdd9a7c792d81a07410adb85664",
+      "bytes": 27681
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_global_summary.csv",
+      "sha256": "2e172419e5ab2900024267cdd03b1c189b49d2068378bf761f01e908fd048fee",
+      "bytes": 1139
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_registry.csv",
+      "sha256": "94d6e4d2be6a42d7a81f021e0948f3d687a1aca78c21d852ce0e875113f4257b",
+      "bytes": 3521
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_requirement_matrix.csv",
+      "sha256": "1404e12d0e7445d658567d652813307315132dc3d7da7a7ee04bc0b3c036f139",
+      "bytes": 13488
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_scale_summary.csv",
+      "sha256": "606728f6fc32a4eb1ae19f9a5f03c5d042f6e057304621e3e92dd7f2fc3c7fe4",
+      "bytes": 2627
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_sufficiency_1000km2.csv",
+      "sha256": "4b127b5fbfa619d5e222fab94ffd8ec9045e3803c5f6af44a1bbd9f21a7e44c8",
+      "bytes": 301972
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_sufficiency_1000km2.geojson",
+      "sha256": "e4b9c63099b6b98a7a126f445fbcfbf0dbd7c31c6203d0b72e447dcf84862d12",
+      "bytes": 1718086
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_sufficiency_100km2.csv",
+      "sha256": "4d72e28ff4f3feba3306ffbe4286b4b759752792f4d6053d73761d25a3b82c16",
+      "bytes": 2431123
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_sufficiency_100km2.geojson",
+      "sha256": "5f578a20276893a7c67e824ae21933adae7fe7d0b231fcd21a6f7ffda7d5f3e6",
+      "bytes": 9726053
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_sufficiency_150km2.csv",
+      "sha256": "89941eb328b263bd0c72c3aace151a15c8428b056a82e2ed2dda38cad2e18175",
+      "bytes": 1659863
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_sufficiency_150km2.geojson",
+      "sha256": "559ce16b6dece69bdd4b364626399a5f7d54a519feba162a56da7bd86f31f065",
+      "bytes": 6779224
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_sufficiency_250km2.csv",
+      "sha256": "c96674ea5437961710803ee3a8a2f2b9cdc531687ebc2170cac63c3a00724fd1",
+      "bytes": 1037554
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_sufficiency_250km2.geojson",
+      "sha256": "c24976f75fda8aac681bf4216c5eb3f7353a564cb593609096560739752591de",
+      "bytes": 4424944
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_sufficiency_500km2.csv",
+      "sha256": "85467b463dbb5a05db3c057714bf6b419e0f581f45f044a7e6f7f873c08d48b5",
+      "bytes": 552385
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_sufficiency_500km2.geojson",
+      "sha256": "98e2e5dbc22373b9b81d95d135fa1ca37dec47b3dcab4fc7509f9fa4b8c2488e",
+      "bytes": 2631066
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_sufficiency_field_dictionary.csv",
+      "sha256": "329f38243d9635746d190d65bb61ef716af66b854a77c65eab7745e0ea4878be",
+      "bytes": 65073
+    },
+    {
+      "file": "data/derived/question_sufficiency/question_sufficiency_registry.json",
+      "sha256": "e533a0747eda5676e4bedd2617b50041cdd49367f2c0016c017504ccce57219a",
+      "bytes": 34560
+    },
+    {
+      "file": "data/derived/question_sufficiency/well_question_sufficiency_long.csv",
+      "sha256": "c547581eb578063bee2596e0e5783a383026bf40112501059b0e0ebe65171d6d",
+      "bytes": 5901147
+    },
+    {
+      "file": "data/derived/question_sufficiency/well_requirement_status_long.csv",
+      "sha256": "1a5cb1a0167dca9d4a799076668deb3cecc7431203dc615f60255b1d76470126",
+      "bytes": 38932129
     },
     {
       "file": "data/derived/scale_study/scale_candidate_cross_scale_stability.csv",
@@ -627,38 +847,138 @@
     },
     {
       "file": "data/derived/spatial_structure/scale_stability_evidence.csv",
-      "sha256": "182f4041d54be9e2315eebca51f490fb2971e4163351d6e4c57067b1298c3046",
-      "bytes": 4181
+      "sha256": "f468cc72a9d2ce63eadce7d544b3e7f14389357d04cc0529a7085ed5d9e8f591",
+      "bytes": 16140
     },
     {
       "file": "data/derived/spatial_structure/spatial_assignment_audit.csv",
-      "sha256": "1c476f28df94f228d4fa2a927eafa0370842261f0e8104701684ca6e7cf74ca0",
-      "bytes": 83
+      "sha256": "5fab0497324bdd318bbdec1c1f55e938653ea798476cef52c0420ee30694ff70",
+      "bytes": 413
     },
     {
       "file": "data/derived/spatial_structure/spatial_structure_1000km2.csv",
-      "sha256": "2fb5a92882112d4798575beb82a4f7f547afc844c4f05c54ba9ff1760243268d",
-      "bytes": 526535
+      "sha256": "0a54338f025d2004cef86bef9997b228d2294b3b26982c6ac577cea8dadd4e45",
+      "bytes": 538221
+    },
+    {
+      "file": "data/derived/spatial_structure/spatial_structure_1000km2.geojson",
+      "sha256": "9ca10f32511dd94aa9c34196dfff98e078953e07f4ed36e34e49d83f855321b1",
+      "bytes": 2329457
+    },
+    {
+      "file": "data/derived/spatial_structure/spatial_structure_100km2.csv",
+      "sha256": "340d6df86f9629770f40f3b461fc96ddc35d0d207f2a8add85f8df3540ae2c92",
+      "bytes": 4541831
+    },
+    {
+      "file": "data/derived/spatial_structure/spatial_structure_100km2.geojson",
+      "sha256": "dcfa87bf93c036210d2aa3348b25a569966b85d692ab6a93b0588d7095aea344",
+      "bytes": 14661928
+    },
+    {
+      "file": "data/derived/spatial_structure/spatial_structure_150km2.csv",
+      "sha256": "fb9c4f52b17ac8fd3a5354d38525c29c07934589e11a7578b296174ea5a517bb",
+      "bytes": 3076923
+    },
+    {
+      "file": "data/derived/spatial_structure/spatial_structure_150km2.geojson",
+      "sha256": "06de06613a9809099c1f0745c98c14dfb2f8358b79ff9f76e5345f0f8738dc75",
+      "bytes": 10107994
     },
     {
       "file": "data/derived/spatial_structure/spatial_structure_250km2.csv",
-      "sha256": "b13a2213235d72adbc9672d68f9ccf11c6f6678325c919f55fad224e58c758ca",
-      "bytes": 1880267
+      "sha256": "d94fcffd7227220d26964eccc98f9041c8e83c99776e6e89db357f67ff3e88f4",
+      "bytes": 1899326
+    },
+    {
+      "file": "data/derived/spatial_structure/spatial_structure_250km2.geojson",
+      "sha256": "6b0646c985867687a4edca8bd576dc09196b16fed474881ef54a4dcdb03e8e11",
+      "bytes": 6474574
     },
     {
       "file": "data/derived/spatial_structure/spatial_structure_500km2.csv",
-      "sha256": "84bef519e4f36d2ed3a119c447f8fd017da19aa41e8527c57eeefac066abc98d",
-      "bytes": 983061
+      "sha256": "75bce87b4a7c1df3fee171a2b57a657e2a8ea7802d7545262cd11d8ba44878c7",
+      "bytes": 1001424
+    },
+    {
+      "file": "data/derived/spatial_structure/spatial_structure_500km2.geojson",
+      "sha256": "7b4141b7f3c910635d8b72554d07180b0bd3542bac3a9045aad1fe7472c265fb",
+      "bytes": 3725693
     },
     {
       "file": "data/derived/spatial_structure/spatial_structure_scale_summary.csv",
-      "sha256": "69b8102a915343eee3e9d13559b1e7f778061f904075ce6c67572a871a366273",
-      "bytes": 953
+      "sha256": "0b718ce9dc0f01cbbdcb4c131767898a5c3d8e072af1991854434242b1e8cf08",
+      "bytes": 1435
+    },
+    {
+      "file": "data/derived/spatial_structure/spatial_structure_style_metadata.json",
+      "sha256": "48d99d8e86a1e549a6b490a63eba20db16bc0048181c0ea01585497fd32449e6",
+      "bytes": 37416
     },
     {
       "file": "data/derived/spatial_structure/support_points_5km.csv",
       "sha256": "8cbbf7542a93f1799c990c4187e3278385b6d494dc08e402e435047edd1ccd87",
       "bytes": 3640420
+    },
+    {
+      "file": "data/derived/spatial_structure_historical_candidate_v16/README.md",
+      "sha256": "4f8d78f332987c7da99419100380e14c9c2736b243548c00ef4009f1712f8dd6",
+      "bytes": 215
+    },
+    {
+      "file": "data/derived/spatial_structure_historical_candidate_v16/maup_origin_concordance.csv",
+      "sha256": "03af0af07c7707080799fca32a1f3a868c23f26f99ba97a4cf6896d4c70ea4c2",
+      "bytes": 8628
+    },
+    {
+      "file": "data/derived/spatial_structure_historical_candidate_v16/maup_origin_sensitivity_summary.csv",
+      "sha256": "f37ea99de7a6e600a89a2ac59c6ced9e10ad5ebfd4250aafecae5fad7297c08d",
+      "bytes": 2366
+    },
+    {
+      "file": "data/derived/spatial_structure_historical_candidate_v16/maup_variant_metadata.csv",
+      "sha256": "b57f5c071c04b04b95d780cfdf99739531a0068e6d9d62555bbfdaef260a96d5",
+      "bytes": 2859
+    },
+    {
+      "file": "data/derived/spatial_structure_historical_candidate_v16/maup_variant_summary.csv",
+      "sha256": "0f67ca6c22393affc507abf746eec58499910128742a24fc8afafb6d0b9f8aae",
+      "bytes": 2595
+    },
+    {
+      "file": "data/derived/spatial_structure_historical_candidate_v16/scale_stability_evidence.csv",
+      "sha256": "182f4041d54be9e2315eebca51f490fb2971e4163351d6e4c57067b1298c3046",
+      "bytes": 4181
+    },
+    {
+      "file": "data/derived/spatial_structure_historical_candidate_v16/spatial_assignment_audit.csv",
+      "sha256": "1c476f28df94f228d4fa2a927eafa0370842261f0e8104701684ca6e7cf74ca0",
+      "bytes": 83
+    },
+    {
+      "file": "data/derived/spatial_structure_historical_candidate_v16/spatial_structure_1000km2.csv",
+      "sha256": "2fb5a92882112d4798575beb82a4f7f547afc844c4f05c54ba9ff1760243268d",
+      "bytes": 526535
+    },
+    {
+      "file": "data/derived/spatial_structure_historical_candidate_v16/spatial_structure_250km2.csv",
+      "sha256": "b13a2213235d72adbc9672d68f9ccf11c6f6678325c919f55fad224e58c758ca",
+      "bytes": 1880267
+    },
+    {
+      "file": "data/derived/spatial_structure_historical_candidate_v16/spatial_structure_500km2.csv",
+      "sha256": "84bef519e4f36d2ed3a119c447f8fd017da19aa41e8527c57eeefac066abc98d",
+      "bytes": 983061
+    },
+    {
+      "file": "data/derived/spatial_structure_historical_candidate_v16/spatial_structure_scale_summary.csv",
+      "sha256": "69b8102a915343eee3e9d13559b1e7f778061f904075ce6c67572a871a366273",
+      "bytes": 953
+    },
+    {
+      "file": "data/derived/spatial_structure_historical_candidate_v16/spatial_structure_style_metadata.json",
+      "sha256": "2eae5462e4d386f79ac77b29f131838a0aa4c0b979eea2d2ad18dd6a98a88c28",
+      "bytes": 22807
     },
     {
       "file": "data/derived/stratified_scale/evidence_by_hydro_unit.csv",
@@ -976,11 +1296,6 @@
       "bytes": 1463620
     },
     {
-      "file": "docs/.nojekyll",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "bytes": 0
-    },
-    {
       "file": "docs/assets/css/pih.css",
       "sha256": "6eddf94f9fc47ef901c145efe253fdc7b5a2805ebe0e9b17d63e569da48f77c2",
       "bytes": 38517
@@ -997,18 +1312,18 @@
     },
     {
       "file": "docs/assets/js/pih.js",
-      "sha256": "0cbba78cd56429eb40165ccb5c77b7df8f7519fd84bd210f1cea3c10f01b1bbe",
-      "bytes": 127814
+      "sha256": "9cbb63c8667b08e2104daf239829750cc34e33e8297038f79d0a8375402ced1a",
+      "bytes": 140908
     },
     {
       "file": "docs/autoria-direitos.html",
-      "sha256": "230644c386c2275811704e8e9d0ecc951ac582f270069a8f09cb1d94166b4317",
-      "bytes": 4045
+      "sha256": "ad2a163c72bc1c55199974f85e608fe38ed174af62b3565ac3c940b7e3a3cfef",
+      "bytes": 4067
     },
     {
       "file": "docs/bibliografia.html",
-      "sha256": "a89dea468b4c7b8a533f0c112ab9f62254a93ebaf242fc88acef582fb684d3fd",
-      "bytes": 32137
+      "sha256": "23333412e7e375a2cab4fc15592e8fe0c1cf1d562a4f39eff589fd40101f8d57",
+      "bytes": 33724
     },
     {
       "file": "docs/data/bacias_hidrograficas_sgb_2024.geojson",
@@ -1017,8 +1332,8 @@
     },
     {
       "file": "docs/data/bibliografia_master_v1.csv",
-      "sha256": "d4c626509c2d4a8ca766bc00a07a26bec0c294ef0775d9dd7199771fc86e8a7e",
-      "bytes": 29538
+      "sha256": "99bfe381e6678b2b208f32e60b1a3823b5988547d3a4c127dcd11ca2c6c27121",
+      "bytes": 30083
     },
     {
       "file": "docs/data/capacidade_infiltracao_sgb_2024.geojson",
@@ -1037,8 +1352,8 @@
     },
     {
       "file": "docs/data/dicionario_metricas_resultados_v1.csv",
-      "sha256": "d9e5071eff7ba3c92b3f32738d43a1dfa01b6d2139d5280ced5a578c2ead92cc",
-      "bytes": 370425
+      "sha256": "cd141bcc8581fefe9e48d07100cbe9739fedd2d48d36e9309f308da29f8702ef",
+      "bytes": 423519
     },
     {
       "file": "docs/data/dominio_hidrolitologico_sgb_2024.geojson",
@@ -1187,28 +1502,38 @@
     },
     {
       "file": "docs/data/grid_evidence/grid_evidence_style_metadata.json",
-      "sha256": "64499b0c92d2a2b62edaf04515471fba399ccf384a13a597f4987cb0e01c36da",
-      "bytes": 5374
+      "sha256": "5659498948cbd023d7a4fad6a369ad34620ae9edc74c6016a1caeb45c4387f30",
+      "bytes": 9138
     },
     {
       "file": "docs/data/grid_evidence/grid_scale_summary.csv",
-      "sha256": "7e180b651bd364f6ee12ee55c0031d523c3e2f2792c5e7f6245949ce4dc5eac2",
-      "bytes": 1064
+      "sha256": "ca4e2882a2016bdb831d53cc58f7456cf49fab3111ecbb9d9446e096a2890b10",
+      "bytes": 1443
     },
     {
       "file": "docs/data/grid_evidence/malha_evidencia_1000km2.geojson",
-      "sha256": "9ad0aab38d67e6b4f1ed3f2755abcb5e5a3d1f117a806c4f1c11546c1330b5e6",
-      "bytes": 1839228
+      "sha256": "2828f097d920a03809ed4d20e274ef13932b182b75cff22cfabdfa28f829c78a",
+      "bytes": 1647252
+    },
+    {
+      "file": "docs/data/grid_evidence/malha_evidencia_100km2.geojson",
+      "sha256": "a7f69fb87fa1d94ca3a38add84d89860f73fa8337916b2fa905da2e4a64b1e9d",
+      "bytes": 8674821
+    },
+    {
+      "file": "docs/data/grid_evidence/malha_evidencia_150km2.geojson",
+      "sha256": "812fffb649e3fc2f12a75a30ba60427414a15a19f2e16b4e525a90d5c84f0745",
+      "bytes": 6070196
     },
     {
       "file": "docs/data/grid_evidence/malha_evidencia_250km2.geojson",
-      "sha256": "960aae1884b49e9250e7ed49238ea7c289029f8a58c6e7fa3d6d49d0f69f3139",
-      "bytes": 4076434
+      "sha256": "cf6d88ad0a8f373d67979abe20664a80733e83c487f601069f5c127d583ee629",
+      "bytes": 3998613
     },
     {
       "file": "docs/data/grid_evidence/malha_evidencia_500km2.geojson",
-      "sha256": "d2af7106c735bae2415000ff791e3a26e0b7c31bf09bb96132ce97f0e1827937",
-      "bytes": 2812562
+      "sha256": "684bf6ed701792bf9f6591eaced5870d1ced041343730df2ed6df4141fff0b19",
+      "bytes": 2435813
     },
     {
       "file": "docs/data/hidrogeologia_contatos_sgb_2024.geojson",
@@ -1336,6 +1661,111 @@
       "bytes": 915287
     },
     {
+      "file": "docs/data/question_sufficiency/cell_question_sufficiency_long.csv",
+      "sha256": "2dfb35c0be8b1cda459e63dba6bd875a4f21bdb627eee5dbc873b54ecbed1336",
+      "bytes": 11628226
+    },
+    {
+      "file": "docs/data/question_sufficiency/dimension_dependency_matrix.csv",
+      "sha256": "150a14a18faa2464eee45e052c0cc1f1576c51c840d83f3c240cc52aec6af163",
+      "bytes": 7013
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_dependency_pairwise.csv",
+      "sha256": "8f9b739683f534ebab2b63700955356704419fdd9a7c792d81a07410adb85664",
+      "bytes": 27681
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_global_summary.csv",
+      "sha256": "2e172419e5ab2900024267cdd03b1c189b49d2068378bf761f01e908fd048fee",
+      "bytes": 1139
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_registry.csv",
+      "sha256": "94d6e4d2be6a42d7a81f021e0948f3d687a1aca78c21d852ce0e875113f4257b",
+      "bytes": 3521
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_requirement_matrix.csv",
+      "sha256": "1404e12d0e7445d658567d652813307315132dc3d7da7a7ee04bc0b3c036f139",
+      "bytes": 13488
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_scale_summary.csv",
+      "sha256": "606728f6fc32a4eb1ae19f9a5f03c5d042f6e057304621e3e92dd7f2fc3c7fe4",
+      "bytes": 2627
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_sufficiency_1000km2.csv",
+      "sha256": "4b127b5fbfa619d5e222fab94ffd8ec9045e3803c5f6af44a1bbd9f21a7e44c8",
+      "bytes": 301972
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_sufficiency_1000km2.geojson",
+      "sha256": "e4b9c63099b6b98a7a126f445fbcfbf0dbd7c31c6203d0b72e447dcf84862d12",
+      "bytes": 1718086
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_sufficiency_100km2.csv",
+      "sha256": "4d72e28ff4f3feba3306ffbe4286b4b759752792f4d6053d73761d25a3b82c16",
+      "bytes": 2431123
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_sufficiency_100km2.geojson",
+      "sha256": "5f578a20276893a7c67e824ae21933adae7fe7d0b231fcd21a6f7ffda7d5f3e6",
+      "bytes": 9726053
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_sufficiency_150km2.csv",
+      "sha256": "89941eb328b263bd0c72c3aace151a15c8428b056a82e2ed2dda38cad2e18175",
+      "bytes": 1659863
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_sufficiency_150km2.geojson",
+      "sha256": "559ce16b6dece69bdd4b364626399a5f7d54a519feba162a56da7bd86f31f065",
+      "bytes": 6779224
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_sufficiency_250km2.csv",
+      "sha256": "c96674ea5437961710803ee3a8a2f2b9cdc531687ebc2170cac63c3a00724fd1",
+      "bytes": 1037554
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_sufficiency_250km2.geojson",
+      "sha256": "c24976f75fda8aac681bf4216c5eb3f7353a564cb593609096560739752591de",
+      "bytes": 4424944
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_sufficiency_500km2.csv",
+      "sha256": "85467b463dbb5a05db3c057714bf6b419e0f581f45f044a7e6f7f873c08d48b5",
+      "bytes": 552385
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_sufficiency_500km2.geojson",
+      "sha256": "98e2e5dbc22373b9b81d95d135fa1ca37dec47b3dcab4fc7509f9fa4b8c2488e",
+      "bytes": 2631066
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_sufficiency_field_dictionary.csv",
+      "sha256": "329f38243d9635746d190d65bb61ef716af66b854a77c65eab7745e0ea4878be",
+      "bytes": 65073
+    },
+    {
+      "file": "docs/data/question_sufficiency/question_sufficiency_registry.json",
+      "sha256": "e533a0747eda5676e4bedd2617b50041cdd49367f2c0016c017504ccce57219a",
+      "bytes": 34560
+    },
+    {
+      "file": "docs/data/question_sufficiency/well_question_sufficiency_long.csv",
+      "sha256": "c547581eb578063bee2596e0e5783a383026bf40112501059b0e0ebe65171d6d",
+      "bytes": 5901147
+    },
+    {
+      "file": "docs/data/question_sufficiency/well_requirement_status_long.csv",
+      "sha256": "1a5cb1a0167dca9d4a799076668deb3cecc7431203dc615f60255b1d76470126",
+      "bytes": 38932129
+    },
+    {
       "file": "docs/data/raster/mdt_sgb_2024.png",
       "sha256": "079e43353f2a4bc9920638fbadab01f0e709da0dd3790a9b9ba55b4a3fbfc5de",
       "bytes": 1679975
@@ -1422,28 +1852,43 @@
     },
     {
       "file": "docs/data/spatial_structure/spatial_structure_1000km2.geojson",
-      "sha256": "6c5d040bef483dcfd70df7307016e8884bad72bbf5666e6c95693f868a3d060f",
-      "bytes": 2309496
+      "sha256": "9ca10f32511dd94aa9c34196dfff98e078953e07f4ed36e34e49d83f855321b1",
+      "bytes": 2329457
+    },
+    {
+      "file": "docs/data/spatial_structure/spatial_structure_100km2.geojson",
+      "sha256": "dcfa87bf93c036210d2aa3348b25a569966b85d692ab6a93b0588d7095aea344",
+      "bytes": 14661928
+    },
+    {
+      "file": "docs/data/spatial_structure/spatial_structure_150km2.geojson",
+      "sha256": "06de06613a9809099c1f0745c98c14dfb2f8358b79ff9f76e5345f0f8738dc75",
+      "bytes": 10107994
     },
     {
       "file": "docs/data/spatial_structure/spatial_structure_250km2.geojson",
-      "sha256": "7da81c1958c0454033bbd435e39712a7d4a237fe02d72a4534c2807ae030a03c",
-      "bytes": 5789561
+      "sha256": "6b0646c985867687a4edca8bd576dc09196b16fed474881ef54a4dcdb03e8e11",
+      "bytes": 6474574
     },
     {
       "file": "docs/data/spatial_structure/spatial_structure_500km2.geojson",
-      "sha256": "8df7f089c8d09886773018e8e4e901e88d3a2304e49580c68bb00c4f7a5d191c",
-      "bytes": 3701377
+      "sha256": "7b4141b7f3c910635d8b72554d07180b0bd3542bac3a9045aad1fe7472c265fb",
+      "bytes": 3725693
+    },
+    {
+      "file": "docs/data/spatial_structure/spatial_structure_scale_summary.csv",
+      "sha256": "0b718ce9dc0f01cbbdcb4c131767898a5c3d8e072af1991854434242b1e8cf08",
+      "bytes": 1435
     },
     {
       "file": "docs/data/spatial_structure/spatial_structure_style_metadata.json",
-      "sha256": "2eae5462e4d386f79ac77b29f131838a0aa4c0b979eea2d2ad18dd6a98a88c28",
-      "bytes": 22807
+      "sha256": "48d99d8e86a1e549a6b490a63eba20db16bc0048181c0ea01585497fd32449e6",
+      "bytes": 37416
     },
     {
       "file": "docs/data/statistics/statistics_v221.json",
-      "sha256": "231ae0c6c0c5201463d75087a1c45fe5f4292f71e2fcefcb00140d141d3f79a1",
-      "bytes": 74225
+      "sha256": "7bf1dc775f980bd48ad56e8d6fab6206efc0674a643872382995ec884265cea2",
+      "bytes": 97585
     },
     {
       "file": "docs/data/stratified_scale/stratified_scale_1000km2.geojson",
@@ -1572,348 +2017,348 @@
     },
     {
       "file": "docs/data/well_details.json",
-      "sha256": "2dd270de6e1a14668a27d83d114627d1ec5c98ea2a0dabb37e31171b8929bcfc",
-      "bytes": 40935987
+      "sha256": "6fdbe985c9fc8619f54c30000ebb7b8aeb341f6b038f10cd2d772833fb673c20",
+      "bytes": 48084133
     },
     {
       "file": "docs/data/well_details_shards/00.json",
-      "sha256": "8cb0494a595f794991c8d69f14c69766321cb2be49fcbac776771e8c4fe517e2",
-      "bytes": 616548
+      "sha256": "1a0bfc587de18d1ac1eb351e70ca4f6571dadc0c7d1ffc5fb7312ca115f42f77",
+      "bytes": 725447
     },
     {
       "file": "docs/data/well_details_shards/01.json",
-      "sha256": "9b5db7c39d7bdd1b28684be0f737a5fe07f588f4c70e510e04e1fd2f4ff13122",
-      "bytes": 620974
+      "sha256": "90543fc3b5aa03740a3e8cb9d8f43b66988ec181cca5484546b09a84b52bf3e6",
+      "bytes": 730281
     },
     {
       "file": "docs/data/well_details_shards/02.json",
-      "sha256": "4f092ffe0289726a2420cf83ecea9ae5ae3cdcead7e821b1b657342c58f025d0",
-      "bytes": 623017
+      "sha256": "191eacd7d6a9d3aca4347aa23dcf6dadb8d261998e2a33fc165a8164420d31a1",
+      "bytes": 731328
     },
     {
       "file": "docs/data/well_details_shards/03.json",
-      "sha256": "b075409ee56d9ee93bab64dca4c4b19ea9b88ee8b0757c8105401a627cae93be",
-      "bytes": 653856
+      "sha256": "2e13e172f79b585086c37914912f8d16432f804ebd51d27d75197a987acd59c5",
+      "bytes": 768478
     },
     {
       "file": "docs/data/well_details_shards/04.json",
-      "sha256": "702ed982c4327c4e3bf63449119d6af6d4a2d1db544d394bc3878229b831c7de",
-      "bytes": 607692
+      "sha256": "c05a74bc1e2ee80ff1c29007d51431db0da2280e42e71b6f8c0a225614e78d7a",
+      "bytes": 713073
     },
     {
       "file": "docs/data/well_details_shards/05.json",
-      "sha256": "33e3d6b97e1b5e669d22d66b694905cd8e8a6296ab9965364eea9a5b2890cb30",
-      "bytes": 711548
+      "sha256": "4859a9855eb43a9f9e5ea20558b4f5f6587331eecaad2a9ff7171440426f37cb",
+      "bytes": 836292
     },
     {
       "file": "docs/data/well_details_shards/06.json",
-      "sha256": "8e28a5e89df3cbfeda0e9b94d04c3057370fdb436d817fdc30c13b2e0861abee",
-      "bytes": 621451
+      "sha256": "69bc8fb0a0fc63c8f6340a807fb1a2d4f9e64af5fb5b70b9cb9093d264296380",
+      "bytes": 730530
     },
     {
       "file": "docs/data/well_details_shards/07.json",
-      "sha256": "b75a5409c1f11e6686d789b0cbb16b6c9977b8a62e28a9a88c2a7328e93af6db",
-      "bytes": 647312
+      "sha256": "10f1c84113ded140dcd9b461cbdb981e6e5f37256b356f0d43905c3b4dd9f00c",
+      "bytes": 762046
     },
     {
       "file": "docs/data/well_details_shards/08.json",
-      "sha256": "a6667e61d1e455c0be3e29663b9a259de96e624c4f87aba5e6c73f3063d4c126",
-      "bytes": 643116
+      "sha256": "c9cb6570fd76315956345ef310f2d2e1601e9ff1543d09c4c87b81e5608c168a",
+      "bytes": 756021
     },
     {
       "file": "docs/data/well_details_shards/09.json",
-      "sha256": "9e53cce55982c782d23955e0faa2f4ee201ad860a32ec84f17bda95e736104ad",
-      "bytes": 644029
+      "sha256": "94b561eae2ff5d62377914662d73fdd50701373e4e032640e61e0f96a6575485",
+      "bytes": 756578
     },
     {
       "file": "docs/data/well_details_shards/10.json",
-      "sha256": "e1f82dcaab3f67e836f4613bc5ce1c09e4b40625341bd28baa3d84da3c3a397f",
-      "bytes": 609602
+      "sha256": "a6ffb54b4b8e93335bef38718f88def279c5f53ac1e44a4decf181e0d04bc904",
+      "bytes": 714903
     },
     {
       "file": "docs/data/well_details_shards/11.json",
-      "sha256": "57bb9392b318b9aa2e2595301645dc9140d0930072457e038ef1957163bcaa37",
-      "bytes": 628388
+      "sha256": "83dcac2b1d2c747e022e4354d64b49373b29bd388e41ca6243e1151ab8b073bc",
+      "bytes": 737183
     },
     {
       "file": "docs/data/well_details_shards/12.json",
-      "sha256": "082a22fe29690072c31b9b98fe57f0e17ab97f8825b8a36d5dc2f43d22cc564c",
-      "bytes": 636620
+      "sha256": "98462fa8aaf0345a79d26b9570b41ea9745dcd8fd848fb72bb1eeaadd699e96b",
+      "bytes": 746772
     },
     {
       "file": "docs/data/well_details_shards/13.json",
-      "sha256": "50a71780cbe71bdee1485c5c220985556352b17b306a91868e1834eb02ead9e6",
-      "bytes": 660924
+      "sha256": "4a59b2060469f353d2cb9531df7396d8e5954fedb3ff5fcea91bfddc464bf4cc",
+      "bytes": 777351
     },
     {
       "file": "docs/data/well_details_shards/14.json",
-      "sha256": "86a1aaf780713884bc48cc2e805a81daccc16c615ffe3f19f635103276fb4403",
-      "bytes": 644484
+      "sha256": "f2227dd21b60babc09caa3f04a04a932e7bfe4dea2513a1cf6ac1b0fa7375859",
+      "bytes": 756813
     },
     {
       "file": "docs/data/well_details_shards/15.json",
-      "sha256": "cc20776f914ded15bd95958ecd86d8514a9feaff2bd2b30392126a9279db87a2",
-      "bytes": 680789
+      "sha256": "c173b0f7022683d9beddb70a2a3f28c1cfffa6363c4cf8ff1b0d10dbd726270a",
+      "bytes": 800606
     },
     {
       "file": "docs/data/well_details_shards/16.json",
-      "sha256": "8a53e31f24d96e660889f2c620cdbb586f27afffb0e14b5f4f4c735275807b8f",
-      "bytes": 687534
+      "sha256": "eff091f503d9043fc3f011f30450c3696f63c8529802543f4346abe4376f947a",
+      "bytes": 810168
     },
     {
       "file": "docs/data/well_details_shards/17.json",
-      "sha256": "e4242319619ae154e1e1cf2b23f2476d76ba89be428360d108044b371e0f1eca",
-      "bytes": 639969
+      "sha256": "a047d43e9f3c71a751319960cdc4765b5a499425a7c130fdf3a7fcc4b79f807b",
+      "bytes": 753006
     },
     {
       "file": "docs/data/well_details_shards/18.json",
-      "sha256": "889bda64da2c39b1ef2f355ad27330444f3883ae3a75527c2411a20eba1ef9d0",
-      "bytes": 696769
+      "sha256": "0f81347dbb1c6f32f0caf4d3995f0f3ee314a8b92cb42da6168f32919ede7930",
+      "bytes": 821044
     },
     {
       "file": "docs/data/well_details_shards/19.json",
-      "sha256": "10ea3671d6c755f56f1d76bb30470cdf06d1cf225f587e3da53af19cad66c0be",
-      "bytes": 643007
+      "sha256": "890e023adbbf64a33768f0ea165bf8edad94de60cf8f0c9a9872653a3f5ec43e",
+      "bytes": 757437
     },
     {
       "file": "docs/data/well_details_shards/20.json",
-      "sha256": "f441b7b78669f9e5c6fb30c0a80cab8ce847aab2c734c7d22bde03801d672e52",
-      "bytes": 633806
+      "sha256": "bffd3028d0f43aab603d1a910ec792c388ea659053ec7812f652795477a50a56",
+      "bytes": 744818
     },
     {
       "file": "docs/data/well_details_shards/21.json",
-      "sha256": "6f8cc6d0607b8923b82562cffa62ef842f3c517b5b79497046283347aaa380f8",
-      "bytes": 655488
+      "sha256": "f684e54b9a4398dbd77b76c915ae52dc0eab424f6b2185a242c5b17b4e5d4a89",
+      "bytes": 771795
     },
     {
       "file": "docs/data/well_details_shards/22.json",
-      "sha256": "ec1ca3a353e736d50d3ef8ab349952b5976e44c45f0ea3bac50731d660af1c10",
-      "bytes": 641284
+      "sha256": "202ca7a9bee5970c81d527fe42154ddcbc95a25c2e62cd627cc3402fbf207a55",
+      "bytes": 751572
     },
     {
       "file": "docs/data/well_details_shards/23.json",
-      "sha256": "040bf30bcdfc0a18e20e56dbb3f47274f69ee25f72f50b32d0eeb398abdf60ba",
-      "bytes": 692398
+      "sha256": "d1f4d098c3f83f7d26d8467caee7857caded189d54baf9e09a9642759b4f6f26",
+      "bytes": 813984
     },
     {
       "file": "docs/data/well_details_shards/24.json",
-      "sha256": "cfb3321718b985c942e8a31f2893eacae61279531cc55683c489c89aa463fcb5",
-      "bytes": 627368
+      "sha256": "09fef32587291ae3c923d819f74bec01aa7e897f5b2129e28c1a9073ea532204",
+      "bytes": 738116
     },
     {
       "file": "docs/data/well_details_shards/25.json",
-      "sha256": "31ee4d4f009e1b32cd49ab5e6af9d0a44cc2674f91038edb822661c146fedb29",
-      "bytes": 615663
+      "sha256": "c6edb0a800e6265dbc83fea3bd8d512601b54cd6f49d5959248da7a3930e0fe3",
+      "bytes": 722537
     },
     {
       "file": "docs/data/well_details_shards/26.json",
-      "sha256": "1d162adca30e484e57a3c9da72de225e82c34b67c1ee1f1ec17b9ad3d81f0516",
-      "bytes": 648881
+      "sha256": "962465b3601b8441d1c7e4b85fa7ba5e26376438b7bbd8457e3d801ba0fdf075",
+      "bytes": 763703
     },
     {
       "file": "docs/data/well_details_shards/27.json",
-      "sha256": "b2861e3a9c553e843ec68a239f45cda8784d5578f2bd5e294d5f35383e282c3c",
-      "bytes": 621035
+      "sha256": "6ddf490629b0d64c6e9fba6201d0ecc8be5a5b70e6e9a8fa8d6a4c5a16e5eb1c",
+      "bytes": 730318
     },
     {
       "file": "docs/data/well_details_shards/28.json",
-      "sha256": "4f1f4a394dfafbaa0e35b6369b4fdcb6e39bfa4215037d36de874e69bddbad7e",
-      "bytes": 606108
+      "sha256": "02f6db83db49580dfad502109b41f622626ea8096f3146905c619e9af9ce48fb",
+      "bytes": 711561
     },
     {
       "file": "docs/data/well_details_shards/29.json",
-      "sha256": "0a92f57bcabf251fa6bc889060dc96d7cfdd4b0bd0401cdd4c28e07bbdddc23f",
-      "bytes": 625748
+      "sha256": "b3315bdba6724f511c29eaad27409d21fad7aa47840aeb229e1aee7193180c2e",
+      "bytes": 736944
     },
     {
       "file": "docs/data/well_details_shards/30.json",
-      "sha256": "308ce61af25ea0aa62809d01b73f3a68c64445d9e81dbe78c2035c3793510e60",
-      "bytes": 613537
+      "sha256": "c928962effa54686ae7684e1cc2b6c4ba895fd3d953ae0dc0f293e514597860d",
+      "bytes": 721035
     },
     {
       "file": "docs/data/well_details_shards/31.json",
-      "sha256": "a45b95241325cbe613ae8c5f5ee33f717920fc5fa2daeab4fc6b1ed1fe877ba2",
-      "bytes": 637470
+      "sha256": "2fa44a7be3166d7b30527df4cc41885312c85b8d45ff34471e005b5cf75bec0e",
+      "bytes": 749791
     },
     {
       "file": "docs/data/well_details_shards/32.json",
-      "sha256": "2c8b6296f1e3df09ba906188ad6c1e1e758aa09d6a25c27630537e45afd17382",
-      "bytes": 678463
+      "sha256": "4baa5c4510f185eef55214a010a7328bc8c4a1b4766d2647ef1fc78485c031f3",
+      "bytes": 798044
     },
     {
       "file": "docs/data/well_details_shards/33.json",
-      "sha256": "01e340cb5910aa768de030a1d2b9f3700f6afc28954c49ba32591bb6efed9ace",
-      "bytes": 654698
+      "sha256": "69489a0763cac0ff3d9d493026f20d7497880d78bc69726089367aee23cd78ef",
+      "bytes": 768788
     },
     {
       "file": "docs/data/well_details_shards/34.json",
-      "sha256": "1399c5d9c1cb4ee9c81178bdb75a7f3082490aff57dd9ff7890e25b0c07013aa",
-      "bytes": 643740
+      "sha256": "feec7deb175d05ccd1dfb79765b13c28b566d3b06cb60cae920a0d4fa10024dc",
+      "bytes": 754236
     },
     {
       "file": "docs/data/well_details_shards/35.json",
-      "sha256": "28ce916e6422e2e05b3e980a15d2331775171ee444ee1ccbf7953b746b5fbb7b",
-      "bytes": 658911
+      "sha256": "d112fed6bb4055b74bd35604e1b2c242854ae69aaafd0a71b28527a36b68f34f",
+      "bytes": 772641
     },
     {
       "file": "docs/data/well_details_shards/36.json",
-      "sha256": "d3a7adef087b40d91395dd53b1d38b3d9f6aba458abbc5129cc9ae2d697443b8",
-      "bytes": 626586
+      "sha256": "dcb27e84b2a5f79151e1c7aa21995c8423728c28e2180afe300d0b83bff693f6",
+      "bytes": 735621
     },
     {
       "file": "docs/data/well_details_shards/37.json",
-      "sha256": "c319319d4f0ed4450160f965ad304051891aad273d6a024126da61123ecba0f9",
-      "bytes": 638430
+      "sha256": "877f5566034bf4c21131b1fdeac2708c66e1d8e8721f3e1fa56538e1458ae63d",
+      "bytes": 748914
     },
     {
       "file": "docs/data/well_details_shards/38.json",
-      "sha256": "3c3bb086852c1cf13841a2e99873b29ed42c987c0c5ec918b4dd847b1f3c4422",
-      "bytes": 642869
+      "sha256": "113136f4e65b941b941c8a9f5049c0969ab1c8cb74a5ee772aaa8afd0e212dc9",
+      "bytes": 753609
     },
     {
       "file": "docs/data/well_details_shards/39.json",
-      "sha256": "7b22075b37b1fdd686b812da2666c7fe18a18fac94a3fb120103c8c0c7f9c106",
-      "bytes": 666132
+      "sha256": "b6b26bbe2bdd9ebaff342dbecf6088b9f78d5ae12906054322f7291b30e01eb1",
+      "bytes": 780134
     },
     {
       "file": "docs/data/well_details_shards/40.json",
-      "sha256": "89205edf33e5cea44d2f4b72039316ee58f597019d9f509535e0925403ae5b52",
-      "bytes": 605059
+      "sha256": "2e14bbb33da02267720f570f9ad89109ba938ec0be53737844d8628a310990c3",
+      "bytes": 708875
     },
     {
       "file": "docs/data/well_details_shards/41.json",
-      "sha256": "a895d7579ef85323ba557cf8933a5c558710d19fbff3819eee7a7e8b3f8e7381",
-      "bytes": 640963
+      "sha256": "d09608125deb23d930c66cd60c2619bb058a5955e1643538caa50a43baff3540",
+      "bytes": 751067
     },
     {
       "file": "docs/data/well_details_shards/42.json",
-      "sha256": "975518902a68fb9cf7ca7608262e9a5ee013c66b0627463606c2129745147c36",
-      "bytes": 616134
+      "sha256": "76b14ea97d3a25d3f61a7965b84102586cf5b20aa0e0fa846c4ad23fbe4c2986",
+      "bytes": 723400
     },
     {
       "file": "docs/data/well_details_shards/43.json",
-      "sha256": "1462c92076782064baa633de1360557c3a3806dbe8cfba7c51d0af4d21dc25f0",
-      "bytes": 639955
+      "sha256": "439201cb5e491f1abc4453ba426a3604e9f138925fd8dd92436bdc81d2d74fde",
+      "bytes": 750763
     },
     {
       "file": "docs/data/well_details_shards/44.json",
-      "sha256": "d469543f6ebd4f4cc897d50527a01e840ebe9daa6a0c523675b20c00974d1c65",
-      "bytes": 585844
+      "sha256": "77c33ab075a664825da50d4f58e568dc8c8a897ea1812ce7a35f808d09accf78",
+      "bytes": 687415
     },
     {
       "file": "docs/data/well_details_shards/45.json",
-      "sha256": "579d9ad9a51e60e5c2296481416a6a2ea2e744af822234336971d0154cb6262b",
-      "bytes": 686527
+      "sha256": "48b1f4499238ebe8dddffa56c7c53edbf7c345441c003159a8c82c420036763f",
+      "bytes": 808377
     },
     {
       "file": "docs/data/well_details_shards/46.json",
-      "sha256": "3f8f385dd620eb5c902bdb4e4b581df9762695d120c2e961dc2987cd0809b5bb",
-      "bytes": 586468
+      "sha256": "09806496880a3bb6c27eef576a33203a7f51d92b4c7522a614a66301c41cf222",
+      "bytes": 685162
     },
     {
       "file": "docs/data/well_details_shards/47.json",
-      "sha256": "4db246854c04d74192d90bfb3d54bbc6c2e66a528caa3073848f76e42435fece",
-      "bytes": 652815
+      "sha256": "6c844face1c5f2ffe4d0fe405da1964640eb102d18888da74c281529d7a46726",
+      "bytes": 766657
     },
     {
       "file": "docs/data/well_details_shards/48.json",
-      "sha256": "7490b898b20ff1b92bee89799b5423bae2e67ea650eb7e81273bc2b7ea24f419",
-      "bytes": 588209
+      "sha256": "63af517fb8569c33443e4ea98a4914afda99a075ffb1b733b3cd9924cff87e12",
+      "bytes": 689120
     },
     {
       "file": "docs/data/well_details_shards/49.json",
-      "sha256": "d2bbae3f564a18367b4f78d4835758a799e582bf420e8dc107d2d34ce32f86d4",
-      "bytes": 673922
+      "sha256": "75a4141e0e253626896f415887da08f0c7e91dae494b58f27f93db03d001a1c0",
+      "bytes": 793395
     },
     {
       "file": "docs/data/well_details_shards/50.json",
-      "sha256": "e31b7b24b19782eac1ea303a9a7a9c79f29b45beb097db5b61fad30d8c962b8e",
-      "bytes": 618367
+      "sha256": "9d28a8c5daf38a955ebd546bbe0f2e71b62145258df07239e766c72564abf43c",
+      "bytes": 726710
     },
     {
       "file": "docs/data/well_details_shards/51.json",
-      "sha256": "f46843510cd0129c247c3c56e1b65e48790a371aed63e56beedebf59b35a655a",
-      "bytes": 641740
+      "sha256": "fb57110ddcb8ec902a68c124d1bb65b2e97366a8fdea9cabdd141d77e2998fa5",
+      "bytes": 751240
     },
     {
       "file": "docs/data/well_details_shards/52.json",
-      "sha256": "137f24b11cfa69b942fc4fd02d6cc90ae852865398ee87365fb0b333babc97ae",
-      "bytes": 647078
+      "sha256": "af615c5c10d32d455ec90f4cc40f31433c7b849c043fbb53c2ec6c5c31c913e0",
+      "bytes": 759567
     },
     {
       "file": "docs/data/well_details_shards/53.json",
-      "sha256": "4418435e7c06fce2099f51f4737ec640d34b391104019eb156313003e825e375",
-      "bytes": 663749
+      "sha256": "4c692cc917bcdb2fd2e38a5a276e82a6d2d53962eb55a0c5b0192b9919e8297e",
+      "bytes": 778900
     },
     {
       "file": "docs/data/well_details_shards/54.json",
-      "sha256": "a3b20145b7dd1e4bf1903032492b1b2d75e4ecd500fcc0b19e91cad5ec8d53fa",
-      "bytes": 613536
+      "sha256": "a2b23e17e362de2d043da8b062cb4a8080330affcb695b3b6e80359a643edc80",
+      "bytes": 719406
     },
     {
       "file": "docs/data/well_details_shards/55.json",
-      "sha256": "28e50343e49c52e2addc61249bc26195fa17869acf927fd31085a452988aad8e",
-      "bytes": 660937
+      "sha256": "3902bd007c52ff6ecd27abe77bfbcbff0d384eb922ed9c2f42a50955934dc9a6",
+      "bytes": 776548
     },
     {
       "file": "docs/data/well_details_shards/56.json",
-      "sha256": "43edc57cc300f60d89a5f2695cd0eabfe615afc9d0607ace26a8d2177c3f873c",
-      "bytes": 596122
+      "sha256": "40e117b45f24fdf10777cdbd5dcb970eaffd51eb02784483ee8fe50de1e37d18",
+      "bytes": 699406
     },
     {
       "file": "docs/data/well_details_shards/57.json",
-      "sha256": "67b2bf811be19ae1b9ac1a7b748a644696b3904840e162951b614b4afa2fdcfa",
-      "bytes": 704692
+      "sha256": "56dd2cc4e27181b8c97b798a0e3e55eb186de2f757455704e787c541c8b35e9a",
+      "bytes": 830048
     },
     {
       "file": "docs/data/well_details_shards/58.json",
-      "sha256": "800f37c11d3d096c241621ec631cc8ca93eebf60f24384488f9c9281eeecbef3",
-      "bytes": 609656
+      "sha256": "0c454406f2315da5dc4bd1493c7554ad8a087496f5e0b3542f082f07124e1830",
+      "bytes": 714749
     },
     {
       "file": "docs/data/well_details_shards/59.json",
-      "sha256": "682269c68f06486bff7a05901d06d16bb433b0f4b3be62aa7f6dd1439828a77e",
-      "bytes": 673126
+      "sha256": "a47cf05349afcc42d5e60077d106db92a124d2dc05b652ef751e2c3743a057be",
+      "bytes": 789069
     },
     {
       "file": "docs/data/well_details_shards/60.json",
-      "sha256": "8823874679be39200573286a7ea304490b2b0d6d466c880cbf5c106f96e3af8d",
-      "bytes": 616044
+      "sha256": "8363dfc021a711a2811ff4fc9855276a447e5f4faf96b7303d2cace3624d6f86",
+      "bytes": 723346
     },
     {
       "file": "docs/data/well_details_shards/61.json",
-      "sha256": "b7eb2da8a6b7162223c30f2cfe551f10dab36419d66f0d59f85324de07e01cb8",
-      "bytes": 646032
+      "sha256": "7c8c593b6c713e2b0a2a7727ff6115cd29d2afd496e2d04ba4e4a78f84eb2fed",
+      "bytes": 760886
     },
     {
       "file": "docs/data/well_details_shards/62.json",
-      "sha256": "b190db64e77683105cac0b9af7034ca2999e2a8bb97e7080d6cb698d8a27b7d4",
-      "bytes": 577163
+      "sha256": "9636ee0a56069027973f316180603e2b7f617c7ef47372159c3e21772ab5e955",
+      "bytes": 676441
     },
     {
       "file": "docs/data/well_details_shards/63.json",
-      "sha256": "d41ddbed94804e4af02de4fd81b73f993b47d7000805a09295e5f5a2b3acf1f5",
-      "bytes": 645732
+      "sha256": "44f00b647d1868cd992fed125600ccf4007c1c670a7dc9b843eb5195b089f78c",
+      "bytes": 760194
     },
     {
       "file": "docs/data/well_details_shards/manifest.json",
-      "sha256": "19b8792cfd1598c7016fdf6183f30ca823a1fef6d6432593b75e2f50aeb4ad2f",
-      "bytes": 1384
+      "sha256": "08dca0dcac827da8c27ab194848fbcaeed8014d12ab2505c0cfcf33e9a8c03e3",
+      "bytes": 1382
     },
     {
       "file": "docs/dicionario-parametros.html",
-      "sha256": "96b1f5ece0fa878a906fed42f6f60896889624d6ab1985e74a7b4fbbeba5a7b5",
-      "bytes": 345399
+      "sha256": "82acf8f9ecb9ff10306679cf22233774db27fe5e80a69ba96c60ae8ecbfbfc60",
+      "bytes": 396500
     },
     {
       "file": "docs/guia-resultados.html",
-      "sha256": "dbea4baebe6dfd95bf7b16309833eab73a97e51f32c5a013b6745529b841695e",
-      "bytes": 48866
+      "sha256": "445535527ada8757d69bd741a22c79d9fc6f8b161e72c03055602f5837a648c6",
+      "bytes": 50009
     },
     {
       "file": "docs/index.html",
-      "sha256": "28f1d49482e3fc39d5d6313c49771911ccb82f70a2ff578e66f4c10c4d4fbf42",
-      "bytes": 54920
+      "sha256": "86158a337a08f40719e5f869004863f4397cfaaf02ae9f2067b546770a8acce7",
+      "bytes": 57960
     },
     {
       "file": "docs/licenca-conteudos.html",
@@ -1961,14 +2406,19 @@
       "bytes": 5207
     },
     {
+      "file": "docs/metodologia-suficiencia-pergunta.html",
+      "sha256": "df4de6cf1f0479b2b5eaaf42239082bb1667d7a85b38ce8f45773dc3a6ab28a8",
+      "bytes": 9059
+    },
+    {
       "file": "docs/metodologia-vertical-temporal.html",
       "sha256": "1cbb0f15cfb8b5049740fced1e83f64e80a5b7881f55266fdbd7bc3f64578d48",
       "bytes": 5781
     },
     {
       "file": "methodology/BIBLIOGRAFIA_MASTER_V1.csv",
-      "sha256": "d4c626509c2d4a8ca766bc00a07a26bec0c294ef0775d9dd7199771fc86e8a7e",
-      "bytes": 29538
+      "sha256": "99bfe381e6678b2b208f32e60b1a3823b5988547d3a4c127dcd11ca2c6c27121",
+      "bytes": 30083
     },
     {
       "file": "methodology/CONHECIMENTO_HIDROGEOLOGICO_EFETIVO_CAMPOS_V1.csv",
@@ -1982,8 +2432,8 @@
     },
     {
       "file": "methodology/DICIONARIO_METRICAS_RESULTADOS_V1.csv",
-      "sha256": "d9e5071eff7ba3c92b3f32738d43a1dfa01b6d2139d5280ced5a578c2ead92cc",
-      "bytes": 370425
+      "sha256": "cd141bcc8581fefe9e48d07100cbe9739fedd2d48d36e9309f308da29f8702ef",
+      "bytes": 423519
     },
     {
       "file": "methodology/ESCALAS_CANDIDATAS_V1.md",
@@ -2021,6 +2471,16 @@
       "bytes": 302
     },
     {
+      "file": "methodology/SUFICIENCIA_POR_PERGUNTA_CAMPOS_V1.csv",
+      "sha256": "329f38243d9635746d190d65bb61ef716af66b854a77c65eab7745e0ea4878be",
+      "bytes": 65073
+    },
+    {
+      "file": "methodology/SUFICIENCIA_POR_PERGUNTA_V1.md",
+      "sha256": "4c39adc480769f0fe3bb8d126a39d12540fcb11434213304380899c735941889",
+      "bytes": 12014
+    },
+    {
       "file": "methodology/VERTICAL_TEMPORAL_V1.md",
       "sha256": "43207d8f12ccc4db2cee9ae797de66f7a880c5c513db9558158adafeb5f5d8c9",
       "bytes": 6783
@@ -2041,6 +2501,16 @@
       "bytes": 1160
     },
     {
+      "file": "provenance/grid_evidence_manifest_v23.csv",
+      "sha256": "7866784ec24c2a409e5e228fc31550201744923f684a5c1b4c7371af7d97804a",
+      "bytes": 1808
+    },
+    {
+      "file": "provenance/question_sufficiency_manifest.csv",
+      "sha256": "14cd4d40f5fc3f3acb72cd16e8feddbb53d0438d253b783c379c7fd893c86ddb",
+      "bytes": 2445
+    },
+    {
       "file": "provenance/sgb_2024_source_inventory.csv",
       "sha256": "68d04858ddb9f537b2e368a8fb800c28bd44961c7b80400fca49a7aa37b87a17",
       "bytes": 1713
@@ -2051,6 +2521,11 @@
       "bytes": 2942
     },
     {
+      "file": "provenance/spatial_structure_manifest_v23.csv",
+      "sha256": "a80372988398b3e3a181459f01f98ddd5d177fa0f6cd64396f950c2d185f06f5",
+      "bytes": 2557
+    },
+    {
       "file": "provenance/stratified_scale_manifest.csv",
       "sha256": "444613c54b598492ca2cfc3d8af411a0072ee3a1283c6ad004c425cdf067be98",
       "bytes": 2145
@@ -2059,6 +2534,11 @@
       "file": "provenance/ui_v221_manifest.csv",
       "sha256": "3b6c52269a336a9d629b8da9649a9932d74509c22c59f98bea69e83d0ab98d09",
       "bytes": 9624
+    },
+    {
+      "file": "provenance/ui_v24_manifest.csv",
+      "sha256": "414ffc41185fa52325aa23f5719dc627c94e70bf169fa4842c8eac158f1fda9e",
+      "bytes": 15479
     },
     {
       "file": "provenance/well_card_sources.json",
@@ -2091,9 +2571,19 @@
       "bytes": 4788
     },
     {
+      "file": "scripts/build_question_sufficiency_v24.py",
+      "sha256": "4313ec170f3550edc38630f0aabc65f4c5811c7d9a4bef9fa60128e9cfc10439",
+      "bytes": 48717
+    },
+    {
+      "file": "scripts/build_scientific_extension_v23.py",
+      "sha256": "13f36127dfadd60e9b01e33184fafdd220852429de0a3f3cf52c168f0a02e406",
+      "bytes": 37622
+    },
+    {
       "file": "scripts/build_ui_support_v221.py",
-      "sha256": "86fb293418c39b47259ddc30de5073602381e2998d9a83fa835515da6974d0bb",
-      "bytes": 8030
+      "sha256": "8efdf7c7e37116ffb712b8e333e7e19073a55480b9f3cea9fb1f89a78bb316e3",
+      "bytes": 8354
     },
     {
       "file": "scripts/build_vertical_temporal_v1.py",
@@ -2131,6 +2621,11 @@
       "bytes": 2632
     },
     {
+      "file": "scripts/finalize_release_v24.py",
+      "sha256": "42ba67b8ea496785b9828fcea7eddce2b80b3ed06e62ff7006e05238c46c4c8a",
+      "bytes": 3613
+    },
+    {
       "file": "scripts/package_release_v22.py",
       "sha256": "b2368f629d6b6ae7044d8d4bc1e73cc8c600e4c747addc6218c1c11875a13f90",
       "bytes": 725
@@ -2141,6 +2636,16 @@
       "bytes": 716
     },
     {
+      "file": "scripts/package_release_v23.py",
+      "sha256": "106bdb2ff51e652156be8f6887bdc5c6ced1b918afe646f485a8cf8fc3489771",
+      "bytes": 714
+    },
+    {
+      "file": "scripts/package_release_v24.py",
+      "sha256": "a0b1c7ac842d4bdc0e0d07249a0a4c0563ef97381772d534ca75f13102a78557",
+      "bytes": 1004
+    },
+    {
       "file": "scripts/qa_release_v22.py",
       "sha256": "94940e45dc3d1b939e387ed67651318a9fff01c4d9142939a04278e65c7a62d0",
       "bytes": 4787
@@ -2149,6 +2654,21 @@
       "file": "scripts/qa_release_v221.py",
       "sha256": "c2300a01f7e2a9f194982b88ba9d42ad19c77ad42f0c01fbe388a9db8208f251",
       "bytes": 6656
+    },
+    {
+      "file": "scripts/qa_release_v23.py",
+      "sha256": "e1313bafd855f4901605d0a020f74a23bff8acfa40a46a5fab01966ca3ecf066",
+      "bytes": 4397
+    },
+    {
+      "file": "scripts/qa_release_v24.py",
+      "sha256": "484c216c2d1395377940b03a1b228dc3ac896105bb10a052be0f8a880abec798",
+      "bytes": 6461
+    },
+    {
+      "file": "scripts/update_documentation_v24.py",
+      "sha256": "9c435e59bf095b3c86167a4c927652afc7e9b6cbc3893effe6b30d718ef6e3e4",
+      "bytes": 10748
     },
     {
       "file": "scripts/update_effective_knowledge_documentation_v1.py",
