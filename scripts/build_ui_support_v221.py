@@ -56,7 +56,8 @@ def build_statistics() -> None:
         )
     payload = {
         "project": "PIH MS",
-        "version": "2.5",
+        "version": "2.5.1",
+        "scientific_content_version": "2.5",
         "dataset_count": len(datasets),
         "historical_summaries_excluded": [
             "data/derived/independence_redundancy/independence_scale_summary_previous.csv"
@@ -64,7 +65,7 @@ def build_statistics() -> None:
         "note": "Resumos atuais preservados sem agregação adicional. O resumo histórico anterior não é misturado.",
         "datasets": datasets,
     }
-    target = DOCS / "data/statistics/statistics_v221.json"
+    target = DOCS / "data/statistics/statistics_v251.json"
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 

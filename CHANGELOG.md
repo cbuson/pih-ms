@@ -1,3 +1,16 @@
+# V2.5.1 · 2026-08-31
+
+- navegação e identidade visual comuns nas 15 páginas documentais
+- documentação aberta sobre o mapa ou como página independente
+- guia, estatísticas, métodos, dicionário, bibliografia e autoria reunidos no mesmo padrão
+- índice automático e controles de tamanho do texto em cada documento
+- tipografia e tabelas ajustadas para leitura em computador e celular
+- 17 resumos estatísticos atuais ligados ao visor
+- dicionário de 916 campos e bibliografia de 55 referências apresentados corretamente
+- informação autoral revisada sem atribuir à V2.5.1 um DOI ainda inexistente
+- plano separado para a futura instalação no celular
+- nenhum resultado científico da V2.5 recalculado
+
 # V2.5 · 2026-08-31
 
 - estabilidade dos estados de Q01 a Q05 comparada nas cinco escalas sobre 14.284 pontos fixos

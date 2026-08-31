@@ -1,14 +1,21 @@
 {
   "project": "PIH MS",
-  "version": "2.5",
+  "version": "2.5.1",
   "scientific_content_version": "2.5",
-  "release_scope": "Estabilidade entre escalas, sensibilidade à origem e persistência dos bloqueios por pergunta",
-  "manifest_scope": "Todos os arquivos, exceto este manifesto, SHA256SUMS_V25.txt e caches Python",
+  "release_scope": "Navegação e apresentação integradas da documentação, ajuda, estatísticas, bibliografia e autoria",
+  "scientific_recalculation": false,
+  "mobile_installation_included": false,
+  "manifest_scope": "Todos os arquivos, exceto este manifesto, SHA256SUMS_V251.txt e caches Python",
   "files": [
     {
       "file": "AUDITORIA_COMPLETUDE_MULTIESCALAR_V23.md",
       "sha256": "c617f0fa7a9db97e8c4494060b02a6093af2f52b2f5a3a7899110b7be5779ee5",
       "bytes": 1827
+    },
+    {
+      "file": "AUDITORIA_DOCUMENTACAO_NAVEGACAO_V251.md",
+      "sha256": "a21560d37a403ab9121172aa35f24054ba1c1c8ecee92caf0ea60b6554a5d007",
+      "bytes": 4090
     },
     {
       "file": "AUDITORIA_ESTABILIDADE_SENSIBILIDADE_V25.md",
@@ -32,13 +39,13 @@
     },
     {
       "file": "CHANGELOG.md",
-      "sha256": "2fbf1ca65715e5453d315d2bf4e9e85bfb2d69f6b0c424f39913519e12e32c20",
-      "bytes": 6575
+      "sha256": "d3c1516471d6f7b1056bf7086eaf0e8d48724e71221a7adb3305e87c1bd8ee95",
+      "bytes": 7297
     },
     {
       "file": "DECISION_LOG.md",
-      "sha256": "8c68719f395f652a7618b9665e405ded7c624f14c32aa0d57f362aa65f32471b",
-      "bytes": 9954
+      "sha256": "a3476419f9f5e974435ad907cbabe84410366dcd467454f9938dc4aff5506004",
+      "bytes": 11173
     },
     {
       "file": "ESTUDO_CAMADAS_EVIDENCIA_V1.md",
@@ -216,9 +223,14 @@
       "bytes": 910795
     },
     {
+      "file": "PLANO_FASE_FINAL_INSTALACAO_MOVEL.md",
+      "sha256": "0c379e68236b114687cc30ed38d099c5c43488bf4d57af3e0d1420c2df572075",
+      "bytes": 3720
+    },
+    {
       "file": "README.md",
-      "sha256": "3fc945b81d58f08463ec3791363fbc4ecac5b224be908986dc6ae603ad94bf5d",
-      "bytes": 5212
+      "sha256": "3da8daaca81b97b98de0cc5f17a8605a50030ae42cf0c32474b606d408d969df",
+      "bytes": 5410
     },
     {
       "file": "SHA256SUMS_V18.txt",
@@ -251,14 +263,19 @@
       "bytes": 48953
     },
     {
+      "file": "SHA256SUMS_V25.txt",
+      "sha256": "2cd1e78763c313f1bed7941e74c35aac507f4be6e4ddf2fafe8f6c03e41eae3e",
+      "bytes": 69561
+    },
+    {
       "file": "THIRD_PARTY_NOTICES.md",
       "sha256": "09981dbe94d7507f623de71208f19b6dcf880defd2f84a327eca256e3eb73570",
       "bytes": 936
     },
     {
       "file": "VERSION",
-      "sha256": "686513ed91231892fbf0c4e72acee20264caa8538e8389157a942a808dba6531",
-      "bytes": 4
+      "sha256": "99600f6a7bfe6c33ebd1a2518f44a861a67afc40c25da42bc622595716529584",
+      "bytes": 6
     },
     {
       "file": "data/derived/effective_knowledge/effective_knowledge_1000km2.csv",
@@ -1426,14 +1443,24 @@
       "bytes": 0
     },
     {
+      "file": "docs/assets/css/documentation.css",
+      "sha256": "f4ef3df933798878853b936fa34b7c67a04205fa87cbdbafaeb3d0c500f797cd",
+      "bytes": 12558
+    },
+    {
       "file": "docs/assets/css/pih.css",
-      "sha256": "73643d7a618dd54df798810fe4f9ad41136ee90d7ee35b42fe74ef439cc39fa7",
-      "bytes": 38767
+      "sha256": "5341e96426eac36586caf19bc83f25aaab7c69ff4e2e85f6553af8a20c2483ce",
+      "bytes": 41855
     },
     {
       "file": "docs/assets/img/mi-posicao-ms.svg",
       "sha256": "a5b4ed9e845be9d0fca87b38207ff4ba7e2041a40cb4f7dcb6947f8bc29cd2ed",
       "bytes": 3168
+    },
+    {
+      "file": "docs/assets/js/documentation.js",
+      "sha256": "86ea5a862e750d233ff741ace1c6a509fc14043b14ab030e60ed384e064547b8",
+      "bytes": 7316
     },
     {
       "file": "docs/assets/js/metric-help.js",
@@ -1442,18 +1469,18 @@
     },
     {
       "file": "docs/assets/js/pih.js",
-      "sha256": "ecedae71e2893bad7eb4f2d01f49e96641d5597835e0d040238b5122eed0331b",
-      "bytes": 151619
+      "sha256": "4a101aa650094fcb6a6ce6250b7d18a56199d940d6c1e7c7da19867d3f66d27f",
+      "bytes": 153942
     },
     {
       "file": "docs/autoria-direitos.html",
-      "sha256": "ad2a163c72bc1c55199974f85e608fe38ed174af62b3565ac3c940b7e3a3cfef",
-      "bytes": 4067
+      "sha256": "eab6303daad8712e80b84f432977cc25b4189656ddebec08c582d096a5510034",
+      "bytes": 4384
     },
     {
       "file": "docs/bibliografia.html",
-      "sha256": "23333412e7e375a2cab4fc15592e8fe0c1cf1d562a4f39eff589fd40101f8d57",
-      "bytes": 33724
+      "sha256": "d9d5703959814c0a1a9a09d5393f43a381bc9818266c05b67debe4145ebf69c9",
+      "bytes": 33971
     },
     {
       "file": "docs/data/bacias_hidrograficas_sgb_2024.geojson",
@@ -2141,9 +2168,9 @@
       "bytes": 71658799
     },
     {
-      "file": "docs/data/statistics/statistics_v221.json",
-      "sha256": "b6ae456336610e53654f474d69ed6a256d52032a2b36fb5949b76fda65ab4431",
-      "bytes": 161593
+      "file": "docs/data/statistics/statistics_v251.json",
+      "sha256": "8fdf9ca2c5510da09b00db3acbcf4aa5f38cfc98d94e6252f80fd97c3f37a30f",
+      "bytes": 161634
     },
     {
       "file": "docs/data/stratified_scale/stratified_scale_1000km2.geojson",
@@ -2602,23 +2629,23 @@
     },
     {
       "file": "docs/dicionario-parametros.html",
-      "sha256": "908b748e62468b220d2d84a426ad153879a370f034fcb0784bbb6b5ae977cfe3",
-      "bytes": 465979
+      "sha256": "abda0bfe225a97e7b66ed40ff77ae01e62566ff988401bab0323d63b3a0a3e35",
+      "bytes": 466106
     },
     {
       "file": "docs/guia-resultados.html",
-      "sha256": "d4cb898b766ef924a481748417aba95e3f30b6db56fc8ca8af141dc6734680a8",
-      "bytes": 50936
+      "sha256": "5b0e5008057d6dcaf257a4b142aef06bb7706566e0c21d8d6dd70a60b4925331",
+      "bytes": 51063
     },
     {
       "file": "docs/index.html",
-      "sha256": "f95e77d5d12d5c2230d09c97f84e3dfcfb75bf002d39a20cc425afd76d61a905",
-      "bytes": 59874
+      "sha256": "43037aa727e9dad437b0b5cd052fdf74a715d352e33ec653a2820db4b6d648d3",
+      "bytes": 60897
     },
     {
       "file": "docs/licenca-conteudos.html",
-      "sha256": "6f5db6543676bd4648861a4dcbadb9562fe02c42e606a1901a7e73f79ef18e40",
-      "bytes": 2101
+      "sha256": "5c94b86bc35b06ff97b7e812d8d99e51dda69e65545802b6b719c3bf8364284f",
+      "bytes": 2228
     },
     {
       "file": "docs/licenca-software.txt",
@@ -2627,53 +2654,53 @@
     },
     {
       "file": "docs/metodologia-conhecimento-efetivo.html",
-      "sha256": "7a5a51868c564a2740fa6d71609812d11bb983e30ea93a57f59cfcd302cd24f8",
-      "bytes": 4392
+      "sha256": "013d247b653f7b1ec33841877122d31a91993e8c751796004304ced5f3a6ec67",
+      "bytes": 4527
     },
     {
       "file": "docs/metodologia-escalas-candidatas.html",
-      "sha256": "df041a6099f0eaebadfa2cc6d67f4232d24fd7d40cf7631b3b516c7c0579cebc",
-      "bytes": 6519
+      "sha256": "2d266f324f51723e46816cad3a8c2d9636e421d057bdd13dc9a18be2ef3cb37a",
+      "bytes": 6646
     },
     {
       "file": "docs/metodologia-estabilidade-sensibilidade.html",
-      "sha256": "5599453eb94d41ebd229a0641d1c26d61c057a23dd70f8cad9ebd1cf0d459200",
-      "bytes": 4549
+      "sha256": "5d98d0fd0edc9b0f2dca89bba7003a3fa355933d735961d1732f78611b112aeb",
+      "bytes": 4676
     },
     {
       "file": "docs/metodologia-estratificacao-hidrogeologica.html",
-      "sha256": "a0a9448ebf338a2ef64db28fc52685b8ad098b77b4a54e329b293a199b4e72c9",
-      "bytes": 4863
+      "sha256": "46c7a4a74ad0f761a32c7e88a0c6f66d7d4625580ec605d96afdbe6e033e39b7",
+      "bytes": 4990
     },
     {
       "file": "docs/metodologia-estrutura-espacial.html",
-      "sha256": "8760eea5e8132ebb7031025d69918056309723f1e583390279dab181689b191d",
-      "bytes": 7993
+      "sha256": "0645259e81600a8630838049d94926b4d0566c1d9326fdcd6217cc6ad8eb8000",
+      "bytes": 8120
     },
     {
       "file": "docs/metodologia-evidencias.html",
-      "sha256": "d28ce46ae66210cdd4d74eb3a9ae97f1608b3689545486257e19a93f6c4cf26f",
-      "bytes": 12817
+      "sha256": "b0932c415c3161fa50ff3c3c5d34c58370be19ce5c81eb68db7c9f5394e653c0",
+      "bytes": 12944
     },
     {
       "file": "docs/metodologia-independencia-redundancia.html",
-      "sha256": "4d25d95b424331cf7b04e13129d780c6dc70168a13cacc9a80256b79e547f60d",
-      "bytes": 3944
+      "sha256": "d0939a8852fde5cc98a32bee52163fdc6f55d2931cca9fc5776475663279c1a5",
+      "bytes": 4071
     },
     {
       "file": "docs/metodologia-malhas-evidencia.html",
-      "sha256": "36674c74ef35ad3f48bee2b96056b53a885fd089b2106e37d838937b0cf9ae8e",
-      "bytes": 5207
+      "sha256": "def3634cd655c1e5296df8925659eb6f8f2f5812c6a283c53708f00aa451ee13",
+      "bytes": 5334
     },
     {
       "file": "docs/metodologia-suficiencia-pergunta.html",
-      "sha256": "df4de6cf1f0479b2b5eaaf42239082bb1667d7a85b38ce8f45773dc3a6ab28a8",
-      "bytes": 9059
+      "sha256": "9271765933ef56aac823c305d7c62daf8069ff71328acc67ec177bda963c6702",
+      "bytes": 9192
     },
     {
       "file": "docs/metodologia-vertical-temporal.html",
-      "sha256": "1cbb0f15cfb8b5049740fced1e83f64e80a5b7881f55266fdbd7bc3f64578d48",
-      "bytes": 5781
+      "sha256": "3cc848f7502573692bb69338e726a5cc928d8abb6ec89f699206dcfe4d1ca45e",
+      "bytes": 5908
     },
     {
       "file": "methodology/BIBLIOGRAFIA_MASTER_V1.csv",
@@ -2756,6 +2783,16 @@
       "bytes": 6783
     },
     {
+      "file": "provenance/archive_ui/statistics_v221.pre_v251.json",
+      "sha256": "b6ae456336610e53654f474d69ed6a256d52032a2b36fb5949b76fda65ab4431",
+      "bytes": 161593
+    },
+    {
+      "file": "provenance/documentation_ui_manifest_v251.csv",
+      "sha256": "70056855dcb916fdb46e49ff26c1d43aa9c4dedf5a469d1f00c70222a8fd2650",
+      "bytes": 3110
+    },
+    {
       "file": "provenance/effective_knowledge_manifest.csv",
       "sha256": "26df95e944d199318134ec4de8ed3545525dd1d179d09250b7ceb61e7f4ae50b",
       "bytes": 5333
@@ -2821,6 +2858,11 @@
       "bytes": 2121
     },
     {
+      "file": "scripts/build_documentation_ui_v251.py",
+      "sha256": "c9139a496e5884d1cb1c231c604cfd74029420ab704c86625384218a3232f413",
+      "bytes": 17840
+    },
+    {
       "file": "scripts/build_effective_knowledge_v1.py",
       "sha256": "032b24873628728dc5d8ee113a42950bba53cfbc97cd89d29655530d652e2fc1",
       "bytes": 46485
@@ -2857,8 +2899,8 @@
     },
     {
       "file": "scripts/build_ui_support_v221.py",
-      "sha256": "1bf0edc6469adeee7587c817e0a21e0dde7b116c9df73c2d9090ea477cf65a94",
-      "bytes": 9029
+      "sha256": "a848d30094c9d3388d9ceeb32e43fb7c34c399e90c610baf3641cdebf8510cf2",
+      "bytes": 9076
     },
     {
       "file": "scripts/build_vertical_temporal_v1.py",
@@ -2901,6 +2943,11 @@
       "bytes": 2388
     },
     {
+      "file": "scripts/finalize_release_v251.py",
+      "sha256": "48a85ee269660590d2233ee0ab097e41f2c792a3ccd1bdc29ffa7f613f927200",
+      "bytes": 3051
+    },
+    {
       "file": "scripts/package_release_v22.py",
       "sha256": "b2368f629d6b6ae7044d8d4bc1e73cc8c600e4c747addc6218c1c11875a13f90",
       "bytes": 725
@@ -2921,6 +2968,16 @@
       "bytes": 720
     },
     {
+      "file": "scripts/package_release_v251.py",
+      "sha256": "06863424cd8fff3a299a6993c1951295fdaac6f4b497fb631cae096ee67f7255",
+      "bytes": 718
+    },
+    {
+      "file": "scripts/qa_documentation_ui_v251.py",
+      "sha256": "6911bda3109d025192405edb2b6876ac30f56f1f2ac3e4df27179b73c3887d8e",
+      "bytes": 9177
+    },
+    {
       "file": "scripts/qa_release_v22.py",
       "sha256": "94940e45dc3d1b939e387ed67651318a9fff01c4d9142939a04278e65c7a62d0",
       "bytes": 4787
@@ -2937,8 +2994,8 @@
     },
     {
       "file": "scripts/qa_release_v25.py",
-      "sha256": "193a1cdeb87f8dc3fd6347614947164621deae2b3f22056a4e78cbcc0d74f388",
-      "bytes": 10085
+      "sha256": "dcb29380273f41603cc5842372c3ed1d4a61d1e36bd317981851ca50f3ae570d",
+      "bytes": 10146
     },
     {
       "file": "scripts/update_documentation_v24.py",

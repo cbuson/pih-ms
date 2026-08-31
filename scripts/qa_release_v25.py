@@ -42,7 +42,7 @@ class AuditHTML(HTMLParser):
             self.current_select = None
 
 
-assert (ROOT / "VERSION").read_text(encoding="utf-8").strip() == "2.5"
+assert (ROOT / "VERSION").read_text(encoding="utf-8").strip() == "2.5.1"
 registry = json.loads((OUT / "stability_sensitivity_registry.json").read_text(encoding="utf-8"))
 assert registry["version"] == "2.5"
 assert registry["support_points_n"] == 14284
@@ -151,8 +151,9 @@ assert len(dictionary) == 916 and len(v25_fields) == 128
 assert not v25_fields.definition.str.startswith("Campo ").any()
 assert (ROOT / "methodology/BIBLIOGRAFIA_MASTER_V1.csv").read_text(encoding="utf-8-sig").count("\n") == 56
 
-statistics = json.loads((ROOT / "docs/data/statistics/statistics_v221.json").read_text(encoding="utf-8"))
-assert statistics["version"] == "2.5" and statistics["dataset_count"] == 17
+statistics = json.loads((ROOT / "docs/data/statistics/statistics_v251.json").read_text(encoding="utf-8"))
+assert statistics["version"] == "2.5.1" and statistics["scientific_content_version"] == "2.5"
+assert statistics["dataset_count"] == 17
 assert {item["id"] for item in statistics["datasets"]}.issuperset({"stability_cross_scale", "stability_origin", "stability_blockers", "stability_hydro"})
 
 index = (ROOT / "docs/index.html").read_text(encoding="utf-8")

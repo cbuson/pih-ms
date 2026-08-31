@@ -1,8 +1,24 @@
-# PIH MS V2.5 · Estabilidade e sensibilidade
+# PIH MS V2.5.1 · Documentação integrada
 
 Prioridade de Investigação Hidrogeológica de Mato Grosso do Sul.
 
-A V2.5 preserva os produtos anteriores e acrescenta a comparação dos estados documentais entre cinco escalas e quatro origens sobre 14.284 pontos fixos de suporte. Nenhuma escala, origem ou prioridade é escolhida.
+A V2.5.1 reorganiza a navegação, a leitura e o acesso à documentação da V2.5. Nenhum resultado científico foi recalculado. A base científica vigente continua sendo a V2.5 de estabilidade e sensibilidade.
+
+## Interface documental V2.5.1
+
+- 15 páginas documentais com cabeçalho, navegação e rodapé comuns
+- documentos abertos sobre o mapa em uma janela ampla e também disponíveis como páginas independentes
+- acesso uniforme ao guia, estatísticas, métodos, dicionário, bibliografia e autoria
+- índice automático em cada página documental
+- controles de tamanho do texto com preferência conservada no navegador
+- tipografia legível e adaptação para telas menores
+- 17 resumos estatísticos atuais carregados a partir dos arquivos do projeto
+- dicionário com 916 campos documentados
+- bibliografia com 55 referências
+- informação autoral completa e DOI atribuído somente à versão efetivamente publicada
+- ajuda atualizada para explicar a navegação integrada
+
+A instalação no celular ainda não faz parte desta entrega. O escopo proposto para essa fase está em `PLANO_FASE_FINAL_INSTALACAO_MOVEL.md`.
 
 ## Estabilidade e sensibilidade V2.5
 
@@ -17,36 +33,21 @@ A V2.5 preserva os produtos anteriores e acrescenta a comparação dos estados d
 - contexto hidrogeológico superficial SGB 2024 mantido como proxy pontual
 - nenhum peso, score, potencial, interpolação, predição ou prioridade
 
-## Matriz V2.4
+## Suficiência condicionada V2.4
 
 - Q01 · nível e profundidade da água
 - Q02 · propriedades hidráulicas
 - Q03 · hidroquímica
 - Q04 · geometria e estratigrafia do aquífero
 - Q05 · monitoramento temporal
-- 19.385 pares poço-pergunta
-- 45.145 pares célula-pergunta
+- 19.385 pares poço e pergunta
+- 45.145 pares célula e pergunta
 - cinco escalas calculadas diretamente
 - nenhuma quantidade mínima universal de poços
 - nenhuma célula declarada representativa
 - nenhum peso, score ou prioridade
 
 Nenhum poço atende ao mínimo documental completo sob as regras conservadoras atuais. A evidência parcial permanece publicada e os bloqueios são identificados individualmente.
-
-## Interface V2.2.1
-
-- sete acessos principais no menu superior
-- módulos científicos reunidos em `Explorar`
-- guia, dicionário, bibliografia, metodologia e direitos reunidos em `Documentação`
-- ajuda ampliada com 18 temas e busca interna
-- 11 resumos estatísticos atuais disponíveis em tabelas completas
-- busca e contagem de camadas no painel lateral
-- ícone de localização baseado no contorno de Mato Grosso do Sul
-- marcador de posição, círculo de precisão e estados visuais de localização
-- fichas de poço carregadas em 64 fragmentos de aproximadamente 640 KB em média
-- autores, instituições, funções, ORCID, DOI e justificativa de licença na informação do aplicativo
-
-As lacunas de escalas 100 e 150 km² e a validação integral das fichas estão registradas em `BACKLOG_CIENTIFICO_POS_V221.md`.
 
 ## Regras centrais
 
@@ -62,7 +63,7 @@ PRIORIDADE DE INVESTIGAÇÃO ≠ POTENCIAL AQUÍFERO
 
 Nenhum `well_id` foi removido. Nenhum tamanho amostral efetivo foi inferido. Nenhum índice PIH, peso, AHP, interpolação, predição ou prioridade foi calculado.
 
-## Matriz V2.2
+## Matriz de conhecimento efetivo V2.2
 
 As nove dimensões são espacial, hidroestratigráfica, vertical, hidráulica, hidroquímica, temporal, independência, qualidade documental e incerteza.
 
@@ -76,27 +77,28 @@ As nove dimensões são espacial, hidroestratigráfica, vertical, hidráulica, h
 - 1.637 poços com ao menos um evento datado
 - nenhuma série temporal completa adquirida
 - independência hidrogeológica não demonstrada para os 3.877 poços
-- 3 valores objetivamente inválidos preservados sem correção silenciosa
+- três valores objetivamente inválidos preservados sem correção silenciosa
 
-## Malhas V2.2
+## Malhas vigentes
 
-As métricas são agregadas diretamente às malhas `scale_primary` de 100, 150, 250, 500 e 1000 km². A V2.2 não deriva uma escala da outra e não escolhe uma escala final.
+As métricas são agregadas diretamente às malhas `scale_primary` de 100, 150, 250, 500 e 1000 km². Nenhuma escala deriva de outra e nenhuma escala final é escolhida.
 
-A família contém 3.763, 2.525, 1.537, 791 e 413 células. Em todas as escalas a soma de `n_wells` é 3.877 e coincide com `n_wells_raw` da V2.1 em cada célula.
+A família contém 3.763, 2.525, 1.537, 791 e 413 células. Em todas as escalas a soma de `n_wells` é 3.877.
 
-A malha antiga de 250 km² com 1.554 células pertence ao produto anterior de evidências e não é confundida com a malha `scale_primary` de 1.537 células.
+A malha antiga de 250 km² com 1.554 células pertence ao produto histórico de evidências. Ela não é confundida com a malha `scale_primary` de 1.537 células.
 
-## Documentação
+## Documentação principal
 
-- `ESTUDO_CONHECIMENTO_HIDROGEOLOGICO_EFETIVO_V1.md`
-- `methodology/CONHECIMENTO_HIDROGEOLOGICO_EFETIVO_V1.md`
-- `methodology/CONHECIMENTO_HIDROGEOLOGICO_EFETIVO_CAMPOS_V1.csv`
+- `ESTUDO_ESTABILIDADE_SENSIBILIDADE_V1.md`
+- `methodology/ESTABILIDADE_SENSIBILIDADE_V1.md`
+- `ESTUDO_SUFICIENCIA_HIDROGEOLOGICA_POR_PERGUNTA_V1.md`
+- `methodology/SUFICIENCIA_HIDROGEOLOGICA_POR_PERGUNTA_V1.md`
 - `methodology/DICIONARIO_METRICAS_RESULTADOS_V1.csv`
 - `methodology/BIBLIOGRAFIA_MASTER_V1.csv`
-- `data/derived/effective_knowledge/`
-- `PIH_MS_CONHECIMENTO_HIDROGEOLOGICO_EFETIVO_V1.xlsx`
+- `data/derived/stability_sensitivity/`
+- `PIH_MS_ESTABILIDADE_SENSIBILIDADE_V1.xlsx`
 
-O dicionário V2.2 documenta 680 campos. A bibliografia master mantém 54 referências classificadas por função e estado de uso.
+Os CSV são a referência principal. Os livros Excel são complementares para revisão humana.
 
 ## Execução local
 
@@ -109,10 +111,10 @@ py -m http.server 8555 --directory docs
 Abra
 
 ```text
-http://localhost:8555/index.html?v=221
+http://localhost:8555/index.html?v=251
 ```
 
-No topo deve aparecer V2.2.1 e o menu `Explorar`.
+No topo deve aparecer V2.5.1. O menu `Documentação` deve abrir todos os materiais no mesmo padrão visual.
 
 ## Licenças
 
@@ -120,4 +122,4 @@ O código do aplicativo usa GNU AGPL versão 3 ou posterior. Conteúdos científ
 
 ## Referência de reprodutibilidade
 
-Os CSV são a referência principal. O Excel é complementar para revisão humana. Observações, auditorias, cenários de sensibilidade e produtos derivados permanecem separados.
+Os CSV são a referência principal. Observações, auditorias, cenários de sensibilidade e produtos derivados permanecem separados. A V2.5.1 muda somente a interface e a documentação de uso sobre a ciência congelada da V2.5.

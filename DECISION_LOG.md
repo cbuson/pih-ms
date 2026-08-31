@@ -1,5 +1,27 @@
 # DECISION LOG
 
+## V2.5.1 · documentação integrada
+
+### D-V251-01 · ciência V2.5 preservada
+
+A V2.5.1 modifica navegação, apresentação, ajuda, estatísticas e páginas documentais. Nenhuma métrica, classe documental, malha ou resultado científico da V2.5 é recalculado.
+
+### D-V251-02 · dois modos de leitura coerentes
+
+Os documentos podem ser consultados em uma janela ampla sobre o mapa ou como páginas independentes. Ambos os modos usam a mesma navegação, tipografia e hierarquia visual.
+
+### D-V251-03 · legibilidade controlada pelo usuário
+
+As páginas documentais usam tamanho de texto legível em computador e celular. O leitor pode reduzir ou ampliar o texto e a preferência permanece no próprio navegador.
+
+### D-V251-04 · DOI sem extensão indevida
+
+O DOI `10.5281/zenodo.22180863` identifica a publicação V2.2.1. Ele não é apresentado como DOI da V2.5.1. Uma futura publicação da V2.5.1 deverá registrar seu próprio identificador.
+
+### D-V251-05 · instalação móvel separada
+
+A conversão em aplicativo instalável fica para uma fase própria. Manifesto, ícones, atualização, cache, funcionamento sem rede e limites de armazenamento precisam de auditoria específica antes da ativação.
+
 ## V2.5 · estabilidade e sensibilidade
 
 ### D-V25-01 · suporte fixo comum
