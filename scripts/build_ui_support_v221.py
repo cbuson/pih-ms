@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Gera recursos leves e reproduzíveis da interface PIH MS V2.3."""
+"""Gera recursos leves e reproduzíveis da interface PIH MS V2.5."""
 from __future__ import annotations
 
 import csv
@@ -25,6 +25,10 @@ STATISTICS = (
     ("vertical_temporal", "Documentação vertical e temporal · cinco escalas", "Vertical e temporal", "data/derived/vertical_temporal/vertical_temporal_scale_summary.csv"),
     ("question_global", "Suficiência por pergunta · síntese global", "Suficiência por pergunta", "data/derived/question_sufficiency/question_global_summary.csv"),
     ("question_scale", "Suficiência por pergunta · cinco escalas", "Suficiência por pergunta", "data/derived/question_sufficiency/question_scale_summary.csv"),
+    ("stability_cross_scale", "Estabilidade entre cinco escalas", "Estabilidade e sensibilidade", "data/derived/stability_sensitivity/cross_scale_question_summary.csv"),
+    ("stability_origin", "Sensibilidade a quatro origens", "Estabilidade e sensibilidade", "data/derived/stability_sensitivity/origin_scale_question_summary.csv"),
+    ("stability_blockers", "Persistência dos requisitos bloqueantes", "Estabilidade e sensibilidade", "data/derived/stability_sensitivity/blocker_requirement_summary.csv"),
+    ("stability_hydro", "Contexto hidrogeológico superficial", "Estabilidade e sensibilidade", "data/derived/stability_sensitivity/hydro_context_scale_summary.csv"),
 )
 
 
@@ -52,7 +56,7 @@ def build_statistics() -> None:
         )
     payload = {
         "project": "PIH MS",
-        "version": "2.4",
+        "version": "2.5",
         "dataset_count": len(datasets),
         "historical_summaries_excluded": [
             "data/derived/independence_redundancy/independence_scale_summary_previous.csv"
@@ -83,7 +87,7 @@ def build_well_shards() -> None:
         )
         counts[name] = len(shard)
     manifest = {
-        "version": "2.4",
+        "version": "2.5",
         "source": "docs/data/well_details.json",
         "rule": "integer well_id modulo 64",
         "shard_count": shard_count,

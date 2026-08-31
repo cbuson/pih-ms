@@ -114,3 +114,15 @@ Em células com poços, cada porcentagem usa `n_wells` como denominador. Em cél
 `dimension_vector_json` permite recuperar os nove estados sem perder sua separação. `uncertainty_codes` lista limitações explícitas. Nenhum dos dois campos deve ser convertido em nota.
 
 As paletas do visor representam somente magnitude da métrica selecionada. Cor mais intensa não significa melhor conhecimento, maior potencial ou maior prioridade.
+
+## Estabilidade e sensibilidade · V2.5
+
+A comparação usa 14.284 pontos fixos de suporte. Para cada pergunta, o estado documental de cada suporte é observado nas cinco escalas O00. A concordância exata informa a fração dos suportes que conserva o mesmo estado. Jaccard compara presença de evidência direta. Mismatch mede mudança de presença. Spearman compara a ordenação dos códigos de estado.
+
+As origens O00, OX25, OY25 e OXY25 deslocam somente a tesselação. Os poços e os pontos fixos não são deslocados. Concordância entre origens não valida uma origem e discordância não identifica erro.
+
+A persistência de um requisito bloqueante usa apenas escalas observáveis, definidas como aquelas em que a célula do suporte contém ao menos um poço. Sem escala observável, o resultado permanece UNKNOWN.
+
+O contexto hidrogeológico superficial é obtido pela classificação SGB 2024 dos pontos fixos dentro de cada célula. Ele não corresponde a fração exata de área, não identifica a unidade captada e não demonstra estrutura vertical.
+
+Regra obrigatória. **ESTABILIDADE NÃO É QUALIDADE, REPRESENTATIVIDADE OU PRIORIDADE.**

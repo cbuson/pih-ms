@@ -1,9 +1,9 @@
 {
   "project": "PIH MS",
-  "version": "2.4",
-  "scientific_content_version": "2.4",
-  "release_scope": "Suficiencia documental nao compensatoria por pergunta hidrogeologica",
-  "manifest_scope": "Todos os arquivos publicaveis, exceto este manifesto e SHA256SUMS_V24.txt",
+  "version": "2.5",
+  "scientific_content_version": "2.5",
+  "release_scope": "Estabilidade entre escalas, sensibilidade à origem e persistência dos bloqueios por pergunta",
+  "manifest_scope": "Todos os arquivos, exceto este manifesto, SHA256SUMS_V25.txt e caches Python",
   "files": [
     {
       "file": "AUDITORIA_COMPLETUDE_MULTIESCALAR_V23.md",
@@ -11,14 +11,14 @@
       "bytes": 1827
     },
     {
+      "file": "AUDITORIA_ESTABILIDADE_SENSIBILIDADE_V25.md",
+      "sha256": "ffc5822cabdb2288809188f8c76586ab1711a635a1000f4049279bcfdebdf57a",
+      "bytes": 2189
+    },
+    {
       "file": "AUDITORIA_NAVEGACAO_USABILIDADE_V221.md",
       "sha256": "0b6c8741461ca7c872f4c30b7072edc03d69ef92ad459860c3e74643fb3d98fb",
       "bytes": 2965
-    },
-    {
-      "file": "AUDITORIA_SUFICIENCIA_POR_PERGUNTA_V24.md",
-      "sha256": "5ee55609f826ec83945a758941f241f2e4e7ffccb8ec4a05ce84a4a6c00e6abd",
-      "bytes": 5357
     },
     {
       "file": "BACKLOG_CIENTIFICO_POS_V221.md",
@@ -32,13 +32,13 @@
     },
     {
       "file": "CHANGELOG.md",
-      "sha256": "1b05f8c7782ca646adf9e699968a8c0de7e9cf5991f84c566ddee79dceafbfce",
-      "bytes": 6724
+      "sha256": "2fbf1ca65715e5453d315d2bf4e9e85bfb2d69f6b0c424f39913519e12e32c20",
+      "bytes": 6575
     },
     {
       "file": "DECISION_LOG.md",
-      "sha256": "494ca21e5597a36ff9a297821a4773c19d013248d6fc9c39525f2960e02b4e05",
-      "bytes": 8941
+      "sha256": "8c68719f395f652a7618b9665e405ded7c624f14c32aa0d57f362aa65f32471b",
+      "bytes": 9954
     },
     {
       "file": "ESTUDO_CAMADAS_EVIDENCIA_V1.md",
@@ -54,6 +54,11 @@
       "file": "ESTUDO_ESCALAS_CANDIDATAS_V1.md",
       "sha256": "e15e021742aef2e5841bd922b44fa8a3651ebb9845d1ef1381d81ad2d8410be7",
       "bytes": 5868
+    },
+    {
+      "file": "ESTUDO_ESTABILIDADE_SENSIBILIDADE_V1.md",
+      "sha256": "5ab739a2ab5cc43abc4887257d575d4a509e47cf18fdef8d1f2fb3dfa148b71c",
+      "bytes": 2908
     },
     {
       "file": "ESTUDO_ESTRATIFICACAO_HIDROGEOLOGICA_V1.md",
@@ -87,8 +92,8 @@
     },
     {
       "file": "GUIA_LEITURA_RESULTADOS_V1.md",
-      "sha256": "cb551966ab50a004c3cd0b0837f40deb72b2897509b3e06ddf5edb2d55288757",
-      "bytes": 8747
+      "sha256": "fcaef1b350e710809927ad2deba6439de9a6325349e075bc2a5aab071b2507e8",
+      "bytes": 9904
     },
     {
       "file": "INICIAR_PIH_MS_8555.bat",
@@ -146,6 +151,11 @@
       "bytes": 847
     },
     {
+      "file": "PIH_MS_ESTABILIDADE_SENSIBILIDADE_V1.xlsx",
+      "sha256": "5177fc22d2cfca085730791f6aea59c7dc58542c01b53da0e2b0089fb7504b24",
+      "bytes": 376376
+    },
+    {
       "file": "PIH_MS_ESTRATIFICACAO_HIDROGEOLOGICA_V1.xlsx",
       "sha256": "3d736e919d460c70946579bd29e9adf95d64df86695d01d6fb07910def0e549d",
       "bytes": 48894
@@ -191,11 +201,6 @@
       "bytes": 1966584
     },
     {
-      "file": "PIH_MS_SUFICIENCIA_POR_PERGUNTA_V1.xlsx",
-      "sha256": "bf2b11b2dbf5e2b73821eb6ad54eac37494f5e53e19271b0d0be2247bd2b8037",
-      "bytes": 2147793
-    },
-    {
       "file": "PIH_MS_VERTICAL_TEMPORAL_V1.xlsx",
       "sha256": "124480213920012b148628d49818f815cf3269ddf0f9aa10f62229fe871e8a6e",
       "bytes": 18295
@@ -212,8 +217,8 @@
     },
     {
       "file": "README.md",
-      "sha256": "f306a9d6c3d3b9235c26d7a134c326cbc6998ee75c74053bbf4bfa9a9039b598",
-      "bytes": 4972
+      "sha256": "3fc945b81d58f08463ec3791363fbc4ecac5b224be908986dc6ae603ad94bf5d",
+      "bytes": 5212
     },
     {
       "file": "SHA256SUMS_V18.txt",
@@ -252,7 +257,7 @@
     },
     {
       "file": "VERSION",
-      "sha256": "25905ca7fb1df06eed3712da6495f854ea1f8fbbc3b101a37fbe6822ee802297",
+      "sha256": "686513ed91231892fbf0c4e72acee20264caa8538e8389157a942a808dba6531",
       "bytes": 4
     },
     {
@@ -981,6 +986,126 @@
       "bytes": 22807
     },
     {
+      "file": "data/derived/stability_sensitivity/blocker_requirement_summary.csv",
+      "sha256": "dc11a1387bfea4d13749319a316ab0984991539b6e7fad4ec5ec064cd4c8db7e",
+      "bytes": 7154
+    },
+    {
+      "file": "data/derived/stability_sensitivity/cell_stability_sensitivity_long.csv",
+      "sha256": "163c879bf9e8415c2bb1ad1630bf0284c609b7101ac947a8463f15920744bf85",
+      "bytes": 12757669
+    },
+    {
+      "file": "data/derived/stability_sensitivity/cross_scale_pairwise.csv",
+      "sha256": "8265e0ea67a2ca15c99037976f5b10b63b830eac03cd94b9789a197eee515a7d",
+      "bytes": 6254
+    },
+    {
+      "file": "data/derived/stability_sensitivity/cross_scale_question_summary.csv",
+      "sha256": "6614974f3dbda3616aa15434511f539e8854ffa5969fc893cb1d1b333d5d76c5",
+      "bytes": 889
+    },
+    {
+      "file": "data/derived/stability_sensitivity/hydro_context_scale_summary.csv",
+      "sha256": "28326721f65bfd231bc075470e4f90d3b15a6a65892b9154abbf021fbce23944",
+      "bytes": 598
+    },
+    {
+      "file": "data/derived/stability_sensitivity/origin_pairwise.csv",
+      "sha256": "05352fb1564fd1e7e2ec113f57a1a4148856ec5c000bf0d8884f4cd7e0904255",
+      "bytes": 19217
+    },
+    {
+      "file": "data/derived/stability_sensitivity/origin_scale_question_counts.csv",
+      "sha256": "fe6c3f55043ee58cec176aae18572afc51f5a1b60bad1c4b90a08743ab00f3a2",
+      "bytes": 11234
+    },
+    {
+      "file": "data/derived/stability_sensitivity/origin_scale_question_summary.csv",
+      "sha256": "0e6e05e291b96d30adaae96e8a237e3f0288f4b771118d3cc25615fc1658fb66",
+      "bytes": 3380
+    },
+    {
+      "file": "data/derived/stability_sensitivity/stability_sensitivity_1000km2.csv",
+      "sha256": "e833ddc84fc48fa230253ebbcf460dbf9758181c23e5e1cdabae34a9b1a8f935",
+      "bytes": 241328
+    },
+    {
+      "file": "data/derived/stability_sensitivity/stability_sensitivity_1000km2.geojson",
+      "sha256": "90a11ce984544a75fba35d72be16a687c98ca90a11d20b831c941c38a7f0e24b",
+      "bytes": 1676769
+    },
+    {
+      "file": "data/derived/stability_sensitivity/stability_sensitivity_100km2.csv",
+      "sha256": "7eec1140b0aa36b8c99fd96b3ad5be416b207e59280d80e260f4cfc9672b04be",
+      "bytes": 1786398
+    },
+    {
+      "file": "data/derived/stability_sensitivity/stability_sensitivity_100km2.geojson",
+      "sha256": "241f01f5fd8614bad0c7200877d0905fdbdf7e1f2a2c7701bfb159468ea80690",
+      "bytes": 8516900
+    },
+    {
+      "file": "data/derived/stability_sensitivity/stability_sensitivity_150km2.csv",
+      "sha256": "4c8b943f5d99489b92c7a496cfb275747fade5b5227f509fefa83ca238f40809",
+      "bytes": 1252182
+    },
+    {
+      "file": "data/derived/stability_sensitivity/stability_sensitivity_150km2.geojson",
+      "sha256": "db2804fd6a679e3000a03a926b380b8d64412bd0a1b895d8d8ff8d95c6b293fb",
+      "bytes": 6021874
+    },
+    {
+      "file": "data/derived/stability_sensitivity/stability_sensitivity_250km2.csv",
+      "sha256": "62dfa919a3b4466384ee77f501b991853a05c794524954b17cdae0ebe6520b32",
+      "bytes": 793178
+    },
+    {
+      "file": "data/derived/stability_sensitivity/stability_sensitivity_250km2.geojson",
+      "sha256": "09800657f3d98f8daed1b9015d29523963e4e7be0e162ffe71be2624e06af49d",
+      "bytes": 4003575
+    },
+    {
+      "file": "data/derived/stability_sensitivity/stability_sensitivity_500km2.csv",
+      "sha256": "e9677bee9264f57b59902137e4b93bfbea6bb2fec5c367f87de97da9299860a6",
+      "bytes": 430257
+    },
+    {
+      "file": "data/derived/stability_sensitivity/stability_sensitivity_500km2.geojson",
+      "sha256": "594370423f2e7b5bac5a3ad36ab74165c7d749aad9590b5ccd0c0a882b3bd93f",
+      "bytes": 2462827
+    },
+    {
+      "file": "data/derived/stability_sensitivity/stability_sensitivity_field_dictionary.csv",
+      "sha256": "073d794cc4ea3b1766a1fe5927fec6eec9ed8c9b2c775b6dd16b2ae9b3da7d9a",
+      "bytes": 90949
+    },
+    {
+      "file": "data/derived/stability_sensitivity/stability_sensitivity_registry.json",
+      "sha256": "fa9281f4673ef1b7df3946996650a33b808897d212f33bb9811848529118799d",
+      "bytes": 853
+    },
+    {
+      "file": "data/derived/stability_sensitivity/stability_sensitivity_style_metadata.json",
+      "sha256": "8483a1bb4003176ab47094a78f597a27e5317ac076d4221b5193daf1c341f737",
+      "bytes": 701
+    },
+    {
+      "file": "data/derived/stability_sensitivity/support_question_cross_scale.csv",
+      "sha256": "875fffdc52033d09791aeffb3d51d2e0ceab383db3e5924f0b03e3d4adcc3213",
+      "bytes": 14383917
+    },
+    {
+      "file": "data/derived/stability_sensitivity/support_requirement_persistence.csv",
+      "sha256": "4b3093cef77c2e54a53c7d0fccd1d419c100d21837b5d77642ef990718156d23",
+      "bytes": 125175772
+    },
+    {
+      "file": "data/derived/stability_sensitivity/support_scale_question_long.csv",
+      "sha256": "cfec76d090fbce8b075bc54345e5721ab2375bbf29bc9310b18fd6d5e543ff3e",
+      "bytes": 71658799
+    },
+    {
       "file": "data/derived/stratified_scale/evidence_by_hydro_unit.csv",
       "sha256": "91a3b170e6d67bebd1d43bd8ee427eeb62fc3cc39d99f594eff3d9cc9f8a29f8",
       "bytes": 4118
@@ -1296,9 +1421,14 @@
       "bytes": 1463620
     },
     {
+      "file": "docs/.nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
       "file": "docs/assets/css/pih.css",
-      "sha256": "6eddf94f9fc47ef901c145efe253fdc7b5a2805ebe0e9b17d63e569da48f77c2",
-      "bytes": 38517
+      "sha256": "73643d7a618dd54df798810fe4f9ad41136ee90d7ee35b42fe74ef439cc39fa7",
+      "bytes": 38767
     },
     {
       "file": "docs/assets/img/mi-posicao-ms.svg",
@@ -1312,8 +1442,8 @@
     },
     {
       "file": "docs/assets/js/pih.js",
-      "sha256": "9cbb63c8667b08e2104daf239829750cc34e33e8297038f79d0a8375402ced1a",
-      "bytes": 140908
+      "sha256": "ecedae71e2893bad7eb4f2d01f49e96641d5597835e0d040238b5122eed0331b",
+      "bytes": 151619
     },
     {
       "file": "docs/autoria-direitos.html",
@@ -1352,8 +1482,8 @@
     },
     {
       "file": "docs/data/dicionario_metricas_resultados_v1.csv",
-      "sha256": "cd141bcc8581fefe9e48d07100cbe9739fedd2d48d36e9309f308da29f8702ef",
-      "bytes": 423519
+      "sha256": "3475a629268afa3fd80e0dbd0d2b267149085aa5b7593880494ef7b6683d691e",
+      "bytes": 492777
     },
     {
       "file": "docs/data/dominio_hidrolitologico_sgb_2024.geojson",
@@ -1661,6 +1791,11 @@
       "bytes": 915287
     },
     {
+      "file": "docs/data/question_sufficiency/.well_requirement_status_long.csv.VQJjOD",
+      "sha256": "f5e4511c9f9c19823d4a4cf65f52c0b160dc5416d4101e10d46a10cb0272e173",
+      "bytes": 24117248
+    },
+    {
       "file": "docs/data/question_sufficiency/cell_question_sufficiency_long.csv",
       "sha256": "2dfb35c0be8b1cda459e63dba6bd875a4f21bdb627eee5dbc873b54ecbed1336",
       "bytes": 11628226
@@ -1886,9 +2021,129 @@
       "bytes": 37416
     },
     {
+      "file": "docs/data/stability_sensitivity/blocker_requirement_summary.csv",
+      "sha256": "dc11a1387bfea4d13749319a316ab0984991539b6e7fad4ec5ec064cd4c8db7e",
+      "bytes": 7154
+    },
+    {
+      "file": "docs/data/stability_sensitivity/cell_stability_sensitivity_long.csv",
+      "sha256": "163c879bf9e8415c2bb1ad1630bf0284c609b7101ac947a8463f15920744bf85",
+      "bytes": 12757669
+    },
+    {
+      "file": "docs/data/stability_sensitivity/cross_scale_pairwise.csv",
+      "sha256": "8265e0ea67a2ca15c99037976f5b10b63b830eac03cd94b9789a197eee515a7d",
+      "bytes": 6254
+    },
+    {
+      "file": "docs/data/stability_sensitivity/cross_scale_question_summary.csv",
+      "sha256": "6614974f3dbda3616aa15434511f539e8854ffa5969fc893cb1d1b333d5d76c5",
+      "bytes": 889
+    },
+    {
+      "file": "docs/data/stability_sensitivity/hydro_context_scale_summary.csv",
+      "sha256": "28326721f65bfd231bc075470e4f90d3b15a6a65892b9154abbf021fbce23944",
+      "bytes": 598
+    },
+    {
+      "file": "docs/data/stability_sensitivity/origin_pairwise.csv",
+      "sha256": "05352fb1564fd1e7e2ec113f57a1a4148856ec5c000bf0d8884f4cd7e0904255",
+      "bytes": 19217
+    },
+    {
+      "file": "docs/data/stability_sensitivity/origin_scale_question_counts.csv",
+      "sha256": "fe6c3f55043ee58cec176aae18572afc51f5a1b60bad1c4b90a08743ab00f3a2",
+      "bytes": 11234
+    },
+    {
+      "file": "docs/data/stability_sensitivity/origin_scale_question_summary.csv",
+      "sha256": "0e6e05e291b96d30adaae96e8a237e3f0288f4b771118d3cc25615fc1658fb66",
+      "bytes": 3380
+    },
+    {
+      "file": "docs/data/stability_sensitivity/stability_sensitivity_1000km2.csv",
+      "sha256": "e833ddc84fc48fa230253ebbcf460dbf9758181c23e5e1cdabae34a9b1a8f935",
+      "bytes": 241328
+    },
+    {
+      "file": "docs/data/stability_sensitivity/stability_sensitivity_1000km2.geojson",
+      "sha256": "90a11ce984544a75fba35d72be16a687c98ca90a11d20b831c941c38a7f0e24b",
+      "bytes": 1676769
+    },
+    {
+      "file": "docs/data/stability_sensitivity/stability_sensitivity_100km2.csv",
+      "sha256": "7eec1140b0aa36b8c99fd96b3ad5be416b207e59280d80e260f4cfc9672b04be",
+      "bytes": 1786398
+    },
+    {
+      "file": "docs/data/stability_sensitivity/stability_sensitivity_100km2.geojson",
+      "sha256": "241f01f5fd8614bad0c7200877d0905fdbdf7e1f2a2c7701bfb159468ea80690",
+      "bytes": 8516900
+    },
+    {
+      "file": "docs/data/stability_sensitivity/stability_sensitivity_150km2.csv",
+      "sha256": "4c8b943f5d99489b92c7a496cfb275747fade5b5227f509fefa83ca238f40809",
+      "bytes": 1252182
+    },
+    {
+      "file": "docs/data/stability_sensitivity/stability_sensitivity_150km2.geojson",
+      "sha256": "db2804fd6a679e3000a03a926b380b8d64412bd0a1b895d8d8ff8d95c6b293fb",
+      "bytes": 6021874
+    },
+    {
+      "file": "docs/data/stability_sensitivity/stability_sensitivity_250km2.csv",
+      "sha256": "62dfa919a3b4466384ee77f501b991853a05c794524954b17cdae0ebe6520b32",
+      "bytes": 793178
+    },
+    {
+      "file": "docs/data/stability_sensitivity/stability_sensitivity_250km2.geojson",
+      "sha256": "09800657f3d98f8daed1b9015d29523963e4e7be0e162ffe71be2624e06af49d",
+      "bytes": 4003575
+    },
+    {
+      "file": "docs/data/stability_sensitivity/stability_sensitivity_500km2.csv",
+      "sha256": "e9677bee9264f57b59902137e4b93bfbea6bb2fec5c367f87de97da9299860a6",
+      "bytes": 430257
+    },
+    {
+      "file": "docs/data/stability_sensitivity/stability_sensitivity_500km2.geojson",
+      "sha256": "594370423f2e7b5bac5a3ad36ab74165c7d749aad9590b5ccd0c0a882b3bd93f",
+      "bytes": 2462827
+    },
+    {
+      "file": "docs/data/stability_sensitivity/stability_sensitivity_field_dictionary.csv",
+      "sha256": "073d794cc4ea3b1766a1fe5927fec6eec9ed8c9b2c775b6dd16b2ae9b3da7d9a",
+      "bytes": 90949
+    },
+    {
+      "file": "docs/data/stability_sensitivity/stability_sensitivity_registry.json",
+      "sha256": "fa9281f4673ef1b7df3946996650a33b808897d212f33bb9811848529118799d",
+      "bytes": 853
+    },
+    {
+      "file": "docs/data/stability_sensitivity/stability_sensitivity_style_metadata.json",
+      "sha256": "8483a1bb4003176ab47094a78f597a27e5317ac076d4221b5193daf1c341f737",
+      "bytes": 701
+    },
+    {
+      "file": "docs/data/stability_sensitivity/support_question_cross_scale.csv",
+      "sha256": "875fffdc52033d09791aeffb3d51d2e0ceab383db3e5924f0b03e3d4adcc3213",
+      "bytes": 14383917
+    },
+    {
+      "file": "docs/data/stability_sensitivity/support_requirement_persistence.csv",
+      "sha256": "4b3093cef77c2e54a53c7d0fccd1d419c100d21837b5d77642ef990718156d23",
+      "bytes": 125175772
+    },
+    {
+      "file": "docs/data/stability_sensitivity/support_scale_question_long.csv",
+      "sha256": "cfec76d090fbce8b075bc54345e5721ab2375bbf29bc9310b18fd6d5e543ff3e",
+      "bytes": 71658799
+    },
+    {
       "file": "docs/data/statistics/statistics_v221.json",
-      "sha256": "7bf1dc775f980bd48ad56e8d6fab6206efc0674a643872382995ec884265cea2",
-      "bytes": 97585
+      "sha256": "b6ae456336610e53654f474d69ed6a256d52032a2b36fb5949b76fda65ab4431",
+      "bytes": 161593
     },
     {
       "file": "docs/data/stratified_scale/stratified_scale_1000km2.geojson",
@@ -2342,23 +2597,23 @@
     },
     {
       "file": "docs/data/well_details_shards/manifest.json",
-      "sha256": "08dca0dcac827da8c27ab194848fbcaeed8014d12ab2505c0cfcf33e9a8c03e3",
+      "sha256": "e3e668df032783c1225b368c97db8464d5847c3c8a1f3fff118f3f74f66181f7",
       "bytes": 1382
     },
     {
       "file": "docs/dicionario-parametros.html",
-      "sha256": "82acf8f9ecb9ff10306679cf22233774db27fe5e80a69ba96c60ae8ecbfbfc60",
-      "bytes": 396500
+      "sha256": "908b748e62468b220d2d84a426ad153879a370f034fcb0784bbb6b5ae977cfe3",
+      "bytes": 465979
     },
     {
       "file": "docs/guia-resultados.html",
-      "sha256": "445535527ada8757d69bd741a22c79d9fc6f8b161e72c03055602f5837a648c6",
-      "bytes": 50009
+      "sha256": "d4cb898b766ef924a481748417aba95e3f30b6db56fc8ca8af141dc6734680a8",
+      "bytes": 50936
     },
     {
       "file": "docs/index.html",
-      "sha256": "86158a337a08f40719e5f869004863f4397cfaaf02ae9f2067b546770a8acce7",
-      "bytes": 57960
+      "sha256": "f95e77d5d12d5c2230d09c97f84e3dfcfb75bf002d39a20cc425afd76d61a905",
+      "bytes": 59874
     },
     {
       "file": "docs/licenca-conteudos.html",
@@ -2379,6 +2634,11 @@
       "file": "docs/metodologia-escalas-candidatas.html",
       "sha256": "df041a6099f0eaebadfa2cc6d67f4232d24fd7d40cf7631b3b516c7c0579cebc",
       "bytes": 6519
+    },
+    {
+      "file": "docs/metodologia-estabilidade-sensibilidade.html",
+      "sha256": "5599453eb94d41ebd229a0641d1c26d61c057a23dd70f8cad9ebd1cf0d459200",
+      "bytes": 4549
     },
     {
       "file": "docs/metodologia-estratificacao-hidrogeologica.html",
@@ -2432,13 +2692,23 @@
     },
     {
       "file": "methodology/DICIONARIO_METRICAS_RESULTADOS_V1.csv",
-      "sha256": "cd141bcc8581fefe9e48d07100cbe9739fedd2d48d36e9309f308da29f8702ef",
-      "bytes": 423519
+      "sha256": "3475a629268afa3fd80e0dbd0d2b267149085aa5b7593880494ef7b6683d691e",
+      "bytes": 492777
     },
     {
       "file": "methodology/ESCALAS_CANDIDATAS_V1.md",
       "sha256": "e15e021742aef2e5841bd922b44fa8a3651ebb9845d1ef1381d81ad2d8410be7",
       "bytes": 5868
+    },
+    {
+      "file": "methodology/ESTABILIDADE_SENSIBILIDADE_CAMPOS_V1.csv",
+      "sha256": "073d794cc4ea3b1766a1fe5927fec6eec9ed8c9b2c775b6dd16b2ae9b3da7d9a",
+      "bytes": 90949
+    },
+    {
+      "file": "methodology/ESTABILIDADE_SENSIBILIDADE_V1.md",
+      "sha256": "5def3f8e11c9c8c2eef600da2abe35f335cb8a6e54c0834b31c47ee740fd4f40",
+      "bytes": 4168
     },
     {
       "file": "methodology/ESTRATIFICACAO_HIDROGEOLOGICA_V1.md",
@@ -2526,6 +2796,11 @@
       "bytes": 2557
     },
     {
+      "file": "provenance/stability_sensitivity_manifest_v25.csv",
+      "sha256": "f808ee38cc69a2a9fc659e522516b831e8c39c58ab75c3032f9fadb9bb80d3c6",
+      "bytes": 3729
+    },
+    {
       "file": "provenance/stratified_scale_manifest.csv",
       "sha256": "444613c54b598492ca2cfc3d8af411a0072ee3a1283c6ad004c425cdf067be98",
       "bytes": 2145
@@ -2536,19 +2811,14 @@
       "bytes": 9624
     },
     {
-      "file": "provenance/ui_v24_manifest.csv",
-      "sha256": "414ffc41185fa52325aa23f5719dc627c94e70bf169fa4842c8eac158f1fda9e",
-      "bytes": 15479
-    },
-    {
       "file": "provenance/well_card_sources.json",
       "sha256": "ebf8e850dfa3cfb41bbe48d3a37e433d87fd06385ed14f147de4dd0ee2fc1b8e",
       "bytes": 330
     },
     {
       "file": "scripts/README.md",
-      "sha256": "410aa958bd4cec74f0a8c914595f3354a0d83f3de509f817425bfc916ae81444",
-      "bytes": 1714
+      "sha256": "bd3cc82a51481da0969723aacb672f39387c8a918dcc7eb9bd985da2f6657b04",
+      "bytes": 2121
     },
     {
       "file": "scripts/build_effective_knowledge_v1.py",
@@ -2581,9 +2851,14 @@
       "bytes": 37622
     },
     {
+      "file": "scripts/build_stability_sensitivity_v25.py",
+      "sha256": "33d5e68f7e378b4ffd0cf6696870112b24d928f8e1fc121b6deec5e396829523",
+      "bytes": 43275
+    },
+    {
       "file": "scripts/build_ui_support_v221.py",
-      "sha256": "8efdf7c7e37116ffb712b8e333e7e19073a55480b9f3cea9fb1f89a78bb316e3",
-      "bytes": 8354
+      "sha256": "1bf0edc6469adeee7587c817e0a21e0dde7b116c9df73c2d9090ea477cf65a94",
+      "bytes": 9029
     },
     {
       "file": "scripts/build_vertical_temporal_v1.py",
@@ -2621,9 +2896,9 @@
       "bytes": 2632
     },
     {
-      "file": "scripts/finalize_release_v24.py",
-      "sha256": "42ba67b8ea496785b9828fcea7eddce2b80b3ed06e62ff7006e05238c46c4c8a",
-      "bytes": 3613
+      "file": "scripts/finalize_release_v25.py",
+      "sha256": "40f455faf7c3e4dd76085dbb5795b1ba675f34d01a517b07be87dc4c73030885",
+      "bytes": 2388
     },
     {
       "file": "scripts/package_release_v22.py",
@@ -2641,9 +2916,9 @@
       "bytes": 714
     },
     {
-      "file": "scripts/package_release_v24.py",
-      "sha256": "a0b1c7ac842d4bdc0e0d07249a0a4c0563ef97381772d534ca75f13102a78557",
-      "bytes": 1004
+      "file": "scripts/package_release_v25.py",
+      "sha256": "d79f909065a25f65d592fe689b6df64e73ffbb46af3aff54b015f12e1a734618",
+      "bytes": 720
     },
     {
       "file": "scripts/qa_release_v22.py",
@@ -2661,14 +2936,14 @@
       "bytes": 4397
     },
     {
-      "file": "scripts/qa_release_v24.py",
-      "sha256": "484c216c2d1395377940b03a1b228dc3ac896105bb10a052be0f8a880abec798",
-      "bytes": 6461
+      "file": "scripts/qa_release_v25.py",
+      "sha256": "193a1cdeb87f8dc3fd6347614947164621deae2b3f22056a4e78cbcc0d74f388",
+      "bytes": 10085
     },
     {
       "file": "scripts/update_documentation_v24.py",
-      "sha256": "9c435e59bf095b3c86167a4c927652afc7e9b6cbc3893effe6b30d718ef6e3e4",
-      "bytes": 10748
+      "sha256": "193977aafa247917a33250ad2debf08088c21754682320ff7c8d7010744f8c3f",
+      "bytes": 10791
     },
     {
       "file": "scripts/update_effective_knowledge_documentation_v1.py",

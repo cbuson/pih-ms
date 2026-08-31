@@ -1,4 +1,9 @@
-# Scripts reproduzíveis PIH MS V2.2.1
+# Scripts reproduzíveis PIH MS V2.5
+
+- `build_stability_sensitivity_v25.py` compara cinco escalas e quatro origens sobre o suporte fixo, calcula persistência dos 39 requisitos e gera as camadas V2.5.
+- `qa_release_v25.py` audita cardinalidades, partições, UNKNOWN, dicionário, visor, fichas e ausência de score.
+- `finalize_release_v25.py` atualiza manifestos e somas da entrega.
+- `package_release_v25.py` cria o ZIP independente da V2.5.
 
 - `build_ui_support_v221.py` gera os 11 resumos para o visor, os 64 fragmentos de fichas, o ícone de localização e a cópia da AGPL v3.
 - `update_ui_v221.py` aplica a estrutura HTML de navegação, ajuda, estatísticas e autoria.

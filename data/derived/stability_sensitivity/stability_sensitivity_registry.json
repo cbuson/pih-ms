@@ -1,0 +1,43 @@
+{
+  "version": "2.5",
+  "method_version": "PIH_MS_V2.5_ESTABILIDADE_SENSIBILIDADE_V1",
+  "support_points_n": 14284,
+  "wells_n": 3877,
+  "questions": [
+    "Q01",
+    "Q02",
+    "Q03",
+    "Q04",
+    "Q05"
+  ],
+  "scales_km2": [
+    100,
+    150,
+    250,
+    500,
+    1000
+  ],
+  "origins": [
+    "O00",
+    "OX25",
+    "OY25",
+    "OXY25"
+  ],
+  "state_codes": {
+    "0": "SEM_POCOS_NO_CONJUNTO_AUDITADO",
+    "1": "POCOS_SEM_EVIDENCIA_DIRETA_DA_PERGUNTA",
+    "2": "EVIDENCIA_DIRETA_PRESENTE"
+  },
+  "rules": {
+    "unknown_is_zero": false,
+    "weight_used": false,
+    "score_used": false,
+    "priority_calculated": false,
+    "potential_calculated": false,
+    "interpolation_used": false,
+    "prediction_used": false,
+    "final_scale_selected": false,
+    "final_origin_selected": false,
+    "surface_hydro_context_is_point_proxy": true
+  }
+}

@@ -1,5 +1,27 @@
 # DECISION LOG
 
+## V2.5 · estabilidade e sensibilidade
+
+### D-V25-01 · suporte fixo comum
+
+As comparações usam os mesmos 14.284 pontos de 5 km. Mudanças observadas são atribuídas à escala ou origem da tesselação, sem deslocar poços ou suportes.
+
+### D-V25-02 · três estados documentais
+
+Sem poços, poços sem evidência direta e evidência direta presente permanecem categorias distintas. Zero cadastral não é ausência física.
+
+### D-V25-03 · persistência condicionada à observabilidade
+
+Um requisito só participa da persistência nas escalas em que a célula do suporte contém ao menos um poço. Sem escala observável, o estado permanece UNKNOWN.
+
+### D-V25-04 · contexto superficial limitado
+
+Unidades e domínios SGB 2024 são resumidos a partir do suporte fixo. O resultado não é fração exata de área, unidade captada ou estrutura vertical.
+
+### D-V25-05 · nenhuma seleção automática
+
+Concordância e estabilidade não autorizam adotar escala, origem, peso, score, potencial ou prioridade.
+
 - E04 e E05 são camadas de disponibilidade, não de série temporal
 - E06 exclui somente três valores negativos da camada derivada e preserva a fonte original
 - E08 representa metadados mínimos de cadastro e não certificação do ensaio

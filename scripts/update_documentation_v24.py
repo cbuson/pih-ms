@@ -24,12 +24,12 @@ code{background:#edf2f5;padding:2px 5px;border-radius:4px}
 """
 
 
-def page(title: str, header: str, subtitle: str, content: str) -> str:
+def page(title: str, header: str, subtitle: str, content: str, version: str = "2.4") -> str:
     return (
         "<!doctype html><html lang=\"pt-BR\"><head><meta charset=\"utf-8\">"
         "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">"
         f"<title>{escape(title)}</title><style>{BASE_STYLE}</style></head><body>"
-        f"<header><small>PIH MS · V2.4</small><h1>{escape(header)}</h1><p>{escape(subtitle)}</p></header>"
+        f"<header><small>PIH MS · V{escape(version)}</small><h1>{escape(header)}</h1><p>{escape(subtitle)}</p></header>"
         f"<main>{content}</main></body></html>"
     )
 
@@ -107,7 +107,7 @@ def dictionary_page() -> None:
 <script>const q=document.getElementById('q'),rows=[...document.querySelectorAll('#tbl tbody tr')],count=document.getElementById('count');function f(){{const s=q.value.trim().toLowerCase();let n=0;rows.forEach(r=>{{const ok=!s||r.innerText.toLowerCase().includes(s);r.style.display=ok?'':'none';if(ok)n++}});count.textContent=n+' campos visíveis de {len(dictionary)}';}}q.addEventListener('input',f);</script>
 """
     (DOCS / "dicionario-parametros.html").write_text(
-        page("Dicionário de parâmetros PIH MS V2.4", "Dicionário exaustivo", f"{len(dictionary)} campos documentados e pesquisáveis", content),
+        page("Dicionário de parâmetros PIH MS V2.5", "Dicionário exaustivo", f"{len(dictionary)} campos documentados e pesquisáveis", content, "2.5"),
         encoding="utf-8",
     )
 

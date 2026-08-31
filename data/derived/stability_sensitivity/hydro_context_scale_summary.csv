@@ -1,0 +1,6 @@
+﻿scale_km2,cells_n,cells_multiple_surface_units_n,cells_one_surface_unit_n,cells_unknown_surface_context_n,surface_point_proxy_used,area_fraction_calculated,vertical_structure_inferred,method_version
+100,3763,1026,2654,83,True,False,False,PIH_MS_V2.5_ESTABILIDADE_SENSIBILIDADE_V1
+150,2525,885,1596,44,True,False,False,PIH_MS_V2.5_ESTABILIDADE_SENSIBILIDADE_V1
+250,1537,708,803,26,True,False,False,PIH_MS_V2.5_ESTABILIDADE_SENSIBILIDADE_V1
+500,791,479,296,16,True,False,False,PIH_MS_V2.5_ESTABILIDADE_SENSIBILIDADE_V1
+1000,413,280,124,9,True,False,False,PIH_MS_V2.5_ESTABILIDADE_SENSIBILIDADE_V1

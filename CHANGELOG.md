@@ -1,3 +1,13 @@
+# V2.5 · 2026-08-31
+
+- estabilidade dos estados de Q01 a Q05 comparada nas cinco escalas sobre 14.284 pontos fixos
+- sensibilidade a O00, OX25, OY25 e OXY25 calculada sem deslocar poços ou suportes
+- persistência dos 39 requisitos calculada somente em escalas observáveis
+- contexto hidrogeológico superficial SGB 2024 mantido como proxy pontual
+- 916 campos documentados e 17 resumos no visor
+- novo módulo cartográfico com cinco escalas, cinco perguntas e seis métricas
+- nenhuma escala, origem, representatividade, peso, score ou prioridade adotada
+
 # Fechamento documental adicional V2.0
 
 - Bibliografia master expandida para 43 referências classificadas por uso.
@@ -8,18 +18,6 @@
 - Fichas de malha, estrutura, escala, estratificação e vertical/tempo receberam ligação contextual ao guia.
 
 # CHANGELOG
-
-## V2.4 · 2026-08-31
-
-- cinco perguntas hidrogeológicas avaliadas separadamente
-- requisitos críticos documentados por pergunta e sem compensação entre dimensões
-- 19.385 pares poço-pergunta e 45.145 pares célula-pergunta
-- cinco escalas calculadas diretamente na família principal O00
-- evidência direta, mínimo documental local e representatividade territorial mantidos como resultados distintos
-- dependências entre indicadores publicadas sem interpretação causal
-- fichas de poço e de célula ampliadas com estados e requisitos bloqueantes
-- 13 resumos estatísticos atuais disponíveis no visor
-- nenhuma quantidade universal de poços, peso, score, interpolação ou prioridade calculada
 
 ## V2.3 · 2026-08-30
 

@@ -1,0 +1,29 @@
+{
+  "version": "2.5",
+  "state_palette": {
+    "0": "#cbd5df",
+    "1": "#7b61a8",
+    "2": "#27856b"
+  },
+  "percent_palette": [
+    "#f1f5f9",
+    "#d7e7ec",
+    "#a8d5d0",
+    "#65b7a8",
+    "#197665"
+  ],
+  "hydro_palette": [
+    "#edf3f8",
+    "#9ecae1",
+    "#4d7ea8",
+    "#684a8a"
+  ],
+  "metrics": {
+    "cell_state_code": "Estado documental local",
+    "direct_evidence_n": "Registros com evidência direta",
+    "cross_scale_exact_pct": "Concordância exata entre escalas no suporte",
+    "origin_exact_pct": "Concordância exata entre origens no suporte",
+    "n_wells": "Poços do conjunto auditado",
+    "hydro_surface_units_n": "Unidades hidrogeológicas superficiais no suporte"
+  }
+}
