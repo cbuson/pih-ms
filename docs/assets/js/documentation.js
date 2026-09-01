@@ -55,9 +55,9 @@
     <div class="pih-docbar-inner">
       <a class="pih-doc-brand" href="index.html" target="_top" aria-label="Voltar ao mapa PIH MS">
         <span class="pih-doc-brand-mark" aria-hidden="true">PIH</span>
-        <span class="pih-doc-brand-copy"><strong>Documentação PIH MS</strong><small>V2.6 experimental · prioridade por pergunta</small></span>
+        <span class="pih-doc-brand-copy"><strong>Documentação PIH MS</strong><small>V2.6.1 · navegação móvel</small></span>
       </a>
-      <button class="pih-doc-menu-toggle" type="button" aria-expanded="false" aria-controls="pihDocNav">Menu</button>
+      <button class="pih-doc-menu-toggle" type="button" aria-expanded="false" aria-controls="pihDocNav">Seções</button>
       <nav class="pih-doc-nav" id="pihDocNav" aria-label="Navegação da documentação">
         ${mainLinks.slice(0, 2).map(([href, label, target]) => `<a href="${href}" target="${target}">${label}</a>`).join('')}
         <details class="pih-doc-methods"><summary>Metodologias</summary><div class="pih-doc-method-list">${methods.map(([href, label]) => `<a href="${href}">${label}</a>`).join('')}</div></details>
@@ -79,6 +79,14 @@
     main.id = main.id || 'pih-doc-content';
     main.tabIndex = -1;
   }
+
+  main.querySelectorAll('table').forEach(table => {
+    if (table.closest('.table-wrap')) return;
+    const wrapper = document.createElement('div');
+    wrapper.className = 'table-wrap';
+    table.before(wrapper);
+    wrapper.append(table);
+  });
 
   document.querySelectorAll('.pih-doc-nav a, .pih-doc-method-list a').forEach(link => {
     const targetFile = link.getAttribute('href').split('?')[0].split('#')[0];
@@ -135,7 +143,7 @@
 
   const footer = document.createElement('footer');
   footer.className = 'pih-doc-footer';
-  footer.innerHTML = `<div class="pih-doc-footer-inner"><div><strong>PIH MS · documentação unificada V2.6</strong><small>Prioridade e confiança separadas · UNKNOWN permanece distinto de zero</small></div><div><a href="index.html?open=author" target="_top">Autoria, direitos e licenças</a></div></div>`;
+  footer.innerHTML = `<div class="pih-doc-footer-inner"><div><strong>PIH MS · documentação unificada V2.6.1</strong><small>Prioridade e confiança separadas · UNKNOWN permanece distinto de zero</small></div><div><a href="index.html?open=author" target="_top">Autoria, direitos e licenças</a></div></div>`;
   document.body.append(footer);
 
   const topButton = document.createElement('button');

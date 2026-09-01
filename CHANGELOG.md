@@ -1,3 +1,16 @@
+# V2.6.1 · navegação móvel · 2026-09-01
+
+- mapa definido como primeira tela no celular
+- nova barra inferior com cinco destinos principais
+- painel de camadas e fichas em largura total
+- grupos de camadas recolhidos inicialmente
+- acesso direto ao módulo de prioridade V2.6
+- legenda recolhida por padrão e aberta sob demanda
+- zoom por gesto priorizado e controles flutuantes reduzidos
+- tipografia e alvos táteis ampliados
+- navegação documental unificada e tabelas com rolagem horizontal controlada
+- nenhuma alteração nos dados, regras, classes ou resultados científicos da V2.6
+
 # V2.6 experimental · 2026-09-01
 
 - prioridade de investigação calculada separadamente para cinco perguntas

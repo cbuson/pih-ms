@@ -2,7 +2,7 @@
 
 ## Estado atual
 
-A V2.5.1 não é um aplicativo instalável. Ela continua sendo um visor web estático que funciona quando servido por HTTP ou HTTPS.
+A V2.6.1 não é um aplicativo instalável. Ela continua sendo um visor web estático que funciona quando servido por HTTP ou HTTPS.
 
 Esta separação é intencional. A instalação no celular exige decisões próprias sobre atualização, armazenamento, funcionamento sem rede, permissões e transparência para o usuário.
 
@@ -86,4 +86,4 @@ O modo sem rede deve informar exatamente o que está disponível.
 
 ## Resultado esperado
 
-A fase poderá gerar uma V2.6 instalável ou uma versão posterior definida no momento da execução. Ela deverá preservar a ciência da versão escolhida e registrar separadamente todas as mudanças de aplicativo, cache e distribuição.
+A fase poderá gerar uma V2.7 instalável ou uma versão posterior definida no momento da execução. Ela deverá preservar a ciência da versão escolhida e registrar separadamente todas as mudanças de aplicativo, cache e distribuição.

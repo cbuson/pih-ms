@@ -1,6 +1,25 @@
-# PIH MS V2.6 experimental
+# PIH MS V2.6.1 · navegação móvel
 
 Prioridade de Investigação Hidrogeológica de Mato Grosso do Sul.
+
+## Navegação móvel V2.6.1
+
+A V2.6.1 reorganiza a experiência no celular sem recalcular nenhum resultado científico.
+
+- mapa como primeira tela
+- barra inferior com Mapa, Camadas, Prioridade, Poço e Mais
+- painel de camadas em largura total
+- grupos recolhidos inicialmente
+- acesso direto à prioridade experimental V2.6
+- legenda recolhida por padrão
+- controles do mapa reduzidos aos essenciais
+- fichas abertas em largura total
+- alvos táteis de pelo menos 44 px
+- tipografia ampliada em camadas, fichas, ajuda e documentação
+- áreas seguras para barras de sistema do Android e do iOS
+- esquema de cor claro declarado para reduzir alterações automáticas do navegador
+
+A futura instalação como PWA continua separada desta fase.
 
 ## Prioridade de investigação por pergunta
 
@@ -23,11 +42,11 @@ Documentos principais da fase
 - `AUDITORIA_CIENTIFICA_V26.md`
 - `data/derived/research_priority/`
 
-A interface documental da V2.5.1 foi preservada e ampliada para a ciência experimental V2.6. Os resultados anteriores continuam congelados e identificados por sua versão.
+A interface documental integrada foi preservada e ampliada para a ciência experimental V2.6. Os resultados anteriores continuam congelados e identificados por sua versão.
 
-## Interface documental V2.6
+## Interface documental V2.6.1
 
-- 15 páginas documentais com cabeçalho, navegação e rodapé comuns
+- 16 páginas documentais com cabeçalho, navegação e rodapé comuns
 - documentos abertos sobre o mapa em uma janela ampla e também disponíveis como páginas independentes
 - acesso uniforme ao guia, estatísticas, métodos, dicionário, bibliografia e autoria
 - índice automático em cada página documental
@@ -132,10 +151,10 @@ py -m http.server 8555 --directory docs
 Abra
 
 ```text
-http://localhost:8555/index.html?v=260
+http://localhost:8555/index.html?v=261
 ```
 
-No topo deve aparecer V2.6. O menu `Explorar` deve mostrar a prioridade por pergunta e `Documentação` deve abrir todos os materiais no mesmo padrão visual.
+No topo deve aparecer V2.6.1. No celular, a barra inferior deve mostrar Mapa, Camadas, Prioridade, Poço e Mais. `Documentação` deve abrir todos os materiais no mesmo padrão visual.
 
 ## Licenças
 

@@ -22,6 +22,7 @@
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 104px;
+  color-scheme: only light;
 }
 
 body.pih-documentation {
@@ -564,13 +565,40 @@ body.pih-documentation[data-font-size="large"] {
   }
 
   body.pih-documentation {
-    font-size: calc(16.5px * var(--doc-font-scale));
+    font-size: calc(17px * var(--doc-font-scale));
     line-height: 1.68;
+    background: #edf4f7 !important;
   }
 
   .pih-docbar-inner {
     width: min(100% - 20px, 1440px);
     min-height: 64px;
+  }
+
+  .pih-doc-menu-toggle {
+    min-width: 78px;
+    min-height: 46px;
+    padding: 0 12px;
+    font-size: .9rem;
+  }
+
+  .pih-docbar.menu-open .pih-doc-nav {
+    max-height: calc(100dvh - 78px);
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    padding: 9px;
+  }
+
+  .pih-doc-nav > a,
+  .pih-doc-nav summary {
+    min-height: 48px;
+    padding: 12px 13px;
+    font-size: 1rem;
+  }
+
+  .pih-doc-reading-tools button {
+    min-width: 48px;
+    min-height: 46px;
   }
 
   .pih-doc-brand-copy small {
@@ -601,6 +629,24 @@ body.pih-documentation[data-font-size="large"] {
     margin: 12px 0;
     padding: 18px;
     border-radius: 15px;
+    background: #ffffff !important;
+  }
+
+  body.pih-documentation .table-wrap table {
+    min-width: 720px;
+    font-size: .94rem;
+  }
+
+  body.pih-documentation th,
+  body.pih-documentation td {
+    padding: 10px 11px;
+  }
+
+  body.pih-documentation .table-wrap {
+    margin-right: -8px;
+    margin-left: -8px;
+    border-radius: 12px;
+    overscroll-behavior-x: contain;
   }
 
   .pih-page-nav-links {
