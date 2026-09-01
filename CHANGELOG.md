@@ -1,3 +1,15 @@
+# V2.6 experimental · 2026-09-01
+
+- prioridade de investigação calculada separadamente para cinco perguntas
+- classes UNKNOWN, P1, P2, P3, P4 e P5 definidas sem compensação
+- confiança UNKNOWN, C1, C2, C3, C4 e C5 mantida em camada independente
+- estabilidade da prioridade verificada em cinco escalas e quatro origens
+- 45.145 pares célula e pergunta classificados
+- 1.045 campos documentados e 20 resumos no visor
+- nova ficha com bloqueios e ações recomendadas
+- paleta em cinza, vermelho, laranja, morado, turquesa e verde
+- nenhum peso, score, interpolação, potencial ou prioridade integrada
+
 # V2.5.1 · 2026-08-31
 
 - navegação e identidade visual comuns nas 15 páginas documentais

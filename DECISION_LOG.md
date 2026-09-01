@@ -1,5 +1,31 @@
 # DECISION LOG
 
+## V2.6 · prioridade de investigação por pergunta
+
+### D-V26-01 · cinco prioridades independentes
+
+Nível da água, propriedades hidráulicas, hidroquímica, geometria e estratigrafia, e monitoramento temporal são classificados separadamente. Nenhuma pergunta recebe evidência ou classe emprestada de outra.
+
+### D-V26-02 · classificação não compensatória
+
+As classes dependem de portais conjuntos de evidência. Um requisito crítico ausente não é compensado por quantidade de poços ou por outros requisitos disponíveis.
+
+### D-V26-03 · UNKNOWN fora da prioridade
+
+Sem poço do conjunto auditado, a célula permanece UNKNOWN. UNKNOWN não é convertido em P1, zero ou baixa prioridade.
+
+### D-V26-04 · confiança separada
+
+A confiança descreve a concordância exata da classe entre cinco escalas e quatro origens. Confiança não substitui prioridade e não demonstra representatividade.
+
+### D-V26-05 · sem prioridade integrada
+
+As cinco perguntas não são somadas. Uma prioridade integrada só poderá ser estudada depois de validação externa das regras e da dependência entre perguntas.
+
+### D-V26-06 · P4 e P5 ausentes na execução
+
+Nenhum poço satisfaz o mínimo documental completo nas regras atuais. A representatividade territorial também permanece UNKNOWN. Portanto P4 e P5 não aparecem nos resultados.
+
 ## V2.5.1 · documentação integrada
 
 ### D-V251-01 · ciência V2.5 preservada

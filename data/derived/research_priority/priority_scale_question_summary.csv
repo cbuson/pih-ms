@@ -1,0 +1,26 @@
+﻿scale_km2,question_code,question_name,cells_n,priority_unknown_n,priority_p1_critical_n,priority_p2_high_n,priority_p3_moderate_n,priority_p4_low_n,priority_p5_documentary_sufficiency_n,confidence_unknown_n,confidence_c1_very_low_n,confidence_c2_low_n,confidence_c3_moderate_n,confidence_c4_high_n,confidence_c5_very_high_n,independence_demonstrated,weight_used,score_used,integrated_priority_calculated,method_version
+100,Q01,Nível e profundidade da água,3763,2989,120,292,362,0,0,2992,163,247,208,96,57,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+100,Q02,Propriedades hidráulicas,3763,2989,133,485,156,0,0,2992,156,294,211,84,26,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+100,Q03,Hidroquímica,3763,2989,242,410,122,0,0,2992,180,330,187,55,19,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+100,Q04,Geometria e estratigrafia do aquífero,3763,2989,98,305,371,0,0,2992,160,246,213,92,60,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+100,Q05,Monitoramento temporal,3763,2989,397,164,213,0,0,2992,172,321,198,66,14,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+150,Q01,Nível e profundidade da água,2525,1868,91,248,318,0,0,1870,147,157,276,45,30,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+150,Q02,Propriedades hidráulicas,2525,1868,104,406,147,0,0,1870,134,202,266,41,12,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+150,Q03,Hidroquímica,2525,1868,197,348,112,0,0,1870,148,234,239,24,10,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+150,Q04,Geometria e estratigrafia do aquífero,2525,1868,69,263,325,0,0,1870,140,161,278,45,31,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+150,Q05,Monitoramento temporal,2525,1868,317,141,199,0,0,1870,145,226,244,31,9,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+250,Q01,Nível e profundidade da água,1537,1014,69,197,257,0,0,1014,79,139,262,26,17,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+250,Q02,Propriedades hidráulicas,1537,1014,78,315,130,0,0,1014,73,153,274,17,6,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+250,Q03,Hidroquímica,1537,1014,149,272,102,0,0,1014,87,182,232,19,3,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+250,Q04,Geometria e estratigrafia do aquífero,1537,1014,53,208,262,0,0,1014,77,138,265,26,17,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+250,Q05,Monitoramento temporal,1537,1014,232,125,166,0,0,1014,95,172,243,9,4,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+500,Q01,Nível e profundidade da água,791,437,36,132,186,0,0,437,41,63,222,27,1,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+500,Q02,Propriedades hidráulicas,791,437,43,204,107,0,0,437,38,75,222,19,0,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+500,Q03,Hidroquímica,791,437,77,190,87,0,0,437,40,78,223,13,0,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+500,Q04,Geometria e estratigrafia do aquífero,791,437,28,135,191,0,0,437,37,64,226,26,1,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+500,Q05,Monitoramento temporal,791,437,131,90,133,0,0,437,54,75,209,15,1,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+1000,Q01,Nível e profundidade da água,413,173,11,90,139,0,0,173,10,42,158,30,0,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+1000,Q02,Propriedades hidráulicas,413,173,15,141,84,0,0,173,14,42,173,11,0,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+1000,Q03,Hidroquímica,413,173,35,132,73,0,0,173,11,52,166,11,0,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+1000,Q04,Geometria e estratigrafia do aquífero,413,173,8,89,143,0,0,173,9,42,158,31,0,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+1000,Q05,Monitoramento temporal,413,173,68,66,106,0,0,173,19,48,159,14,0,False,False,False,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1

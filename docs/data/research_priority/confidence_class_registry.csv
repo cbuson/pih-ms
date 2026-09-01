@@ -1,0 +1,7 @@
+﻿confidence_code,confidence_class,confidence_label,observable_rule,color_hex,method_version
+0,UNKNOWN,Não classificável,A prioridade não é classificável ou a célula não possui ponto fixo de suporte.,#7C8793,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+1,C1,Muito baixa,Não há concordância exata da prioridade entre escalas nem entre origens no suporte da célula.,#B2182B,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+2,C2,Baixa,A prioridade apresenta concordância apenas em uma das duas verificações de estabilidade.,#F28E2B,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+3,C3,Moderada,"Há concordância parcial entre escalas e entre origens, sem estabilidade completa.",#7B4AB4,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+4,C4,Alta,Uma verificação é completamente estável e a outra apresenta concordância parcial.,#1B9E9A,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+5,C5,Muito alta,A prioridade é completamente estável entre escalas e entre origens no suporte da célula.,#2E8B57,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1

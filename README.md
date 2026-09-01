@@ -1,10 +1,31 @@
-# PIH MS V2.5.1 · Documentação integrada
+# PIH MS V2.6 experimental
 
 Prioridade de Investigação Hidrogeológica de Mato Grosso do Sul.
 
-A V2.5.1 reorganiza a navegação, a leitura e o acesso à documentação da V2.5. Nenhum resultado científico foi recalculado. A base científica vigente continua sendo a V2.5 de estabilidade e sensibilidade.
+## Prioridade de investigação por pergunta
 
-## Interface documental V2.5.1
+A V2.6 classifica a necessidade de adquirir ou revisar informação para cinco perguntas separadas. A prioridade deriva do déficit documental demonstrado e a confiança deriva da estabilidade da própria classe entre escalas e origens.
+
+- 45.145 pares célula e pergunta
+- 32.405 UNKNOWN
+- 2.801 P1 crítica
+- 5.448 P2 alta
+- 4.491 P3 moderada
+- P4 e P5 não aparecem na base atual
+- confiança mantida em camada separada
+- nenhuma prioridade integrada
+- nenhum peso, score, interpolação ou predição
+
+Documentos principais da fase
+
+- `ESTUDO_PRIORIDADE_INVESTIGACAO_POR_PERGUNTA_V1.md`
+- `methodology/PRIORIDADE_INVESTIGACAO_POR_PERGUNTA_V1.md`
+- `AUDITORIA_CIENTIFICA_V26.md`
+- `data/derived/research_priority/`
+
+A interface documental da V2.5.1 foi preservada e ampliada para a ciência experimental V2.6. Os resultados anteriores continuam congelados e identificados por sua versão.
+
+## Interface documental V2.6
 
 - 15 páginas documentais com cabeçalho, navegação e rodapé comuns
 - documentos abertos sobre o mapa em uma janela ampla e também disponíveis como páginas independentes
@@ -12,8 +33,8 @@ A V2.5.1 reorganiza a navegação, a leitura e o acesso à documentação da V2.
 - índice automático em cada página documental
 - controles de tamanho do texto com preferência conservada no navegador
 - tipografia legível e adaptação para telas menores
-- 17 resumos estatísticos atuais carregados a partir dos arquivos do projeto
-- dicionário com 916 campos documentados
+- 20 resumos estatísticos atuais carregados a partir dos arquivos do projeto
+- dicionário com 1.045 campos documentados
 - bibliografia com 55 referências
 - informação autoral completa e DOI atribuído somente à versão efetivamente publicada
 - ajuda atualizada para explicar a navegação integrada
@@ -111,10 +132,10 @@ py -m http.server 8555 --directory docs
 Abra
 
 ```text
-http://localhost:8555/index.html?v=251
+http://localhost:8555/index.html?v=260
 ```
 
-No topo deve aparecer V2.5.1. O menu `Documentação` deve abrir todos os materiais no mesmo padrão visual.
+No topo deve aparecer V2.6. O menu `Explorar` deve mostrar a prioridade por pergunta e `Documentação` deve abrir todos os materiais no mesmo padrão visual.
 
 ## Licenças
 
@@ -122,4 +143,4 @@ O código do aplicativo usa GNU AGPL versão 3 ou posterior. Conteúdos científ
 
 ## Referência de reprodutibilidade
 
-Os CSV são a referência principal. Observações, auditorias, cenários de sensibilidade e produtos derivados permanecem separados. A V2.5.1 muda somente a interface e a documentação de uso sobre a ciência congelada da V2.5.
+Os CSV são a referência principal. Observações, auditorias, cenários de sensibilidade e produtos derivados permanecem separados. A V2.6 acrescenta uma classificação experimental por pergunta sem modificar os resultados das fases anteriores.

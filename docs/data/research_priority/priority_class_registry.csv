@@ -1,0 +1,7 @@
+﻿priority_code,priority_class,priority_label,observable_rule,color_hex,weight_used,method_version
+0,UNKNOWN,Não classificável,Não há poço do conjunto auditado na célula para classificar a prioridade.,#7C8793,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+1,P1,Crítica,"Há poço na célula, mas não existe evidência direta para a pergunta.",#B2182B,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+2,P2,Alta,"Existe evidência direta, porém nenhum poço satisfaz o contexto mínimo de interpretação.",#F28E2B,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+3,P3,Moderada,"Ao menos um poço satisfaz o contexto mínimo, mas nenhum satisfaz o mínimo documental completo.",#7B4AB4,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+4,P4,Baixa,"Existe mínimo documental completo local, mas a representatividade territorial não foi demonstrada.",#1B9E9A,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1
+5,P5,Suficiência documental,O mínimo documental e a representatividade territorial foram demonstrados para a pergunta.,#2E8B57,False,PIH_MS_V2.6_PRIORIDADE_POR_PERGUNTA_V1

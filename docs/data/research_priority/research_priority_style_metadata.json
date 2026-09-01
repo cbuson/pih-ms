@@ -1,0 +1,80 @@
+{
+  "version": "2.6-experimental",
+  "priority_palette": {
+    "0": "#7C8793",
+    "1": "#B2182B",
+    "2": "#F28E2B",
+    "3": "#7B4AB4",
+    "4": "#1B9E9A",
+    "5": "#2E8B57"
+  },
+  "confidence_palette": {
+    "0": "#7C8793",
+    "1": "#B2182B",
+    "2": "#F28E2B",
+    "3": "#7B4AB4",
+    "4": "#1B9E9A",
+    "5": "#2E8B57"
+  },
+  "priority_labels": {
+    "0": {
+      "class": "UNKNOWN",
+      "label": "Não classificável"
+    },
+    "1": {
+      "class": "P1",
+      "label": "Crítica"
+    },
+    "2": {
+      "class": "P2",
+      "label": "Alta"
+    },
+    "3": {
+      "class": "P3",
+      "label": "Moderada"
+    },
+    "4": {
+      "class": "P4",
+      "label": "Baixa"
+    },
+    "5": {
+      "class": "P5",
+      "label": "Suficiência documental"
+    }
+  },
+  "confidence_labels": {
+    "0": {
+      "class": "UNKNOWN",
+      "label": "Não classificável"
+    },
+    "1": {
+      "class": "C1",
+      "label": "Muito baixa"
+    },
+    "2": {
+      "class": "C2",
+      "label": "Baixa"
+    },
+    "3": {
+      "class": "C3",
+      "label": "Moderada"
+    },
+    "4": {
+      "class": "C4",
+      "label": "Alta"
+    },
+    "5": {
+      "class": "C5",
+      "label": "Muito alta"
+    }
+  },
+  "metrics": {
+    "priority_code": "Prioridade de investigação por pergunta",
+    "confidence_code": "Confiança da classificação",
+    "cross_scale_priority_exact_pct": "Concordância exata da prioridade entre escalas",
+    "origin_priority_exact_pct": "Concordância exata da prioridade entre origens",
+    "direct_evidence_n": "Poços com evidência direta",
+    "context_gate_n": "Poços que satisfazem o portal de contexto",
+    "fully_blocked_requirements_n": "Requisitos ausentes em todos os poços da célula"
+  }
+}
