@@ -1,6 +1,21 @@
-# PIH MS V2.6.1 · navegação móvel
+# PIH MS V2.6.2 · controle visual de camadas
 
 Prioridade de Investigação Hidrogeológica de Mato Grosso do Sul.
+
+## Controle visual de camadas V2.6.2
+
+A V2.6.2 acrescenta uma bandeja contextual para administrar somente as camadas que estão visíveis no mapa.
+
+- transparência individual entre 10 e 100 por cento
+- atalhos de 25, 50, 75 e 100 por cento
+- restauração conjunta a 100 por cento
+- remoção direta da camada sem percorrer o catálogo
+- ação para trazer a camada à frente dentro da ordem cartográfica compatível
+- controles táteis grandes e folha inferior no celular
+- painel compacto em telas amplas
+- nenhuma alteração em dados, classes, cálculos ou estatísticas
+
+Os ajustes permanecem na sessão atual e não alteram os arquivos científicos. O mapa base, a posição do usuário e o destaque temporário da feição selecionada ficam fora deste controle.
 
 ## Navegação móvel V2.6.1
 
@@ -154,7 +169,7 @@ Abra
 http://localhost:8555/index.html?v=261
 ```
 
-No topo deve aparecer V2.6.1. No celular, a barra inferior deve mostrar Mapa, Camadas, Prioridade, Poço e Mais. `Documentação` deve abrir todos os materiais no mesmo padrão visual.
+No topo deve aparecer V2.6.2. No celular, a barra inferior deve mostrar Mapa, Camadas, Prioridade, Poço e Mais. `Documentação` deve abrir todos os materiais no mesmo padrão visual.
 
 ## Licenças
 

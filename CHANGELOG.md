@@ -1,3 +1,13 @@
+# V2.6.2 · controle visual de camadas · 2026-09-01
+
+- bandeja contextual com somente as camadas realmente visíveis
+- transparência independente entre 10 e 100 por cento
+- atalhos táteis de opacidade e restauração global
+- remoção direta e envio à frente dentro da ordem cartográfica
+- adaptação como folha inferior no celular e painel compacto em telas amplas
+- ajuda e documentação de versão atualizadas
+- nenhuma alteração nos dados, regras, classes ou resultados científicos da V2.6
+
 # V2.6.1 · navegação móvel · 2026-09-01
 
 - mapa definido como primeira tela no celular

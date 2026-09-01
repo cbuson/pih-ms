@@ -96,25 +96,25 @@
   }
 
   function updateVersionCopy() {
-    document.title = 'PIH MS V2.6.1 · experiência móvel';
-    document.querySelector('.brand .version')?.replaceChildren('V2.6.1');
-    document.getElementById('authorTitle')?.replaceChildren('PIH MS V2.6.1');
+    document.title = 'PIH MS V2.6.2 · controle visual de camadas';
+    document.querySelector('.brand .version')?.replaceChildren('V2.6.2');
+    document.getElementById('authorTitle')?.replaceChildren('PIH MS V2.6.2');
     const ribbon = document.querySelector('.science-ribbon');
-    if (ribbon) ribbon.innerHTML = '<strong>PIH MS · V2.6.1</strong><span>Navegação móvel renovada sobre o conteúdo científico experimental V2.6. Sem prioridade integrada.</span>';
+    if (ribbon) ribbon.innerHTML = '<strong>PIH MS · V2.6.2</strong><span>Controle visual avançado sobre o conteúdo científico experimental V2.6. Sem prioridade integrada.</span>';
     const helpKicker = document.querySelector('#helpModal .modal-kicker');
-    if (helpKicker) helpKicker.textContent = 'Ajuda completa · V2.6.1';
+    if (helpKicker) helpKicker.textContent = 'Ajuda completa · V2.6.2';
     const docsKicker = document.querySelector('#docsModal .modal-kicker');
-    if (docsKicker) docsKicker.textContent = 'Documentação integrada · V2.6.1';
+    if (docsKicker) docsKicker.textContent = 'Documentação integrada · V2.6.2';
     const intro = document.querySelector('#authorModal .project-intro span');
-    if (intro) intro.textContent = 'Infraestrutura científica em desenvolvimento. A V2.6.1 melhora a experiência móvel sem alterar os resultados científicos experimentais da V2.6.';
+    if (intro) intro.textContent = 'Infraestrutura científica em desenvolvimento. A V2.6.2 acrescenta transparência por camada e gestão das camadas visíveis sem alterar os resultados científicos experimentais da V2.6.';
     const mobileHelp = {
       help03: 'No celular use a barra inferior. Mapa volta à visão principal. Camadas abre o catálogo completo. Prioridade leva diretamente ao módulo V2.6. Poço abre a busca. Mais reúne estatísticas, documentação, ajuda, informação e mapa base. Em telas amplas, essas funções permanecem no menu superior.',
       help04: 'No celular, arraste o mapa com um dedo e use o gesto de pinça para o zoom. Os controles visíveis enquadram o estado, localizam o dispositivo e trocam o mapa base. O seletor Poço ou Mover fica no alto do mapa. Em telas amplas também existem botões de zoom.',
-      help05: 'No celular as camadas abrem em uma folha de largura total. Em telas amplas aparecem em um painel lateral. Os grupos começam recolhidos no celular para reduzir a rolagem. Use a busca ou abra somente o módulo necessário e depois toque em Ver mapa.',
+      help05: 'No celular as camadas abrem em uma folha de largura total. Use Camadas visíveis sobre o mapa para ajustar a transparência de cada camada ativa, trazê-la à frente ou removê-la. O catálogo completo continua separado para ativar novas camadas.',
       help09: 'No celular as fichas abrem em uma folha de largura total e podem ser fechadas com Ver mapa. Em telas amplas aparecem à direita. Elas mostram prioridade, confiança, bloqueios, ações recomendadas, procedência e limites.',
       help10: 'No celular toque em Poço na barra inferior. Em telas amplas use Poço no menu superior. Pesquise por ID SIAGAS, município, localidade, nome ou aquífero. Um ID numérico completo permite tentar a abertura direta da ficha.',
-      help11: 'A legenda começa recolhida no celular. Toque em Legenda para abrir e toque novamente para devolver espaço ao mapa. Cinza representa UNKNOWN, vermelho P1 ou C1, laranja P2 ou C2, roxo P3 ou C3, turquesa P4 ou C4 e verde P5 ou C5.',
-      help18: 'A navegação documental abre sobre o mapa e mantém o mesmo cabeçalho, menu e tamanho de leitura. A V2.6.1 é uma revisão de usabilidade móvel sobre os resultados científicos experimentais da V2.6.'
+      help11: 'A legenda começa recolhida no celular. O botão Camadas visíveis controla a transparência entre 10 e 100 por cento sem alterar valores científicos. Cinza representa UNKNOWN, vermelho P1 ou C1, laranja P2 ou C2, roxo P3 ou C3, turquesa P4 ou C4 e verde P5 ou C5.',
+      help18: 'A navegação documental abre sobre o mapa e mantém o mesmo cabeçalho, menu e tamanho de leitura. A V2.6.2 é uma revisão de usabilidade móvel sobre os resultados científicos experimentais da V2.6.'
     };
     Object.entries(mobileHelp).forEach(([id, text]) => {
       const paragraph = document.querySelector(`#${id} p`);
