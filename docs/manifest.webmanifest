@@ -1,0 +1,27 @@
+{
+  "id": "./index.html",
+  "name": "PIH MS",
+  "short_name": "PIH MS",
+  "description": "Prioridade de Investigação Hidrogeológica de Mato Grosso do Sul",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f8fa",
+  "theme_color": "#063b63",
+  "icons": [
+    {
+      "src": "./assets/img/pih-ms-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/img/pih-ms-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

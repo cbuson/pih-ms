@@ -11,22 +11,34 @@
   const status = document.getElementById('activeLayersStatus');
   const resetAll = document.getElementById('resetActiveLayerOpacity');
   const openCatalog = document.getElementById('openLayerCatalog');
+  const tabs = [...document.querySelectorAll('[data-map-display-tab]')];
+  const legendPanel = document.getElementById('mapLegendPanel');
+  const layersPanel = document.getElementById('mapVisibleLayersPanel');
   const pendingOpacity = new Map();
 
-  if (!toggle || !sheet || !backdrop || !list) return;
+  if (!toggle || !sheet || !backdrop || !list || !legendPanel || !layersPanel) return;
 
   const api = () => window.PIHVisualLayers;
-  const kindLabels = {
-    base: 'Base',
-    evidence: 'Evidência',
-    analysis: 'Análise',
-    context: 'Contexto'
-  };
+  const kindLabels = { base: 'Base', evidence: 'Evidência', analysis: 'Análise', context: 'Contexto' };
 
   function announce(message) {
     if (!status) return;
     status.textContent = '';
     window.setTimeout(() => { status.textContent = message; }, 20);
+  }
+
+  function showTab(name, focus = false) {
+    const legendActive = name === 'legend';
+    legendPanel.hidden = !legendActive;
+    layersPanel.hidden = legendActive;
+    tabs.forEach(tab => {
+      const active = tab.dataset.mapDisplayTab === name;
+      tab.classList.toggle('active', active);
+      tab.setAttribute('aria-selected', String(active));
+      tab.tabIndex = active ? 0 : -1;
+      if (active && focus) tab.focus();
+    });
+    if (!legendActive) render();
   }
 
   function close(restoreFocus = true) {
@@ -38,7 +50,6 @@
   }
 
   function open() {
-    window.dispatchEvent(new CustomEvent('pih:close-mobile-overlays', { detail: { except: 'visual-layers' } }));
     render();
     sheet.hidden = false;
     backdrop.hidden = false;
@@ -73,7 +84,6 @@
     const card = document.createElement('article');
     card.className = 'active-layer-card';
     card.dataset.layerKey = item.key;
-
     const head = document.createElement('div');
     head.className = 'active-layer-card-head';
     const name = document.createElement('h3');
@@ -159,17 +169,23 @@
     items.forEach(item => list.append(createLayerCard(item)));
   }
 
+  tabs.forEach(tab => tab.addEventListener('click', () => showTab(tab.dataset.mapDisplayTab)));
   toggle.addEventListener('click', () => sheet.hidden ? open() : close());
-  closeButton?.addEventListener('click', close);
-  backdrop.addEventListener('click', close);
+  closeButton?.addEventListener('click', () => close());
+  backdrop.addEventListener('click', () => close());
   document.addEventListener('keydown', event => {
     if (sheet.hidden) return;
     if (event.key === 'Escape') {
       close();
       return;
     }
+    if ((event.key === 'ArrowLeft' || event.key === 'ArrowRight') && tabs.includes(document.activeElement)) {
+      event.preventDefault();
+      showTab(document.activeElement.dataset.mapDisplayTab === 'legend' ? 'layers' : 'legend', true);
+      return;
+    }
     if (event.key !== 'Tab') return;
-    const focusable = [...sheet.querySelectorAll('button:not([disabled]), input:not([disabled])')];
+    const focusable = [...sheet.querySelectorAll('button:not([disabled]), input:not([disabled])')].filter(item => item.offsetParent !== null);
     if (!focusable.length) return;
     const first = focusable[0];
     const last = focusable[focusable.length - 1];
@@ -187,7 +203,6 @@
     announce('Opacidade de todas as camadas visíveis restaurada para 100 por cento');
     render();
   });
-
   openCatalog?.addEventListener('click', () => {
     close(false);
     const mobileLayers = document.querySelector('[data-mobile-nav="layers"]');
@@ -199,13 +214,8 @@
   window.addEventListener('pih:layers-changed', event => {
     if (event.detail?.reason !== 'opacity' && event.detail?.reason !== 'order') render();
   });
-  window.addEventListener('pih:close-mobile-overlays', event => {
-    if (event.detail?.except !== 'visual-layers') close();
-  });
-  window.addEventListener('resize', () => {
-    if (!sheet.hidden) render();
-  });
-
+  window.addEventListener('resize', () => { if (!sheet.hidden) render(); });
+  showTab('legend');
   render();
   window.setTimeout(render, 800);
   window.setTimeout(render, 2200);

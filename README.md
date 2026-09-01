@@ -1,6 +1,23 @@
-# PIH MS V2.6.2 · controle visual de camadas
+# PIH MS V2.7 · experiência móvel, estatísticas visuais e PWA
 
 Prioridade de Investigação Hidrogeológica de Mato Grosso do Sul.
+
+## Experiência móvel e instalação V2.7
+
+A V2.7 aperfeiçoa a interface sem recalcular os resultados científicos experimentais da V2.6.
+
+- `?` e `i` visíveis na barra azul do celular
+- ferramentas do mapa organizadas horizontalmente
+- um único botão Legenda para símbolos e camadas visíveis
+- transparência individual preservada dentro da Legenda
+- visão gráfica calculada a partir dos 20 resumos auditados
+- todas as 20 tabelas completas preservadas
+- instalação PWA integrada em Mais
+- explicação explícita do que a instalação faz e não faz
+- cache limitado à interface essencial
+- dados científicos, GeoJSON, CSV, XLSX, ZIP e mapas base fora do cache automático
+
+A instalação não cria uma cópia offline de toda a base. Camadas ainda não abertas podem exigir conexão.
 
 ## Controle visual de camadas V2.6.2
 
@@ -34,7 +51,7 @@ A V2.6.1 reorganiza a experiência no celular sem recalcular nenhum resultado ci
 - áreas seguras para barras de sistema do Android e do iOS
 - esquema de cor claro declarado para reduzir alterações automáticas do navegador
 
-A futura instalação como PWA continua separada desta fase.
+A instalação como PWA foi incorporada na V2.7 com cache limitado à interface essencial.
 
 ## Prioridade de investigação por pergunta
 
@@ -166,10 +183,10 @@ py -m http.server 8555 --directory docs
 Abra
 
 ```text
-http://localhost:8555/index.html?v=261
+http://localhost:8555/index.html?v=27
 ```
 
-No topo deve aparecer V2.6.2. No celular, a barra inferior deve mostrar Mapa, Camadas, Prioridade, Poço e Mais. `Documentação` deve abrir todos os materiais no mesmo padrão visual.
+No topo deve aparecer V2.7. No celular, a barra inferior deve mostrar Mapa, Camadas, Prioridade, Poço e Mais. `Legenda` deve reunir símbolos e camadas visíveis. `Instalar PIH MS` deve aparecer dentro de Mais.
 
 ## Licenças
 

@@ -1,3 +1,16 @@
+# V2.7 · experiência móvel, estatísticas visuais e PWA · 2026-09-01
+
+- ajuda e informação identificadas na barra azul móvel
+- ferramentas essenciais do mapa organizadas horizontalmente
+- Legenda e Camadas visíveis integradas em uma única folha
+- transparência individual preservada entre 10 e 100 por cento
+- visão geral gráfica calculada diretamente dos 20 resumos científicos
+- tabelas completas preservadas como segunda vista
+- instalação PWA integrada ao menu Mais
+- cache automático limitado à interface essencial
+- dados científicos e mapas base excluídos do cache automático
+- nenhuma alteração em dados, regras, classes ou resultados científicos da V2.6
+
 # V2.6.2 · controle visual de camadas · 2026-09-01
 
 - bandeja contextual com somente as camadas realmente visíveis

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">PIH MS</title>
+  <desc id="description">Gota de água sobre fundo azul</desc>
+  <defs>
+    <linearGradient id="background" x1="64" y1="40" x2="448" y2="472" gradientUnits="userSpaceOnUse"><stop stop-color="#063b63"/><stop offset="1" stop-color="#087da2"/></linearGradient>
+    <linearGradient id="water" x1="256" y1="116" x2="256" y2="396" gradientUnits="userSpaceOnUse"><stop stop-color="#d9f6ff"/><stop offset=".52" stop-color="#80d8e5"/><stop offset="1" stop-color="#25a7aa"/></linearGradient>
+  </defs>
+  <rect x="24" y="24" width="464" height="464" rx="112" fill="url(#background)"/>
+  <path d="M256 98c-21 41-108 139-108 222 0 65 48 112 108 112s108-47 108-112c0-83-87-181-108-222Z" fill="url(#water)" stroke="#fff" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M197 321c4 37 28 61 65 66" fill="none" stroke="#fff" stroke-width="16" stroke-linecap="round" opacity=".72"/>
+</svg>
