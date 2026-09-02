@@ -1,0 +1,1269 @@
+{
+  "schema_version": "PIH_MS_PROJECT_STATISTICS_V271",
+  "release": "V2.7.1",
+  "scientific_content": "V2.6 preservado",
+  "scope_note": "Inventário do pacote V2.7 e das matrizes científicas preservadas na V2.7.1. Registros físicos não equivalem a poços únicos nem a evidências independentes.",
+  "headline": {
+    "canonical_wells_n": 3877,
+    "grid_cells_n": 9029,
+    "support_points_n": 14284,
+    "scales_n": 5,
+    "origins_n": 4,
+    "questions_n": 5,
+    "requirements_n": 39,
+    "evidence_layers_n": 12,
+    "knowledge_dimensions_n": 9,
+    "analytical_modules_n": 10
+  },
+  "v27_package_baseline": {
+    "files_n": 685,
+    "uncompressed_bytes_n": 1584064937,
+    "compressed_bytes_n": 132301527,
+    "csv_files_n": 254,
+    "csv_physical_rows_n": 3839462,
+    "csv_bytes_n": 854880929,
+    "note": "Contagem física do ZIP auditado V2.7. Inclui vistas analíticas repetidas por escala, pergunta e finalidade de uso."
+  },
+  "file_types": [
+    {
+      "type": "CSV",
+      "files_n": 254,
+      "bytes_n": 854880929
+    },
+    {
+      "type": "GeoJSON",
+      "files_n": 161,
+      "bytes_n": 613571460
+    },
+    {
+      "type": "JSON",
+      "files_n": 109,
+      "bytes_n": 97342906
+    },
+    {
+      "type": "XLSX",
+      "files_n": 12,
+      "bytes_n": 10861592
+    },
+    {
+      "type": "PNG",
+      "files_n": 6,
+      "bytes_n": 4780834
+    },
+    {
+      "type": "HTML",
+      "files_n": 18,
+      "bytes_n": 783023
+    },
+    {
+      "type": "TXT",
+      "files_n": 13,
+      "bytes_n": 677072
+    },
+    {
+      "type": "Python",
+      "files_n": 44,
+      "bytes_n": 527632
+    },
+    {
+      "type": "Markdown",
+      "files_n": 45,
+      "bytes_n": 268185
+    },
+    {
+      "type": "JavaScript",
+      "files_n": 8,
+      "bytes_n": 240248
+    },
+    {
+      "type": "CSS",
+      "files_n": 5,
+      "bytes_n": 90757
+    },
+    {
+      "type": "SVG",
+      "files_n": 2,
+      "bytes_n": 4191
+    },
+    {
+      "type": "Webmanifest",
+      "files_n": 1,
+      "bytes_n": 650
+    },
+    {
+      "type": "BAT",
+      "files_n": 4,
+      "bytes_n": 352
+    },
+    {
+      "type": "Sem extensão",
+      "files_n": 3,
+      "bytes_n": 35106
+    }
+  ],
+  "data_architecture": {
+    "all_csv": {
+      "csv_files_n": 254,
+      "physical_rows_n": 3839462,
+      "bytes_n": 854880929,
+      "max_columns_n": 107
+    },
+    "all_derived_csv": {
+      "csv_files_n": 163,
+      "physical_rows_n": 2045668,
+      "bytes_n": 460532582,
+      "max_columns_n": 107
+    },
+    "current_derived_csv": {
+      "csv_files_n": 147,
+      "physical_rows_n": 2006817,
+      "bytes_n": 450772276,
+      "max_columns_n": 107
+    },
+    "source_audit_csv_files_n": 11,
+    "source_audit_physical_rows_n": 34482,
+    "well_question_pairs_n": 19385,
+    "well_requirement_pairs_n": 151203,
+    "cell_question_pairs_n": 45145,
+    "support_question_pairs_n": 71420,
+    "support_scale_question_pairs_n": 357100,
+    "support_requirement_pairs_n": 557076
+  },
+  "methodology_stages": [
+    {
+      "version": "P0",
+      "name": "Congelamento e auditoria das fontes",
+      "description": "Preservação de procedência, campos originais, estados UNKNOWN e valores inválidos."
+    },
+    {
+      "version": "V2.0",
+      "name": "Evidências E01 a E12",
+      "description": "Doze perguntas documentais observáveis derivadas sem transformar presença em qualidade."
+    },
+    {
+      "version": "V2.1",
+      "name": "Independência e redundância",
+      "description": "Separação entre quantidade aparente, sobreposição documental e evidência independente não demonstrada."
+    },
+    {
+      "version": "V2.2",
+      "name": "Conhecimento efetivo",
+      "description": "Nove dimensões mantidas separadas, sem nota única e sem compensação."
+    },
+    {
+      "version": "V2.3",
+      "name": "Completude multiescalar",
+      "description": "Cinco escalas comparáveis para malhas de evidência e estrutura espacial."
+    },
+    {
+      "version": "V2.4",
+      "name": "Suficiência por pergunta",
+      "description": "Cinco perguntas e 39 requisitos conjuntivos avaliados sem pesos."
+    },
+    {
+      "version": "V2.5",
+      "name": "Estabilidade e sensibilidade",
+      "description": "Comparação entre cinco escalas, quatro origens e 14.284 pontos fixos de suporte."
+    },
+    {
+      "version": "V2.6",
+      "name": "Prioridade por pergunta",
+      "description": "Classificação experimental não compensatória com confiança separada e UNKNOWN preservado."
+    },
+    {
+      "version": "V2.7",
+      "name": "Experiência móvel e PWA",
+      "description": "Navegação móvel, legenda integrada, estatísticas visuais e instalação opcional."
+    },
+    {
+      "version": "V2.7.1",
+      "name": "Estudo estatístico completo",
+      "description": "Inventário reproduzível do processo, dos produtos, dos resultados e dos limites."
+    }
+  ],
+  "evidence_layers": [
+    {
+      "code": "E01",
+      "name": "Poços canônicos provisórios",
+      "question": "Quantos identificadores SIAGAS espacialmente utilizáveis existem",
+      "feature_count": 3877,
+      "source": "SIAGAS_MS_20260814 + AUDITORIA_V1",
+      "limitation": "ID digital não demonstra independência física entre poços"
+    },
+    {
+      "code": "E02",
+      "name": "Profundidade positiva informada",
+      "question": "Onde existe profundidade total positiva no snapshot atual",
+      "feature_count": 3414,
+      "source": "SIAGAS_MS_20260814",
+      "limitation": "Profundidade total não equivale a intervalo captado nem cobertura vertical"
+    },
+    {
+      "code": "E03",
+      "name": "Aquífero informado no cadastro",
+      "question": "Onde o cadastro SIAGAS informa um nome de aquífero",
+      "feature_count": 3097,
+      "source": "SIAGAS_MS_20260814",
+      "limitation": "O nome cadastral pode usar taxonomias diferentes e não é reclassificado automaticamente"
+    },
+    {
+      "code": "E04",
+      "name": "Nível estático disponível",
+      "question": "Onde existe valor numérico de nível estático no snapshot atual",
+      "feature_count": 3213,
+      "source": "SIAGAS_MS_20260814",
+      "limitation": "A camada indica disponibilidade. A data de medição não está disponível na extração plana e 33 zeros permanecem para revisão"
+    },
+    {
+      "code": "E05",
+      "name": "Nível dinâmico disponível",
+      "question": "Onde existe valor numérico de nível dinâmico",
+      "feature_count": 3180,
+      "source": "SIAGAS_MS_20260814",
+      "limitation": "A camada indica disponibilidade. Sem contexto completo do ensaio o valor não é interpretado isoladamente"
+    },
+    {
+      "code": "E06",
+      "name": "Vazão específica não negativa",
+      "question": "Onde existe valor de vazão específica não negativo",
+      "feature_count": 3051,
+      "source": "SIAGAS_MS_20260814 + AUDITORIA_V1",
+      "limitation": "Unidade ainda não congelada documentalmente. Não comparar magnitudes até resolver a unidade"
+    },
+    {
+      "code": "E07",
+      "name": "Ensaio de bombeamento cadastrado",
+      "question": "Onde o snapshot enriquecido SGB 2024 informa tipo de ensaio",
+      "feature_count": 1106,
+      "source": "SGB_HIDRO_MS_2024_POCOS",
+      "limitation": "Existência cadastral do ensaio não demonstra qualidade metodológica nem adequação para estimar parâmetros"
+    },
+    {
+      "code": "E08",
+      "name": "Ensaio com metadados mínimos de cadastro",
+      "question": "Onde o registro contém um conjunto mínimo explícito de metadados de ensaio",
+      "feature_count": 1096,
+      "source": "SGB_HIDRO_MS_2024_POCOS",
+      "limitation": "Esta é uma classe documental, não uma certificação de validade hidrogeológica do ensaio"
+    },
+    {
+      "code": "E09",
+      "name": "Transmissividade informada",
+      "question": "Onde existe número de transmissividade no snapshot histórico enriquecido",
+      "feature_count": 51,
+      "source": "SGB_HIDRO_MS_2024_POCOS",
+      "limitation": "Unidade e método não estão documentados para a maioria. A camada mapeia disponibilidade, não qualidade do parâmetro"
+    },
+    {
+      "code": "E10",
+      "name": "Evidência hidroquímica e físico-química parcial",
+      "question": "Onde existe pelo menos um campo físico-químico ou químico na extração atual",
+      "feature_count": 2053,
+      "source": "SIAGAS_MS_20260814",
+      "limitation": "Não representa análise hidroquímica completa. O parâmetro químico massivo identificado é sólidos dissolvidos totais"
+    },
+    {
+      "code": "E11",
+      "name": "Última evidência hidrogeológica datada",
+      "question": "Onde existe data explícita de ensaio hidráulico ou amostragem/análise química e qual é a mais recente",
+      "feature_count": 1637,
+      "source": "SGB_HIDRO_MS_2024_POCOS",
+      "limitation": "A camada não demonstra série temporal. Um único evento datado continua sendo uma única observação temporal"
+    },
+    {
+      "code": "E12",
+      "name": "Revisão hidroestratigráfica necessária",
+      "question": "Onde a comparação entre cadastro e cartografia exige revisão manual",
+      "feature_count": 1823,
+      "source": "SIAGAS_MS_20260814 + SGB_HIDRO_MS_2024 + AUDITORIA_V1",
+      "limitation": "Divergência cartográfica não conclusiva não é tratada como contradição. Um poço pode captar unidade profunda"
+    }
+  ],
+  "evidence_feature_placements_n": 27598,
+  "evidence_feature_note": "Soma das feições armazenadas nas 12 camadas. Um mesmo poço pode integrar várias evidências e não deve ser contado como novo poço em cada camada.",
+  "knowledge_dimensions": [
+    {
+      "dimension": "ESPACIAL",
+      "state_field": "spatial_state",
+      "what_it_describes": "Validade e alertas objetivos da localização",
+      "what_it_does_not_mean": "Não mede representatividade hidrogeológica e não interpreta proximidade como qualidade",
+      "method_version": "PIH_MS_V2.2_CHE_V1",
+      "cutoff_date": "2026-08-29"
+    },
+    {
+      "dimension": "HIDROESTRATIGRAFICA",
+      "state_field": "hydrostrat_state",
+      "what_it_describes": "Estado da comparação entre cadastro e referência cartográfica",
+      "what_it_does_not_mean": "Divergência cartográfica não conclusiva não é contradição demonstrada",
+      "method_version": "PIH_MS_V2.2_CHE_V1",
+      "cutoff_date": "2026-08-29"
+    },
+    {
+      "dimension": "VERTICAL",
+      "state_field": "vertical_state",
+      "what_it_describes": "Profundidade total e metadados verticais disponíveis",
+      "what_it_does_not_mean": "Topo e base brutos não são tratados como intervalo captado",
+      "method_version": "PIH_MS_V2.2_CHE_V1",
+      "cutoff_date": "2026-08-29"
+    },
+    {
+      "dimension": "HIDRAULICA",
+      "state_field": "hydraulic_state",
+      "what_it_describes": "Componentes hidráulicos documentados em níveis graduais de completude",
+      "what_it_does_not_mean": "Transmissividade informada não é parâmetro validado",
+      "method_version": "PIH_MS_V2.2_CHE_V1",
+      "cutoff_date": "2026-08-29"
+    },
+    {
+      "dimension": "HIDROQUIMICA",
+      "state_field": "hydrochemical_state",
+      "what_it_describes": "Presença de evidência hidroquímica parcial e data",
+      "what_it_does_not_mean": "Não demonstra painel completo, unidade validada ou comparabilidade analítica",
+      "method_version": "PIH_MS_V2.2_CHE_V1",
+      "cutoff_date": "2026-08-29"
+    },
+    {
+      "dimension": "TEMPORAL",
+      "state_field": "temporal_state",
+      "what_it_describes": "Presença e diversidade de evidência datada",
+      "what_it_does_not_mean": "Uma ou mais datas isoladas não formam série temporal",
+      "method_version": "PIH_MS_V2.2_CHE_V1",
+      "cutoff_date": "2026-08-29"
+    },
+    {
+      "dimension": "INDEPENDENCIA",
+      "state_field": "independence_state",
+      "what_it_describes": "Estado da independência hidrogeológica",
+      "what_it_does_not_mean": "Redundância espacial ou documental não demonstra independência hidrogeológica",
+      "method_version": "PIH_MS_V2.2_CHE_V1",
+      "cutoff_date": "2026-08-29"
+    },
+    {
+      "dimension": "QUALIDADE_DOCUMENTAL",
+      "state_field": "documentary_state",
+      "what_it_describes": "Alertas objetivos preservados sem correção silenciosa",
+      "what_it_does_not_mean": "Ausência de alerta nas regras atuais não certifica qualidade total",
+      "method_version": "PIH_MS_V2.2_CHE_V1",
+      "cutoff_date": "2026-08-29"
+    },
+    {
+      "dimension": "INCERTEZA",
+      "state_field": "uncertainty_state",
+      "what_it_describes": "Códigos explícitos de desconhecimento e limitação",
+      "what_it_does_not_mean": "Os códigos não são somados e não produzem escore",
+      "method_version": "PIH_MS_V2.2_CHE_V1",
+      "cutoff_date": "2026-08-29"
+    }
+  ],
+  "questions": [
+    {
+      "question_code": "Q01",
+      "question_name": "Nível e profundidade da água",
+      "question_objective": "Avaliar se o conjunto adquirido permite interpretar uma observação pontual de nível de água no contexto construtivo e hidrogeológico do poço.",
+      "direct_evidence_definition": "Nível estático informado no conjunto adquirido.",
+      "minimum_documentary_definition": "Coordenada válida, nível estático, data explícita da medição, profundidade positiva, intervalo captado demonstrado, atribuição hidroestratigráfica consistente e ausência de valor objetivamente inválido nas regras atuais.",
+      "cell_interpretation": "Presença local de registros documentais. Não demonstra superfície potenciométrica, tendência, independência ou representatividade da célula.",
+      "source_ids": "IN02|IN03|OF02|OF04",
+      "universal_numeric_threshold_used": "False",
+      "weight_used": "False",
+      "score_used": "False",
+      "cutoff_date": "2026-08-29",
+      "method_version": "PIH_MS_V2.4_SUF_PERGUNTA_V1",
+      "requirements_n": 7,
+      "summary": {
+        "question_code": "Q01",
+        "question_name": "Nível e profundidade da água",
+        "n_wells": "3877",
+        "direct_evidence_n": "3213",
+        "minimum_documentary_n": "0",
+        "partial_evidence_n": "1869",
+        "review_evidence_n": "1344",
+        "unknown_evidence_n": "664",
+        "top_blocking_requirements": "Q01_R05=3877|Q01_R03=3857|Q01_R06=2244|Q01_R02=664|Q01_R04=463|Q01_R07=3",
+        "representative_wells_n": "0",
+        "weights_used": "False",
+        "score_used": "False",
+        "method_version": "PIH_MS_V2.4_SUF_PERGUNTA_V1"
+      }
+    },
+    {
+      "question_code": "Q02",
+      "question_name": "Propriedades hidráulicas",
+      "question_objective": "Avaliar se há documentação suficiente para interpretar uma propriedade hidráulica derivada de ensaio de poço.",
+      "direct_evidence_definition": "Capacidade específica não negativa, ensaio cadastrado ou transmissividade informada.",
+      "minimum_documentary_definition": "Coordenada válida, intervalo captado, atribuição hidroestratigráfica consistente, ensaio com metadados mínimos, data, método interpretativo, parâmetro informado, unidade verificada e ausência de valor objetivamente inválido nas regras atuais.",
+      "cell_interpretation": "Presença local de ensaio documentado. Não demonstra comparabilidade entre ensaios nem parâmetro representativo da célula.",
+      "source_ids": "HY01|HY02|HY06|OF02",
+      "universal_numeric_threshold_used": "False",
+      "weight_used": "False",
+      "score_used": "False",
+      "cutoff_date": "2026-08-29",
+      "method_version": "PIH_MS_V2.4_SUF_PERGUNTA_V1",
+      "requirements_n": 9,
+      "summary": {
+        "question_code": "Q02",
+        "question_name": "Propriedades hidráulicas",
+        "n_wells": "3877",
+        "direct_evidence_n": "3081",
+        "minimum_documentary_n": "0",
+        "partial_evidence_n": "1791",
+        "review_evidence_n": "1290",
+        "unknown_evidence_n": "796",
+        "top_blocking_requirements": "Q02_R02=3877|Q02_R08=3877|Q02_R06=3875|Q02_R07=3826|Q02_R04=2781|Q02_R05=2296|Q02_R03=2244|Q02_R09=3",
+        "representative_wells_n": "0",
+        "weights_used": "False",
+        "score_used": "False",
+        "method_version": "PIH_MS_V2.4_SUF_PERGUNTA_V1"
+      }
+    },
+    {
+      "question_code": "Q03",
+      "question_name": "Hidroquímica",
+      "question_objective": "Avaliar se um resultado químico pode ser interpretado no contexto do poço, da amostragem e do controle de qualidade.",
+      "direct_evidence_definition": "Ao menos uma evidência hidroquímica ou físico-química parcial.",
+      "minimum_documentary_definition": "Coordenada válida, intervalo captado, atribuição hidroestratigráfica consistente, amostra ou resultado, data, parâmetro, unidade verificada, QA analítico demonstrado e ausência de valor objetivamente inválido nas regras atuais.",
+      "cell_interpretation": "Presença local de resultado documentado. Não demonstra qualidade natural, contaminação, tendência ou comparabilidade regional.",
+      "source_ids": "HY07|HY08|OF08|BR01",
+      "universal_numeric_threshold_used": "False",
+      "weight_used": "False",
+      "score_used": "False",
+      "cutoff_date": "2026-08-29",
+      "method_version": "PIH_MS_V2.4_SUF_PERGUNTA_V1",
+      "requirements_n": 9,
+      "summary": {
+        "question_code": "Q03",
+        "question_name": "Hidroquímica",
+        "n_wells": "3877",
+        "direct_evidence_n": "2053",
+        "minimum_documentary_n": "0",
+        "partial_evidence_n": "1195",
+        "review_evidence_n": "858",
+        "unknown_evidence_n": "1824",
+        "top_blocking_requirements": "Q03_R02=3877|Q03_R07=3877|Q03_R08=3877|Q03_R05=3347|Q03_R03=2244|Q03_R06=2110|Q03_R04=1824|Q03_R09=3",
+        "representative_wells_n": "0",
+        "weights_used": "False",
+        "score_used": "False",
+        "method_version": "PIH_MS_V2.4_SUF_PERGUNTA_V1"
+      }
+    },
+    {
+      "question_code": "Q04",
+      "question_name": "Geometria e estratigrafia do aquífero",
+      "question_objective": "Avaliar se o poço possui informação vertical suficiente para relacionar construção, perfil e intervalo efetivamente captado.",
+      "direct_evidence_definition": "Profundidade positiva ou metadado vertical documentado.",
+      "minimum_documentary_definition": "Coordenada válida, profundidade positiva, perfil litológico explícito, intervalo captado demonstrado, atribuição hidroestratigráfica consistente e ausência de valor objetivamente inválido nas regras atuais.",
+      "cell_interpretation": "Presença local de documentação vertical. Não demonstra geometria tridimensional contínua do aquífero.",
+      "source_ids": "IN01|IN03|IN04|OF01|OF02",
+      "universal_numeric_threshold_used": "False",
+      "weight_used": "False",
+      "score_used": "False",
+      "cutoff_date": "2026-08-29",
+      "method_version": "PIH_MS_V2.4_SUF_PERGUNTA_V1",
+      "requirements_n": 6,
+      "summary": {
+        "question_code": "Q04",
+        "question_name": "Geometria e estratigrafia do aquífero",
+        "n_wells": "3877",
+        "direct_evidence_n": "3415",
+        "minimum_documentary_n": "0",
+        "partial_evidence_n": "2012",
+        "review_evidence_n": "1403",
+        "unknown_evidence_n": "462",
+        "top_blocking_requirements": "Q04_R03=3877|Q04_R04=3877|Q04_R05=2244|Q04_R02=463|Q04_R06=3",
+        "representative_wells_n": "0",
+        "weights_used": "False",
+        "score_used": "False",
+        "method_version": "PIH_MS_V2.4_SUF_PERGUNTA_V1"
+      }
+    },
+    {
+      "question_code": "Q05",
+      "question_name": "Monitoramento temporal",
+      "question_objective": "Avaliar se existe uma série adquirida da mesma variável que permita estudar mudança no tempo.",
+      "direct_evidence_definition": "Ao menos um evento hidrogeológico datado.",
+      "minimum_documentary_definition": "Coordenada válida, série da mesma variável demonstrada, datas explícitas, intervalo captado, atribuição hidroestratigráfica consistente, identificação da variável, controle documental e ausência de valor objetivamente inválido nas regras atuais.",
+      "cell_interpretation": "Presença local de eventos datados. Não demonstra continuidade, tendência ou cobertura temporal da célula.",
+      "source_ids": "IN02|IN03|OF04|FU04|FU05",
+      "universal_numeric_threshold_used": "False",
+      "weight_used": "False",
+      "score_used": "False",
+      "cutoff_date": "2026-08-29",
+      "method_version": "PIH_MS_V2.4_SUF_PERGUNTA_V1",
+      "requirements_n": 8,
+      "summary": {
+        "question_code": "Q05",
+        "question_name": "Monitoramento temporal",
+        "n_wells": "3877",
+        "direct_evidence_n": "1637",
+        "minimum_documentary_n": "0",
+        "partial_evidence_n": "962",
+        "review_evidence_n": "675",
+        "unknown_evidence_n": "2240",
+        "top_blocking_requirements": "Q05_R02=3877|Q05_R04=3877|Q05_R06=3877|Q05_R07=3877|Q05_R05=2244|Q05_R03=2240|Q05_R08=3",
+        "representative_wells_n": "0",
+        "weights_used": "False",
+        "score_used": "False",
+        "method_version": "PIH_MS_V2.4_SUF_PERGUNTA_V1"
+      }
+    }
+  ],
+  "requirement_dimensions": [
+    {
+      "dimension": "ESPACIAL",
+      "requirements_n": 5
+    },
+    {
+      "dimension": "HIDRAULICA",
+      "requirements_n": 5
+    },
+    {
+      "dimension": "HIDROESTRATIGRAFICA",
+      "requirements_n": 5
+    },
+    {
+      "dimension": "HIDROQUIMICA",
+      "requirements_n": 4
+    },
+    {
+      "dimension": "INDEPENDENCIA",
+      "requirements_n": 1
+    },
+    {
+      "dimension": "QUALIDADE_DOCUMENTAL",
+      "requirements_n": 5
+    },
+    {
+      "dimension": "TEMPORAL",
+      "requirements_n": 6
+    },
+    {
+      "dimension": "VERTICAL",
+      "requirements_n": 8
+    }
+  ],
+  "module_inventory": [
+    {
+      "csv_files_n": 11,
+      "physical_rows_n": 32448,
+      "bytes_n": 18877702,
+      "max_columns_n": 79,
+      "id": "effective_knowledge",
+      "name": "Conhecimento hidrogeológico efetivo",
+      "historical": false
+    },
+    {
+      "csv_files_n": 14,
+      "physical_rows_n": 27622,
+      "bytes_n": 3643322,
+      "max_columns_n": 19,
+      "id": "evidence",
+      "name": "Evidências E01 a E12",
+      "historical": false
+    },
+    {
+      "csv_files_n": 8,
+      "physical_rows_n": 117442,
+      "bytes_n": 23372564,
+      "max_columns_n": 60,
+      "id": "grid_evidence",
+      "name": "Malhas de evidência",
+      "historical": false
+    },
+    {
+      "csv_files_n": 6,
+      "physical_rows_n": 35906,
+      "bytes_n": 6348778,
+      "max_columns_n": 78,
+      "id": "grid_evidence_historical_candidate_v13",
+      "name": "Malhas históricas preservadas",
+      "historical": true
+    },
+    {
+      "csv_files_n": 11,
+      "physical_rows_n": 12965,
+      "bytes_n": 2450411,
+      "max_columns_n": 49,
+      "id": "independence_redundancy",
+      "name": "Independência e redundância",
+      "historical": false
+    },
+    {
+      "csv_files_n": 15,
+      "physical_rows_n": 225164,
+      "bytes_n": 62564941,
+      "max_columns_n": 52,
+      "id": "question_sufficiency",
+      "name": "Suficiência por pergunta",
+      "historical": false
+    },
+    {
+      "csv_files_n": 14,
+      "physical_rows_n": 482904,
+      "bytes_n": 88773205,
+      "max_columns_n": 107,
+      "id": "research_priority",
+      "name": "Prioridade de investigação por pergunta",
+      "historical": false
+    },
+    {
+      "csv_files_n": 11,
+      "physical_rows_n": 9379,
+      "bytes_n": 2343381,
+      "max_columns_n": 32,
+      "id": "scale_study",
+      "name": "Estudo de escalas",
+      "historical": false
+    },
+    {
+      "csv_files_n": 13,
+      "physical_rows_n": 23587,
+      "bytes_n": 14732581,
+      "max_columns_n": 101,
+      "id": "spatial_structure",
+      "name": "Estrutura espacial",
+      "historical": false
+    },
+    {
+      "csv_files_n": 10,
+      "physical_rows_n": 2945,
+      "bytes_n": 3411528,
+      "max_columns_n": 100,
+      "id": "spatial_structure_historical_candidate_v16",
+      "name": "Estrutura espacial histórica",
+      "historical": true
+    },
+    {
+      "csv_files_n": 17,
+      "physical_rows_n": 1040307,
+      "bytes_n": 228619175,
+      "max_columns_n": 46,
+      "id": "stability_sensitivity",
+      "name": "Estabilidade e sensibilidade",
+      "historical": false
+    },
+    {
+      "csv_files_n": 9,
+      "physical_rows_n": 14491,
+      "bytes_n": 1105096,
+      "max_columns_n": 26,
+      "id": "stratified_scale",
+      "name": "Estratificação hidrogeológica",
+      "historical": false
+    },
+    {
+      "csv_files_n": 24,
+      "physical_rows_n": 20508,
+      "bytes_n": 4289898,
+      "max_columns_n": 44,
+      "id": "vertical_temporal",
+      "name": "Documentação vertical e temporal",
+      "historical": false
+    }
+  ],
+  "source_audit_tables": [
+    {
+      "file": "aquifer_assignment_audit.csv",
+      "rows_n": 3877,
+      "columns_n": 11
+    },
+    {
+      "file": "chem_results.csv",
+      "rows_n": 2557,
+      "columns_n": 8
+    },
+    {
+      "file": "chem_samples.csv",
+      "rows_n": 1970,
+      "columns_n": 6
+    },
+    {
+      "file": "coordinate_quality.csv",
+      "rows_n": 3877,
+      "columns_n": 12
+    },
+    {
+      "file": "data_quality_flags.csv",
+      "rows_n": 5320,
+      "columns_n": 8
+    },
+    {
+      "file": "duplicate_candidates.csv",
+      "rows_n": 29,
+      "columns_n": 7
+    },
+    {
+      "file": "hydraulic_parameters.csv",
+      "rows_n": 7493,
+      "columns_n": 9
+    },
+    {
+      "file": "pumping_tests.csv",
+      "rows_n": 1591,
+      "columns_n": 12
+    },
+    {
+      "file": "variable_completeness_matrix.csv",
+      "rows_n": 14,
+      "columns_n": 11
+    },
+    {
+      "file": "well_evidence_presence.csv",
+      "rows_n": 3877,
+      "columns_n": 21
+    },
+    {
+      "file": "wells_master.csv",
+      "rows_n": 3877,
+      "columns_n": 60
+    }
+  ],
+  "scale_effect": [
+    {
+      "scale_km2": "100",
+      "grid_family": "SCALE_PRIMARY_O00_V1",
+      "n_cells": "3763",
+      "cells_with_wells": "774",
+      "cells_without_wells": "2989",
+      "pct_cells_with_wells": "20.57",
+      "cells_with_one_well": "337",
+      "median_wells_in_occupied_cells": "2.0",
+      "p90_wells_in_occupied_cells": "11.0",
+      "max_wells_in_cell": "147",
+      "cells_with_E02": "676",
+      "cells_without_E02_despite_wells": "98",
+      "cells_with_E03": "626",
+      "cells_without_E03_despite_wells": "148",
+      "cells_with_E04": "654",
+      "cells_without_E04_despite_wells": "120",
+      "cells_with_E05": "648",
+      "cells_without_E05_despite_wells": "126",
+      "cells_with_E06": "637",
+      "cells_without_E06_despite_wells": "137",
+      "cells_with_E07": "293",
+      "cells_without_E07_despite_wells": "481",
+      "cells_with_E08": "292",
+      "cells_without_E08_despite_wells": "482",
+      "cells_with_E09": "37",
+      "cells_without_E09_despite_wells": "737",
+      "cells_with_E10": "532",
+      "cells_without_E10_despite_wells": "242",
+      "cells_with_E11": "377",
+      "cells_without_E11_despite_wells": "397",
+      "cells_with_E12": "593",
+      "cells_without_E12_despite_wells": "181"
+    },
+    {
+      "scale_km2": "150",
+      "grid_family": "SCALE_PRIMARY_O00_V1",
+      "n_cells": "2525",
+      "cells_with_wells": "657",
+      "cells_without_wells": "1868",
+      "pct_cells_with_wells": "26.02",
+      "cells_with_one_well": "253",
+      "median_wells_in_occupied_cells": "2.0",
+      "p90_wells_in_occupied_cells": "14.0",
+      "max_wells_in_cell": "181",
+      "cells_with_E02": "588",
+      "cells_without_E02_despite_wells": "69",
+      "cells_with_E03": "547",
+      "cells_without_E03_despite_wells": "110",
+      "cells_with_E04": "566",
+      "cells_without_E04_despite_wells": "91",
+      "cells_with_E05": "561",
+      "cells_without_E05_despite_wells": "96",
+      "cells_with_E06": "550",
+      "cells_without_E06_despite_wells": "107",
+      "cells_with_E07": "265",
+      "cells_without_E07_despite_wells": "392",
+      "cells_with_E08": "263",
+      "cells_without_E08_despite_wells": "394",
+      "cells_with_E09": "34",
+      "cells_without_E09_despite_wells": "623",
+      "cells_with_E10": "460",
+      "cells_without_E10_despite_wells": "197",
+      "cells_with_E11": "340",
+      "cells_without_E11_despite_wells": "317",
+      "cells_with_E12": "509",
+      "cells_without_E12_despite_wells": "148"
+    },
+    {
+      "scale_km2": "250",
+      "grid_family": "SCALE_PRIMARY_O00_V1",
+      "n_cells": "1537",
+      "cells_with_wells": "523",
+      "cells_without_wells": "1014",
+      "pct_cells_with_wells": "34.03",
+      "cells_with_one_well": "170",
+      "median_wells_in_occupied_cells": "3.0",
+      "p90_wells_in_occupied_cells": "17.0",
+      "max_wells_in_cell": "316",
+      "cells_with_E02": "470",
+      "cells_without_E02_despite_wells": "53",
+      "cells_with_E03": "436",
+      "cells_without_E03_despite_wells": "87",
+      "cells_with_E04": "454",
+      "cells_without_E04_despite_wells": "69",
+      "cells_with_E05": "451",
+      "cells_without_E05_despite_wells": "72",
+      "cells_with_E06": "443",
+      "cells_without_E06_despite_wells": "80",
+      "cells_with_E07": "239",
+      "cells_without_E07_despite_wells": "284",
+      "cells_with_E08": "238",
+      "cells_without_E08_despite_wells": "285",
+      "cells_with_E09": "31",
+      "cells_without_E09_despite_wells": "492",
+      "cells_with_E10": "374",
+      "cells_without_E10_despite_wells": "149",
+      "cells_with_E11": "291",
+      "cells_without_E11_despite_wells": "232",
+      "cells_with_E12": "433",
+      "cells_without_E12_despite_wells": "90"
+    },
+    {
+      "scale_km2": "500",
+      "grid_family": "SCALE_PRIMARY_O00_V1",
+      "n_cells": "791",
+      "cells_with_wells": "354",
+      "cells_without_wells": "437",
+      "pct_cells_with_wells": "44.75",
+      "cells_with_one_well": "82",
+      "median_wells_in_occupied_cells": "3.0",
+      "p90_wells_in_occupied_cells": "24.69999999999999",
+      "max_wells_in_cell": "391",
+      "cells_with_E02": "326",
+      "cells_without_E02_despite_wells": "28",
+      "cells_with_E03": "308",
+      "cells_without_E03_despite_wells": "46",
+      "cells_with_E04": "318",
+      "cells_without_E04_despite_wells": "36",
+      "cells_with_E05": "317",
+      "cells_without_E05_despite_wells": "37",
+      "cells_with_E06": "311",
+      "cells_without_E06_despite_wells": "43",
+      "cells_with_E07": "187",
+      "cells_without_E07_despite_wells": "167",
+      "cells_with_E08": "186",
+      "cells_without_E08_despite_wells": "168",
+      "cells_with_E09": "30",
+      "cells_without_E09_despite_wells": "324",
+      "cells_with_E10": "277",
+      "cells_without_E10_despite_wells": "77",
+      "cells_with_E11": "223",
+      "cells_without_E11_despite_wells": "131",
+      "cells_with_E12": "308",
+      "cells_without_E12_despite_wells": "46"
+    },
+    {
+      "scale_km2": "1000",
+      "grid_family": "SCALE_PRIMARY_O00_V1",
+      "n_cells": "413",
+      "cells_with_wells": "240",
+      "cells_without_wells": "173",
+      "pct_cells_with_wells": "58.11",
+      "cells_with_one_well": "43",
+      "median_wells_in_occupied_cells": "6.0",
+      "p90_wells_in_occupied_cells": "38.29999999999998",
+      "max_wells_in_cell": "474",
+      "cells_with_E02": "232",
+      "cells_without_E02_despite_wells": "8",
+      "cells_with_E03": "226",
+      "cells_without_E03_despite_wells": "14",
+      "cells_with_E04": "229",
+      "cells_without_E04_despite_wells": "11",
+      "cells_with_E05": "228",
+      "cells_without_E05_despite_wells": "12",
+      "cells_with_E06": "224",
+      "cells_without_E06_despite_wells": "16",
+      "cells_with_E07": "147",
+      "cells_without_E07_despite_wells": "93",
+      "cells_with_E08": "147",
+      "cells_without_E08_despite_wells": "93",
+      "cells_with_E09": "28",
+      "cells_without_E09_despite_wells": "212",
+      "cells_with_E10": "205",
+      "cells_without_E10_despite_wells": "35",
+      "cells_with_E11": "172",
+      "cells_without_E11_despite_wells": "68",
+      "cells_with_E12": "221",
+      "cells_without_E12_despite_wells": "19"
+    }
+  ],
+  "stability_cross_scale": [
+    {
+      "question_code": "Q01",
+      "support_points_n": "14284",
+      "exact_state_all_scales_n": "6485",
+      "exact_state_all_scales_pct": "45.400448",
+      "direct_all_scales_n": "1652",
+      "direct_all_scales_pct": "11.565388",
+      "direct_some_scales_n": "7389",
+      "direct_some_scales_pct": "51.729208",
+      "direct_no_scale_n": "5243",
+      "direct_no_scale_pct": "36.705405",
+      "monotonic_relation_asserted": "False",
+      "final_scale_selected": "False",
+      "method_version": "PIH_MS_V2.5_ESTABILIDADE_SENSIBILIDADE_V1"
+    },
+    {
+      "question_code": "Q02",
+      "support_points_n": "14284",
+      "exact_state_all_scales_n": "6446",
+      "exact_state_all_scales_pct": "45.127415",
+      "direct_all_scales_n": "1611",
+      "direct_all_scales_pct": "11.278353",
+      "direct_some_scales_n": "7285",
+      "direct_some_scales_pct": "51.00112",
+      "direct_no_scale_n": "5388",
+      "direct_no_scale_pct": "37.720526",
+      "monotonic_relation_asserted": "False",
+      "final_scale_selected": "False",
+      "method_version": "PIH_MS_V2.5_ESTABILIDADE_SENSIBILIDADE_V1"
+    },
+    {
+      "question_code": "Q03",
+      "support_points_n": "14284",
+      "exact_state_all_scales_n": "6174",
+      "exact_state_all_scales_pct": "43.223187",
+      "direct_all_scales_n": "1297",
+      "direct_all_scales_pct": "9.08009",
+      "direct_some_scales_n": "6849",
+      "direct_some_scales_pct": "47.948754",
+      "direct_no_scale_n": "6138",
+      "direct_no_scale_pct": "42.971157",
+      "monotonic_relation_asserted": "False",
+      "final_scale_selected": "False",
+      "method_version": "PIH_MS_V2.5_ESTABILIDADE_SENSIBILIDADE_V1"
+    },
+    {
+      "question_code": "Q04",
+      "support_points_n": "14284",
+      "exact_state_all_scales_n": "6568",
+      "exact_state_all_scales_pct": "45.981518",
+      "direct_all_scales_n": "1739",
+      "direct_all_scales_pct": "12.174461",
+      "direct_some_scales_n": "7406",
+      "direct_some_scales_pct": "51.848222",
+      "direct_no_scale_n": "5139",
+      "direct_no_scale_pct": "35.977317",
+      "monotonic_relation_asserted": "False",
+      "final_scale_selected": "False",
+      "method_version": "PIH_MS_V2.5_ESTABILIDADE_SENSIBILIDADE_V1"
+    },
+    {
+      "question_code": "Q05",
+      "support_points_n": "14284",
+      "exact_state_all_scales_n": "5818",
+      "exact_state_all_scales_pct": "40.730888",
+      "direct_all_scales_n": "812",
+      "direct_all_scales_pct": "5.684682",
+      "direct_some_scales_n": "6358",
+      "direct_some_scales_pct": "44.511341",
+      "direct_no_scale_n": "7114",
+      "direct_no_scale_pct": "49.803976",
+      "monotonic_relation_asserted": "False",
+      "final_scale_selected": "False",
+      "method_version": "PIH_MS_V2.5_ESTABILIDADE_SENSIBILIDADE_V1"
+    }
+  ],
+  "priority_totals": {
+    "priority_unknown_n": 32405,
+    "priority_p1_critical_n": 2801,
+    "priority_p2_high_n": 5448,
+    "priority_p3_moderate_n": 4491,
+    "priority_p4_low_n": 0,
+    "priority_p5_documentary_sufficiency_n": 0
+  },
+  "confidence_totals": {
+    "confidence_unknown_n": 32430,
+    "confidence_c1_very_low_n": 2229,
+    "confidence_c2_low_n": 3783,
+    "confidence_c3_moderate_n": 5512,
+    "confidence_c4_high_n": 873,
+    "confidence_c5_very_high_n": 318
+  },
+  "priority_by_question": [
+    {
+      "question_code": "Q01",
+      "question_name": "Nível e profundidade da água",
+      "cell_scale_records_n": 9029,
+      "priority_unknown_n": 6481,
+      "priority_p1_critical_n": 327,
+      "priority_p2_high_n": 959,
+      "priority_p3_moderate_n": 1262,
+      "priority_p4_low_n": 0,
+      "priority_p5_documentary_sufficiency_n": 0
+    },
+    {
+      "question_code": "Q02",
+      "question_name": "Propriedades hidráulicas",
+      "cell_scale_records_n": 9029,
+      "priority_unknown_n": 6481,
+      "priority_p1_critical_n": 373,
+      "priority_p2_high_n": 1551,
+      "priority_p3_moderate_n": 624,
+      "priority_p4_low_n": 0,
+      "priority_p5_documentary_sufficiency_n": 0
+    },
+    {
+      "question_code": "Q03",
+      "question_name": "Hidroquímica",
+      "cell_scale_records_n": 9029,
+      "priority_unknown_n": 6481,
+      "priority_p1_critical_n": 700,
+      "priority_p2_high_n": 1352,
+      "priority_p3_moderate_n": 496,
+      "priority_p4_low_n": 0,
+      "priority_p5_documentary_sufficiency_n": 0
+    },
+    {
+      "question_code": "Q04",
+      "question_name": "Geometria e estratigrafia do aquífero",
+      "cell_scale_records_n": 9029,
+      "priority_unknown_n": 6481,
+      "priority_p1_critical_n": 256,
+      "priority_p2_high_n": 1000,
+      "priority_p3_moderate_n": 1292,
+      "priority_p4_low_n": 0,
+      "priority_p5_documentary_sufficiency_n": 0
+    },
+    {
+      "question_code": "Q05",
+      "question_name": "Monitoramento temporal",
+      "cell_scale_records_n": 9029,
+      "priority_unknown_n": 6481,
+      "priority_p1_critical_n": 1145,
+      "priority_p2_high_n": 586,
+      "priority_p3_moderate_n": 817,
+      "priority_p4_low_n": 0,
+      "priority_p5_documentary_sufficiency_n": 0
+    }
+  ],
+  "key_findings": [
+    {
+      "label": "Poços canônicos preservados",
+      "value": 3877,
+      "unit": "poços"
+    },
+    {
+      "label": "Coordenadas para revisão",
+      "value": 111,
+      "unit": "poços"
+    },
+    {
+      "label": "Hidroestratigrafia UNKNOWN",
+      "value": 842,
+      "unit": "poços"
+    },
+    {
+      "label": "Revisão hidroestratigráfica",
+      "value": 981,
+      "unit": "poços"
+    },
+    {
+      "label": "Profundidade total positiva",
+      "value": 3414,
+      "unit": "poços"
+    },
+    {
+      "label": "Intervalo captado completo",
+      "value": 0,
+      "unit": "poços"
+    },
+    {
+      "label": "Ensaios com metadados mínimos",
+      "value": 1096,
+      "unit": "poços"
+    },
+    {
+      "label": "Transmissividade informada",
+      "value": 51,
+      "unit": "poços"
+    },
+    {
+      "label": "Hidroquímica parcial",
+      "value": 2053,
+      "unit": "poços"
+    },
+    {
+      "label": "Evidência datada",
+      "value": 1637,
+      "unit": "poços"
+    },
+    {
+      "label": "Série temporal completa",
+      "value": 0,
+      "unit": "poços"
+    },
+    {
+      "label": "Independência demonstrada",
+      "value": 0,
+      "unit": "poços"
+    },
+    {
+      "label": "Alertas documentais",
+      "value": 2191,
+      "unit": "poços"
+    },
+    {
+      "label": "Valores objetivamente inválidos",
+      "value": 3,
+      "unit": "poços"
+    }
+  ],
+  "interface_inventory": {
+    "direct_checkbox_layers_n": 51,
+    "analytical_modules_n": 10,
+    "selector_inventory": [
+      {
+        "module": "Conhecimento efetivo",
+        "scales_n": 5,
+        "questions_n": null,
+        "metrics_n": 10,
+        "origins_n": null
+      },
+      {
+        "module": "Suficiência por pergunta",
+        "scales_n": 5,
+        "questions_n": 5,
+        "metrics_n": null,
+        "origins_n": null
+      },
+      {
+        "module": "Estabilidade e sensibilidade",
+        "scales_n": 5,
+        "questions_n": 5,
+        "metrics_n": 6,
+        "origins_n": 4
+      },
+      {
+        "module": "Independência e redundância",
+        "scales_n": 5,
+        "questions_n": null,
+        "metrics_n": 13,
+        "origins_n": null
+      },
+      {
+        "module": "Vertical e temporal",
+        "scales_n": 5,
+        "questions_n": null,
+        "metrics_n": 15,
+        "origins_n": null
+      },
+      {
+        "module": "Estratificação",
+        "scales_n": 5,
+        "questions_n": null,
+        "metrics_n": 16,
+        "origins_n": null
+      },
+      {
+        "module": "Estudo de escalas",
+        "scales_n": 5,
+        "questions_n": null,
+        "metrics_n": 10,
+        "origins_n": null
+      },
+      {
+        "module": "Estrutura espacial",
+        "scales_n": 5,
+        "questions_n": null,
+        "metrics_n": 6,
+        "origins_n": null
+      },
+      {
+        "module": "Malhas de evidência",
+        "scales_n": 5,
+        "questions_n": null,
+        "metrics_n": null,
+        "origins_n": null
+      },
+      {
+        "module": "Prioridade por pergunta",
+        "scales_n": 5,
+        "questions_n": 5,
+        "metrics_n": 8,
+        "origins_n": null
+      }
+    ],
+    "sgb_2024_vector_layers_n": 13,
+    "sgb_2024_raster_families_n": 4
+  },
+  "documentation_inventory": {
+    "documented_fields_n": 1045,
+    "bibliographic_references_n": 55,
+    "summary_datasets_n": 20,
+    "summary_rows_n": 291,
+    "summary_column_placements_n": 277,
+    "well_detail_shards_n": 64,
+    "wells_in_shards_n": 3877
+  },
+  "scientific_limits": [
+    "Não calcula potencial aquífero.",
+    "Não produz prioridade integrada entre as cinco perguntas.",
+    "Não usa pesos nem nota numérica compensatória.",
+    "Não interpola nem prediz valores entre poços.",
+    "Não converte UNKNOWN em zero, ausência física ou prioridade automática.",
+    "Não demonstra representatividade territorial dos poços.",
+    "Não demonstra independência hidrogeológica entre registros.",
+    "Não seleciona uma escala ou origem de malha como definitiva."
+  ],
+  "documentation_links": [
+    [
+      "Guia de resultados",
+      "guia-resultados.html"
+    ],
+    [
+      "Prioridade por pergunta",
+      "metodologia-prioridade-investigacao.html"
+    ],
+    [
+      "Estabilidade e sensibilidade",
+      "metodologia-estabilidade-sensibilidade.html"
+    ],
+    [
+      "Suficiência por pergunta",
+      "metodologia-suficiencia-pergunta.html"
+    ],
+    [
+      "Conhecimento efetivo",
+      "metodologia-conhecimento-efetivo.html"
+    ],
+    [
+      "Independência e redundância",
+      "metodologia-independencia-redundancia.html"
+    ],
+    [
+      "Vertical e temporal",
+      "metodologia-vertical-temporal.html"
+    ],
+    [
+      "Estratificação hidrogeológica",
+      "metodologia-estratificacao-hidrogeologica.html"
+    ],
+    [
+      "Escalas candidatas",
+      "metodologia-escalas-candidatas.html"
+    ],
+    [
+      "Estrutura espacial",
+      "metodologia-estrutura-espacial.html"
+    ],
+    [
+      "Malhas de evidência",
+      "metodologia-malhas-evidencia.html"
+    ],
+    [
+      "Evidências E01 a E12",
+      "metodologia-evidencias.html"
+    ],
+    [
+      "Dicionário de parâmetros",
+      "dicionario-parametros.html"
+    ],
+    [
+      "Bibliografia",
+      "bibliografia.html"
+    ]
+  ]
+}

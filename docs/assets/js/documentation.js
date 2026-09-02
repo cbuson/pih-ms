@@ -19,7 +19,7 @@
   const mainLinks = [
     ['index.html', 'Mapa', '_top'],
     ['guia-resultados.html', 'Guia', '_self'],
-    ['index.html?open=stats', 'Estatísticas', '_top'],
+    ['estatisticas-estudo-completo.html', 'Estudo completo', '_self'],
     ['dicionario-parametros.html', 'Dicionário', '_self'],
     ['bibliografia.html', 'Bibliografia', '_self'],
     ['autoria-direitos.html', 'Autoria', '_self']
@@ -54,8 +54,8 @@
   header.innerHTML = `
     <div class="pih-docbar-inner">
       <a class="pih-doc-brand" href="index.html" target="_top" aria-label="Voltar ao mapa PIH MS">
-        <span class="pih-doc-brand-mark" aria-hidden="true">PIH</span>
-        <span class="pih-doc-brand-copy"><strong>Documentação PIH MS</strong><small>V2.7 · experiência móvel e PWA</small></span>
+        <span class="pih-doc-brand-mark pih-doc-brand-icon" aria-hidden="true"><img src="assets/img/pih-ms-icon.svg" alt=""></span>
+        <span class="pih-doc-brand-copy"><strong>Documentação PIH MS</strong><small>V2.7.1 · estudo estatístico completo</small></span>
       </a>
       <button class="pih-doc-menu-toggle" type="button" aria-expanded="false" aria-controls="pihDocNav">Seções</button>
       <nav class="pih-doc-nav" id="pihDocNav" aria-label="Navegação da documentação">
@@ -143,7 +143,7 @@
 
   const footer = document.createElement('footer');
   footer.className = 'pih-doc-footer';
-  footer.innerHTML = `<div class="pih-doc-footer-inner"><div><strong>PIH MS · documentação unificada V2.7</strong><small>Prioridade e confiança separadas · UNKNOWN permanece distinto de zero</small></div><div><a href="index.html?open=author" target="_top">Autoria, direitos e licenças</a></div></div>`;
+  footer.innerHTML = `<div class="pih-doc-footer-inner"><div><strong>PIH MS · documentação unificada V2.7.1</strong><small>Prioridade e confiança separadas · UNKNOWN permanece distinto de zero</small></div><div><a href="index.html?open=author" target="_top">Autoria, direitos e licenças</a></div></div>`;
   document.body.append(footer);
 
   const topButton = document.createElement('button');

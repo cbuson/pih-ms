@@ -1,21 +1,23 @@
 /* SPDX-License-Identifier: AGPL-3.0-or-later */
-const SHELL_CACHE = 'pih-ms-shell-v270000';
-const RUNTIME_CACHE = 'pih-ms-runtime-v270000';
+const SHELL_CACHE = 'pih-ms-shell-v271000';
+const RUNTIME_CACHE = 'pih-ms-runtime-v271000';
 const APP_SHELL = [
   './',
   './index.html',
   './offline.html',
   './manifest.webmanifest',
-  './assets/css/pih.css?v=270000',
-  './assets/css/pih-mobile.css?v=270000',
-  './assets/css/pih-visual-controls.css?v=270000',
-  './assets/css/pih-v27.css?v=270000',
-  './assets/js/pih.js?v=270000',
-  './assets/js/metric-help.js?v=270000',
-  './assets/js/pih-mobile.js?v=270000',
-  './assets/js/pih-visual-controls.js?v=270000',
-  './assets/js/pih-stats-visual.js?v=270000',
-  './assets/js/pih-pwa.js?v=270000',
+  './assets/css/pih.css?v=271000',
+  './assets/css/pih-mobile.css?v=271000',
+  './assets/css/pih-visual-controls.css?v=271000',
+  './assets/css/pih-v27.css?v=271000',
+  './assets/css/pih-v271.css?v=271000',
+  './assets/js/pih.js?v=271000',
+  './assets/js/metric-help.js?v=271000',
+  './assets/js/pih-mobile.js?v=271000',
+  './assets/js/pih-visual-controls.js?v=271000',
+  './assets/js/pih-stats-visual.js?v=271000',
+  './assets/js/pih-stats-full.js?v=271000',
+  './assets/js/pih-pwa.js?v=271000',
   './assets/img/mi-posicao-ms.svg',
   './assets/img/pih-ms-icon.svg',
   './assets/img/pih-ms-icon-192.png',

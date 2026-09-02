@@ -1,6 +1,23 @@
-# PIH MS V2.7 · experiência móvel, estatísticas visuais e PWA
+# PIH MS V2.7.1 · estudo estatístico completo e identidade hexagonal
 
 Prioridade de Investigação Hidrogeológica de Mato Grosso do Sul.
+
+## Estudo estatístico completo V2.7.1
+
+A V2.7.1 torna visível a dimensão total do trabalho sem recalcular a ciência experimental V2.6.
+
+- nova gota de água dentro de um hexágono no cabeçalho, no navegador e na instalação
+- terceira vista `Estudo completo` dentro de Estatísticas
+- página documental independente para leitura prolongada
+- inventário reproduzível do pacote, dos CSV, das matrizes e dos módulos
+- percurso metodológico desde a auditoria das fontes até a prioridade por pergunta
+- 12 evidências, nove dimensões, cinco perguntas e 39 requisitos descritos
+- 10 módulos analíticos e duas famílias históricas identificadas
+- resultados, UNKNOWN, estabilidade, prioridade e confiança com denominadores explícitos
+- 1.045 campos documentados, 55 referências e 20 resumos auditados
+- separação obrigatória entre registros físicos, poços únicos e evidências independentes
+
+O estudo completo está em `docs/estatisticas-estudo-completo.html`. A fonte reproduzível é `scripts/build_project_statistics_v271.py`.
 
 ## Experiência móvel e instalação V2.7
 

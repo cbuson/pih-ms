@@ -1,3 +1,13 @@
+# V2.7.1 · estudo estatístico completo e identidade hexagonal · 2026-09-02
+
+- gota de água integrada dentro de um hexágono no cabeçalho e nos ícones PWA
+- nova vista Estudo completo dentro do modal de Estatísticas
+- nova página documental independente com o processo científico completo
+- inventário reproduzível de arquivos, matrizes, módulos, camadas, perguntas e requisitos
+- estatísticas do processo com alcance e denominadores explícitos
+- documentação integrada atualizada para a V2.7.1
+- nenhuma alteração nos dados, regras, classes ou resultados científicos da V2.6
+
 # V2.7 · experiência móvel, estatísticas visuais e PWA · 2026-09-01
 
 - ajuda e informação identificadas na barra azul móvel

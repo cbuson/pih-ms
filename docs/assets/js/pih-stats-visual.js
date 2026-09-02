@@ -5,8 +5,9 @@
   const dashboard = document.getElementById('statsVisualDashboard');
   const tabs = [...document.querySelectorAll('[data-stats-view]')];
   const visualPanel = document.getElementById('statsVisualPanel');
+  const fullPanel = document.getElementById('statsFullPanel');
   const tablesPanel = document.getElementById('statsTablesPanel');
-  if (!dashboard || !visualPanel || !tablesPanel || tabs.length !== 2) return;
+  if (!dashboard || !visualPanel || !fullPanel || !tablesPanel || tabs.length < 3) return;
 
   const colors = {
     red: '#b2182b',
@@ -128,13 +129,12 @@
         ${card('Persistência entre escalas', 'Situação da evidência direta nos 14.284 pontos fixos de suporte para cada pergunta.', stackedRows(stability, stabilitySegments, 'support_points_n', 'question_code') + legend(stabilitySegments), true)}
         ${card('Carências documentais decisivas', 'Valores globais preservados pelo auditor científico.', gaps, true)}
       </div>
-      <p class="stats-visual-note">Leitura obrigatória. As barras descrevem o conjunto adquirido. Elas não demonstram ausência física, representatividade territorial, potencial aquífero ou prioridade integrada. Abra 20 tabelas para consultar todos os campos, fontes e denominadores.</p>`;
+      <p class="stats-visual-note">Leitura obrigatória. As barras descrevem o conjunto adquirido. Elas não demonstram ausência física, representatividade territorial, potencial aquífero ou prioridade integrada. Abra Estudo completo para conhecer todo o processo ou 20 tabelas para consultar os resumos auditados.</p>`;
   }
 
   function selectView(name, focus = false) {
-    const visual = name === 'visual';
-    visualPanel.hidden = !visual;
-    tablesPanel.hidden = visual;
+    const panels = { visual: visualPanel, full: fullPanel, tables: tablesPanel };
+    Object.entries(panels).forEach(([id, panel]) => { panel.hidden = id !== name; });
     tabs.forEach(tab => {
       const active = tab.dataset.statsView === name;
       tab.classList.toggle('active', active);
@@ -148,7 +148,9 @@
   tabs.forEach(tab => tab.addEventListener('keydown', event => {
     if (!['ArrowLeft', 'ArrowRight'].includes(event.key)) return;
     event.preventDefault();
-    selectView(tab.dataset.statsView === 'visual' ? 'tables' : 'visual', true);
+    const index = tabs.indexOf(tab);
+    const offset = event.key === 'ArrowRight' ? 1 : -1;
+    selectView(tabs[(index + offset + tabs.length) % tabs.length].dataset.statsView, true);
   }));
 
   fetch('./data/statistics/statistics_v26.json', { cache: 'no-store' })

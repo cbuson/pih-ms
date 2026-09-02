@@ -1,11 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
   <title id="title">PIH MS</title>
-  <desc id="description">Gota de água sobre fundo azul</desc>
+  <desc id="description">Gota de água dentro de um hexágono</desc>
   <defs>
-    <linearGradient id="background" x1="64" y1="40" x2="448" y2="472" gradientUnits="userSpaceOnUse"><stop stop-color="#063b63"/><stop offset="1" stop-color="#087da2"/></linearGradient>
-    <linearGradient id="water" x1="256" y1="116" x2="256" y2="396" gradientUnits="userSpaceOnUse"><stop stop-color="#d9f6ff"/><stop offset=".52" stop-color="#80d8e5"/><stop offset="1" stop-color="#25a7aa"/></linearGradient>
+    <linearGradient id="hex" x1="108" y1="86" x2="412" y2="438" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#063b63"/>
+      <stop offset="1" stop-color="#087da2"/>
+    </linearGradient>
+    <linearGradient id="water" x1="256" y1="132" x2="256" y2="398" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/>
+      <stop offset="0.52" stop-color="#a8e8f1"/>
+      <stop offset="1" stop-color="#39b7bc"/>
+    </linearGradient>
   </defs>
-  <rect x="24" y="24" width="464" height="464" rx="112" fill="url(#background)"/>
-  <path d="M256 98c-21 41-108 139-108 222 0 65 48 112 108 112s108-47 108-112c0-83-87-181-108-222Z" fill="url(#water)" stroke="#fff" stroke-width="14" stroke-linejoin="round"/>
-  <path d="M197 321c4 37 28 61 65 66" fill="none" stroke="#fff" stroke-width="16" stroke-linecap="round" opacity=".72"/>
+  <path d="M256 34 448 145v222L256 478 64 367V145Z" fill="url(#hex)" stroke="#83cfef" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M256 119c-19 38-98 128-98 203 0 60 44 103 98 103s98-43 98-103c0-75-79-165-98-203Z" fill="url(#water)" stroke="#ffffff" stroke-width="13" stroke-linejoin="round"/>
+  <path d="M202 324c4 33 26 55 59 59" fill="none" stroke="#ffffff" stroke-width="15" stroke-linecap="round" opacity="0.72"/>
 </svg>
